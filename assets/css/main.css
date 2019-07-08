@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
     width: 60%;
@@ -13,7 +13,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     text-align: left;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
