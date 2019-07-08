@@ -26,6 +26,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+a.blog-landing {
+    padding: 5px;
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -63,5 +66,5 @@ div.image {
     margin: auto;
 }
 div.text {
-    font-size: 0.6em;
+    font-size: 1em;
 }

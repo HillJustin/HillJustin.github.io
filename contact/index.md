@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "contact | Justin Hill"
+title: "contact"
 ---
 
 # call for work
