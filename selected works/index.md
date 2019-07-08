@@ -25,10 +25,10 @@ last updated: July 08, 2019
 
 ## poetry
 
-* "[the Night]()," The Exhibitionist (January 2015)
-* "[Thoughts from a High School Senior]()," The Exhibitionist (October 2014)
-* "[Surrender]()," The Exhibitionist (July 2014)
-* "[age vitam]()," The Exhibitionist (April 2014)
+* "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)," The Exhibitionist (January 2015)
+* "[Thoughts from a High School Senior](https://thexzbt.files.wordpress.com/2014/10/2014-4.pdf)," The Exhibitionist (October 2014)
+* "[Surrender](https://thexzbt.files.wordpress.com/2014/10/2014-3.pdf)," The Exhibitionist (July 2014)
+* "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)," The Exhibitionist (April 2014)
 
 
 ## editing
