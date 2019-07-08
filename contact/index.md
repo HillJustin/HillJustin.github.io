@@ -7,4 +7,4 @@ title: "contact | Justin Hill"
 
 email: hill.justin.andrew@gmail.com
 phone: 254/459-9632
-LinkedIn: (LinkedIn.com/in/hilljustina)[https://www.linkedin.com/in/hilljustina]
+LinkedIn: [LinkedIn.com/in/hilljustina](https://www.linkedin.com/in/hilljustina)
