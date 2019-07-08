@@ -41,8 +41,14 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 img {
     width: 50%;
     height: 50%;
     object-fit: scale-down;
+}
+
+div.container {
+    width: 60%;
+    margin: auto;
 }
