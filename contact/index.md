@@ -3,6 +3,10 @@ layout: default
 title: "contact | Justin Hill"
 ---
 
+# call for work
+
+<!-- insert blurb about seeking collabs -->
+
 # contact info
 
 email: hill.justin.andrew@gmail.com

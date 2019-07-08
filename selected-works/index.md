@@ -7,7 +7,7 @@ title: "selected works"
 
 last updated: July 08, 2019
 
-*I apologize for the naïve Ayn Rand references in some of my poetry bios; I too was young at one point.*{: style="font-size: 0.6em"}
+I apologize for the naïve Ayn Rand references in some of my poetry bios; I too was young at one point.{: style="font-size: 0.6em"}
 <!-- blurb about current projects -->
 
 
