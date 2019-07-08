@@ -45,6 +45,8 @@ ul.posts li {
 }
 
 img {
+    width: auto;
+    height: auto;
     object-fit: scale-down;
 }
 
