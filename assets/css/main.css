@@ -7,6 +7,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    margin: auto;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -49,6 +50,11 @@ img {
 }
 
 div.container {
+    width: 60%;
+    margin: auto;
+}
+
+div.image {
     width: 60%;
     margin: auto;
 }
