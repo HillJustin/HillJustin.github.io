@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 img {
-    width: 80%;
-    height: auto;
+    width: 50%;
+    height: 50%;
     object-fit: scale-down;
 }
