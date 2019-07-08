@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "writing"
+title: "selected works"
 ---
 
-# writing
+# selected works
 last updated: July 08, 2019
 
 <!-- blurb about current projects -->
 
-### essays
+## essays
 
 
-### presentations
+## presentations
 
 
-### poetry
+## poetry
