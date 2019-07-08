@@ -7,7 +7,7 @@ title: "selected works"
 
 last updated: July 08, 2019
 
-I apologize for the naïve Ayn Rand references in some of my poetry bios; I too was young at one point.{: style="font-size: 0.6em"}
+I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.{: style="font-size: 0.6em"}
 <!-- blurb about current projects -->
 
 
@@ -33,7 +33,7 @@ I apologize for the naïve Ayn Rand references in some of my poetry bios; I too 
 
 ## editing
 
-I am actively seeking philosophical and sociological papers in need of editing and proofreading; please get in touch with me via university email or LinkedIn if you would like pro bono academic editing.
+I am actively seeking philosophical and sociological papers in need of editing and proofreading; please get in touch with me via university email or LinkedIn if you would like pro bono academic editing.{: style="font-size: 0.6em"}
 
 * "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), under review by the Journal of Ethics
 
