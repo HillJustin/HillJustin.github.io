@@ -39,7 +39,13 @@ last updated: July 08, 2019
 
 ## theatrical experience
 
-*
+* Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
+* Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
+* Lighting Design (never performed), UNT Theatre Department, *Haiku* (October-December 2015)
+* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
+* Lighting Hang & Focus, UNT Theatre Department, *The Philadelphia Story* (October 2015)
+* George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
+* General Silas Chambers, HHS OAP, *A Rose for Emily* (April 2013)
 
 
 ## works in progress
