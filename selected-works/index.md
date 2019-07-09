@@ -66,5 +66,5 @@ last updated: July 08, 2019
 * "Authoritarian Calculability in the Finality of Death: Police Brutality as Weberian Rationalization"
 * "Kant for Kids: Plain Language Dialogues on the *Prolegomena*"
 * "Missed Opportunities: Poverty, Stress Management, and Mindfulness Practices for Elementary Students"
-* "Asceticism in Horkheimer & Adorno: Understanding the Culture Industry in Light of Weber's *Protestant Ethic*"
+* "Asceticism in Horkheimer & Adorno: Understanding 'The Culture Industry' in Light of Weber's *Protestant Ethic*"
 * "On Sufficient Worth of Liberty: A Response to John Rawls, Thomas Scanlon, and Norman Daniels"
