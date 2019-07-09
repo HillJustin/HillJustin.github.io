@@ -44,7 +44,9 @@ last updated: July 08, 2019
 * Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)\
 <div class="haiku-files">
   {% for haiku-file in site.haiku-files %}
-      * [{{ haiku.url | remove_first: "https://hilljustin.github.io/_haiku/" }}]({{ haiku.url }})
+      <a href="{{haiku.url}}">
+        {{ haiku.url | remove_first: "https://hilljustin.github.io/_haiku/" }}
+      </a>
   {% endfor %}
 </div>
   <!-- iterate with collection
