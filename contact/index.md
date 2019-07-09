@@ -5,7 +5,16 @@ title: "contact"
 
 # call for work
 
-<!-- insert blurb about seeking collabs -->
+<!--
+insert blurb about seeking collabs
+
+research/dialectic
+
+editing & proofreading
+
+poetry, creative direction, and critical aesthetics
+
+ -->
 
 # contact info
 
