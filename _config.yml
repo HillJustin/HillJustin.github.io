@@ -1,7 +1,3 @@
 name: Justin Hill, philosopher
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-collections:
-  - haiku-files
-  haiku-files:
-    output: true
