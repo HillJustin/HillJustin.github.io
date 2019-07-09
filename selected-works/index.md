@@ -30,11 +30,11 @@ last updated: July 08, 2019
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)," The Exhibitionist (April 2014)
 
 
-## editing
+## editing & proofreading
 
 <div class="text">In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
 
-* "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), under review by the Journal of Ethics
+* "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), mentioned in footnotes, under review by the Journal of Ethics
 
 
 ## theatrical experience
@@ -42,7 +42,11 @@ last updated: July 08, 2019
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
 * Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)
-  <!-- iterate with collection -->
+  {% for haiku in site.haiku %}
+      * [{{ haiku.url | remove_first: "https://hilljustin.github.io/_haiku/" }}]({{ haiku.url }})
+  {% endfor %}  
+
+  <!-- iterate with collection
   * [concept](assets/pdfs/haiku/concept.pdf)
   * [workbook](assets/pdfs/haiku/workbook.pdf)
   * [channel schedule](assets/pdfs/haiku/channel-schedule.pdf)
@@ -50,7 +54,7 @@ last updated: July 08, 2019
   * [instrument schedule](assets/pdfs/haiku/instrument-schedule.pdf)
   * [](assets/pdfs/haiku/)
   * [](assets/pdfs/haiku/)
-  * [](assets/pdfs/haiku/)
+  * [](assets/pdfs/haiku/) -->
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
 * Lighting Hang & Focus, UNT Theatre Department, *The Philadelphia Story* (October 2015)
 * George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
