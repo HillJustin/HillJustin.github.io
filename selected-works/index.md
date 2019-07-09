@@ -42,28 +42,14 @@ last updated: July 08, 2019
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
 * Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)
-<div class="text">
-  <ul>
-    <ul>
-      {% for haiku-file in site.haiku-files %}
-        <li>
-          <a href="{{haiku.url}}">
-            {{ haiku.url | remove_first: "https://hilljustin.github.io/_haiku/" }}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-  </ul>
-</div>
-{% comment %} iterate with collection
-  * [concept](assets/pdfs/haiku/concept.pdf)
-  * [workbook](assets/pdfs/haiku/workbook.pdf)
-  * [channel schedule](assets/pdfs/haiku/channel-schedule.pdf)
-  * [color hookup](assets/pdfs/haiku/color-hookup.pdf)
-  * [instrument schedule](assets/pdfs/haiku/instrument-schedule.pdf)
-  * [](assets/pdfs/haiku/)
-  * [](assets/pdfs/haiku/)
-  * [](assets/pdfs/haiku/) {% endcomment %}
+  * [concept](assets/pdfs/haiku-files/concept.pdf)
+  * [workbook](assets/pdfs/haiku-files/workbook.pdf)
+  * [channel schedule](assets/pdfs/haiku-files/channel-schedule.pdf)
+  * [color hookup](assets/pdfs/haiku-files/color-hookup.pdf)
+  * [instrument schedule](assets/pdfs/haiku-files/instrument-schedule.pdf)
+  * [](assets/pdfs/haiku-files/)
+  * [](assets/pdfs/haiku-files/)
+  * [](assets/pdfs/haiku-files/)
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
 * Lighting Hang & Focus, UNT Theatre Department, *The Philadelphia Story* (October 2015)
 * George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
