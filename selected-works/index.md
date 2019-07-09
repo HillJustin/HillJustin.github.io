@@ -39,11 +39,12 @@ last updated: July 08, 2019
 
 ## theatrical experience
 
-* Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016) **[links under construction]**
-  * [concept](assets/pdfs/haiku-files/concept.pdf)
-  * [workbook](assets/pdfs/haiku-files/workbook.pdf)
-  * [channel schedule](assets/pdfs/haiku-files/channel-schedule.pdf)
-  * [color hookup](assets/pdfs/haiku-files/color-hookup.pdf)
+* Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016)
+  * [emotional cue synopsis](assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
+  * [cue sheet](assets/pdfs/haiku-files/cue-sheet.pdf)
+  * [light plot](assets/pdfs/haiku-files/light-plot.pdf)
+  * [magic sheet](assets/pdfs/haiku-files/light-plot.pdf)
+  * [channel hookup](assets/pdfs/haiku-files/channel-hookup.pdf)
   * [instrument schedule](assets/pdfs/haiku-files/instrument-schedule.pdf)
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
