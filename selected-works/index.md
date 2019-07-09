@@ -41,11 +41,12 @@ last updated: July 08, 2019
 
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
-* Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)\\
+* Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)\
+<div class="haiku-files">
   {% for haiku-file in site.haiku-files %}
       * [{{ haiku.url | remove_first: "https://hilljustin.github.io/_haiku/" }}]({{ haiku.url }})
   {% endfor %}
-
+</div>
   <!-- iterate with collection
   * [concept](assets/pdfs/haiku/concept.pdf)
   * [workbook](assets/pdfs/haiku/workbook.pdf)
