@@ -42,7 +42,7 @@ last updated: July 08, 2019
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
 * Lighting Design (never performed), UNT THEA 1030, *Haiku* (October-December 2015)
-  * [concept](assets/pdfs/haiku-files/concept.pdf)
+* [concept](assets/pdfs/haiku-files/concept.pdf)
   * [workbook](assets/pdfs/haiku-files/workbook.pdf)
   * [channel schedule](assets/pdfs/haiku-files/channel-schedule.pdf)
   * [color hookup](assets/pdfs/haiku-files/color-hookup.pdf)
