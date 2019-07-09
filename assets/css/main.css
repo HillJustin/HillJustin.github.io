@@ -61,10 +61,10 @@ div.container {
     width: 60%;
     margin: auto;
 }
-div.image {
-    width: 60%;
-    margin: auto;
-}
 div.text {
     font-size: 1em;
+}
+div.ul {
+  width: 60%;
+  margin: auto;
 }
