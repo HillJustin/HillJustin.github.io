@@ -18,8 +18,8 @@ last updated: July 08, 2019
 
 ## presentations
 
-* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](../assets/pdfs/2018-12-03-estrangement.pdf)," [UHD's "Back to the Sources": 2018 History, Humanities, & Languages Student Research Conference](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf), Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
-* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](assets/pdfs/2017-12-04-erroneous-opinions.pdf)," [UHD's Back to the Sources": 2017 History, Humanities, & Languages Student Research Conference](assets/pdfs/2017-12-04-conference-program.pdf), Panel 3B: Exploring Truth and Power, Dec 4, 2017
+* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," [UHD's "Back to the Sources": 2018 History, Humanities, & Languages Student Research Conference](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf), Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
+* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," [UHD's Back to the Sources": 2017 History, Humanities, & Languages Student Research Conference](/assets/pdfs/2017-12-04-conference-program.pdf), Panel 3B: Exploring Truth and Power, Dec 4, 2017
 
 
 ## poetry
@@ -40,12 +40,12 @@ last updated: July 08, 2019
 ## theatrical experience
 
 * Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016)
-  * [emotional cue synopsis](assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
-  * [cue sheet](assets/pdfs/haiku-files/cue-sheet.pdf)
-  * [light plot](assets/pdfs/haiku-files/light-plot.pdf)
-  * [magic sheet](assets/pdfs/haiku-files/light-plot.pdf)
-  * [channel hookup](assets/pdfs/haiku-files/channel-hookup.pdf)
-  * [instrument schedule](assets/pdfs/haiku-files/instrument-schedule.pdf)
+  * [emotional cue synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
+  * [cue sheet](/assets/pdfs/haiku-files/cue-sheet.pdf)
+  * [light plot](/assets/pdfs/haiku-files/light-plot.pdf)
+  * [magic sheet](/assets/pdfs/haiku-files/light-plot.pdf)
+  * [channel hookup](/assets/pdfs/haiku-files/channel-hookup.pdf)
+  * [instrument schedule](/assets/pdfs/haiku-files/instrument-schedule.pdf)
 * Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
 * Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
