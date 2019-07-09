@@ -49,7 +49,7 @@ last updated: July 08, 2019
       </a>
   {% endfor %}
 </div>
-  <!-- iterate with collection
+{% comment %} iterate with collection
   * [concept](assets/pdfs/haiku/concept.pdf)
   * [workbook](assets/pdfs/haiku/workbook.pdf)
   * [channel schedule](assets/pdfs/haiku/channel-schedule.pdf)
@@ -57,7 +57,7 @@ last updated: July 08, 2019
   * [instrument schedule](assets/pdfs/haiku/instrument-schedule.pdf)
   * [](assets/pdfs/haiku/)
   * [](assets/pdfs/haiku/)
-  * [](assets/pdfs/haiku/) -->
+  * [](assets/pdfs/haiku/) {% endcomment %}
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
 * Lighting Hang & Focus, UNT Theatre Department, *The Philadelphia Story* (October 2015)
 * George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
