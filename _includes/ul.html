@@ -1,0 +1,6 @@
+<!<!DOCTYPE html>
+<html>
+  <ul>
+    {$ for hfile in site.assets.pdfs.hfiles %}
+    <li><a href="{{ hfile.url }}">{{ hfile.url }}</a></li>
+  </ul>

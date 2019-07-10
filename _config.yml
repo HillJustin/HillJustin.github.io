@@ -4,4 +4,3 @@ permalink: /blog/:year/:month/:day/:title
 collections:
   hfiles:
     output: true
-    permalink: /:collection/:name
