@@ -40,18 +40,6 @@ last updated: July 08, 2019
 ## theatrical experience
 
 * Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016)
-<div class="ul" markdown="0">
-  <ul>
-    {% for haiku-file in site.haiku-files %}
-      <li>
-        <a href="haiku-file.url">
-          {{ haiku-file.url }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
   * [emotional cue synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
   * [cue sheet](/assets/pdfs/haiku-files/cue-sheet.pdf)
   * [light plot](/assets/pdfs/haiku-files/light-plot.pdf)
