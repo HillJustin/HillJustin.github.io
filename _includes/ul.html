@@ -1,6 +1,6 @@
 <!<!DOCTYPE html>
 <html>
   <ul>
-    {$ for hfile in site.assets.pdfs.hfiles %}
+    {$ for {{ include.pdf_path }} in site.{{ include.pdf_path }} %}
     <li><a href="{{ hfile.url }}">{{ hfile.url }}</a></li>
   </ul>

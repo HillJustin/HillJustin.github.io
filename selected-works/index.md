@@ -32,7 +32,7 @@ last updated: July 08, 2019
 
 ## editing & proofreading
 
-<div class="text">In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
+> <div class="text">In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
 
 * "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), mentioned in footnotes, under review by the Journal of Ethics
 

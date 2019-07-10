@@ -10,7 +10,8 @@ nav ul, footer ul {
     margin: auto;
 }
 nav ul {
-    width: 60%;
+    width: 95%;
+    max-width: 800px;
 }
 footer ul {
     width: 100%;
@@ -53,12 +54,12 @@ ul.posts li {
 }
 img {
     width: 80%;
-    height: auto;
     object-fit: scale-down;
     margin: auto;
 }
 div.container {
-    width: 60%;
+    width: 95%;
+    max-width: 800px;
     margin: auto;
 }
 div.image {
@@ -69,6 +70,6 @@ div.text {
     font-size: 1em;
 }
 div.ul {
-    width: 60%;
+    width: 80%;
     margin: auto;
 }
