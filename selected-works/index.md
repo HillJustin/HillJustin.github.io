@@ -5,14 +5,14 @@ title: "selected works"
 
 # selected works
 
-last updated: July 08, 2019
+**last updated: July 08, 2019**
 
 <div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div>
 
 
 ## essays
 
-* "[Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November, 2019)
+* "[Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November 2019)
 * "[the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)," The Exhibitionist (January 2014)
 
 
