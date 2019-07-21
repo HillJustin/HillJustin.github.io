@@ -1,28 +1,30 @@
 ---
 layout: default
-title: "selected works"
+title: "Selected Works"
 ---
-
-# selected works
+<div class="hero-image">
+  <img src="/assets/images/selected-works-hero-image.jpg" alt="selected works hero image"/>
+</div>
 
 **last updated: July 08, 2019**
 
 <div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div>
 
 
-## essays
+## Academic Consulting
+
+<div class="text" align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
+
+* "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), mentioned in footnotes, under review by the Journal of Ethics
+
+
+## Essays
 
 * "[Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November 2019)
 * "[the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)," The Exhibitionist (January 2014)
 
 
-## presentations
-
-* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," [UHD's "Back to the Sources": 2018 History, Humanities, & Languages Student Research Conference](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf), Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
-* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," [UHD's Back to the Sources": 2017 History, Humanities, & Languages Student Research Conference](/assets/pdfs/2017-12-04-conference-program.pdf), Panel 3B: Exploring Truth and Power, Dec 4, 2017
-
-
-## poetry
+## Poetry
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)," The Exhibitionist (January 2015)
 * "[Thoughts from a High School Senior](https://thexzbt.files.wordpress.com/2014/10/2014-4.pdf)," The Exhibitionist (October 2014)
@@ -30,14 +32,14 @@ title: "selected works"
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)," The Exhibitionist (April 2014)
 
 
-## editing & proofreading
 
-<div class="text" align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
+## Presentations
 
-* "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), mentioned in footnotes, under review by the Journal of Ethics
+* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
+* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power, Dec 4, 2017
 
 
-## theatrical experience
+## Theatrical Experience
 
 * Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016)
   * [emotional cue synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
@@ -54,7 +56,7 @@ title: "selected works"
 * General Silas Chambers, HHS OAP, *A Rose for Emily* (April 2013)
 
 
-## works in progress
+## Works in Progress
 
 * "Authoritarian Calculability in the Finality of Death: Police Brutality as Weberian Rationalization"
 * "Kant for Kids: Plain Language Dialogues on the *Prolegomena*"

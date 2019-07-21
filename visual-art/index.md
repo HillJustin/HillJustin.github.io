@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "visual art"
+title: "Visual Art"
 ---
 
-# visual art [under construction]
+# {{ page.title }} [under construction]
 
 Please check back at a later date; this portion of the site is still under construction.

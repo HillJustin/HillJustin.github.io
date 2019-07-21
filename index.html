@@ -1,18 +1,14 @@
 ---
 layout: default
-title: "home"
+title: "Home"
 ---
+
+<div class="hero-image">
+	<img src="/assets/images/home-hero-image.jpg" alt="">
+</div>
+<br>
 <div class="blurb">
-	<h1>Justin Hill, philosopher</h1>
-	<div class="image"><img src="/assets/images/landing-page-headshot.png"></div><!-- subcontainer for img -->
-	<p align="justify">Welcome to my personal website! My name is Justin Hill, and I am a full-time philosophy grad student at Stony Brook University. My research is broadly focused on ideology critique and the possibility of radical social progress, especially through aesthetics, imagination, and belief. Naturally, this also leads to strong interests in affect theory, phenomenology, hermeneutics, psychoanalysis, and subjectivity on the whole.</p>
-	<p align="justify">I am also a poet, painter, pen & ink artist, and freelance researcher, writer, and editor. I have spent a year as a research and policy analysis intern for Children at Risk in Houston, TX, two years as a writing and philosophy tutor, and three years as an essayist. My poetry has been published in an online magazine, and my visual works have largely graced solely the eyes of friends and family.</p>
-	<p align="justify"> Feel free to take a look at my <a href="/selected-works">work</a> and <a href="/contact">reach out</a> if you are interested in working together. All the best.</p>
-	<ul>
-		{% for hfile in site.hfiles %}
-			<li>
-				<h3><a href="{{ hfile.url }}">{{ hfile.url | remove_first: "https://hilljustin.github.io/_hfiles/"}}</a></h3>
-			</li>
-		{% endfor %}
-	</ul>
+	<p name="about-me" class="main" align="justify">Welcome to my personal website! My name is Justin Hill, and I am a full-time philosophy grad student at Stony Brook University. My research is broadly focused on ideology critique and the possibility of radical social progress, especially through aesthetics, imagination, and belief. Naturally, this also leads to strong interests in affect theory, phenomenology, hermeneutics, psychoanalysis, and subjectivity on the whole.</p>
+	<p class="main" align="justify">I am also a poet, painter, pen & ink artist, and freelance researcher, writer, and editor. I have spent a year as a research and policy analysis intern for Children at Risk in Houston, TX, two years as a writing and philosophy tutor, and three years as an essayist. My poetry has been published in an online magazine, and my visual works have largely graced solely the eyes of friends and family.</p>
+	<p class="main" align="justify"> Feel free to take a look at my <a href="/selected-works">work</a> and <a href="/contact">reach out</a> if you are interested in working together. All the best.</p>
 </div><!-- /.blurb -->

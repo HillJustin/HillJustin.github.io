@@ -1,25 +1,16 @@
 ---
 layout: default
-title: "contact"
+title: "Contact Information"
 ---
 
-# call for work
+<div class="hero-image">
+  <img src="/assets/images/contact-hero-image.jpg" alt="contact page hero image"/>
+</div>
 
-<!--
-insert blurb about seeking collabs
+### email: hill.justin.andrew@gmail.com
 
-research/dialectic
+### phone: <span style="none">254/459-9632</span>
 
-editing & proofreading
+### LinkedIn: [linkedin.com/in/hilljustina](https://www.linkedin.com/in/hilljustina)
 
-poetry, creative direction, and critical aesthetics
-
- -->
-
-# contact info
-
-email: hill.justin.andrew@gmail.com
-
-phone: 254/459-9632
-
-LinkedIn: [LinkedIn.com/in/hilljustina](https://www.linkedin.com/in/hilljustina)
+<br>
