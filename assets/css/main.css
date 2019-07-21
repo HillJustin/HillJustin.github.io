@@ -91,9 +91,6 @@ div.ul {
     width: 80%;
     margin: auto;
 }
-body, html {
-    height: 100%;
-}
 div.hero-image img {
     width: 100%;
     object-fit: contain;
