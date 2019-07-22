@@ -5,7 +5,7 @@ title: "Contact Information"
 
 <div class="hero-image">
   <img src="/assets/images/contact-hero-image.jpg" alt="contact page hero image"/>
-</div>
+</div><!-- /.hero-image -->
 
 #### email: hill.justin.andrew@gmail.com
 

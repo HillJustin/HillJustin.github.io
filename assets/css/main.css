@@ -9,16 +9,6 @@ nav ul, footer ul {
     font-weight: bold;
     margin: auto;
 }
-table.name {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  padding: 5px;
-  list-style: none;
-  font-weight: bold;
-  font-size: 1.1em;
-  max-width: 1000px;
-  margin: auto;
-  align-self: flex-start;
-}
 nav ul {
     width: 100%;
     max-width: 1000px;
@@ -38,29 +28,26 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #765885;
 }
 a:hover {
     text-decoration: underline;
-}
-a.blog-landing {
-    padding: 5px;
 }
 h1 {
     font-size: 2.5em;
     font-family: 'Georgia', 'Arial', 'Sans-Serif';
 }
-p.main {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+ul.sw {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 ul.posts {
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 ul.posts li {
-    list-style: none;
+    list-style-type: none;
 }
 img {
     width: 80%;
@@ -73,13 +60,11 @@ div.container {
     margin: auto;
     align-items: center;
 }
-div.image {
-    width: 100%;
-    margin: auto;
-}
-table.name {
-    border-width: thin;
-    border-style: solid;
+div.blurb p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    text-align: justify;
 }
 div.navbar {
     white-space: nowrap;

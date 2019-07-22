@@ -4,24 +4,32 @@ title: "Selected Works"
 ---
 <div class="hero-image">
   <img src="/assets/images/selected-works-hero-image.jpg" alt="selected works hero image"/>
-</div>
+</div><!-- /.hero-image -->
 
 **last updated: July 08, 2019**
 
-<div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div>
+<div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div><!-- /.text -->
+
+<br>
 
 
 ## Academic Consulting
 
-<div class="text" align="justify"> In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div>
+<div class="text" align="justify"> &nbsp; In an effort to expand my credentials in this section, I am actively seeking philosophical and sociological papers in want of thorough and thoughtful editing. Please get in touch with me from a university email address or via LinkedIn if you would like me to take a complimentary look at your work. <strong>Serious inquiries only.</strong></div><!-- /.text -->
 
 * "Is it Possible to be Better Off Dead? Epicurus and Physician Assisted Suicide," by Dr. Andrew Pavelich (University of Houston-Downtown), mentioned in footnotes, under review by the Journal of Ethics
+
+<br>
 
 
 ## Essays
 
-* "[Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November 2019)
-* "[the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)," The Exhibitionist (January 2014)
+<ul class>
+  <li><a href="/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf">Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics</a>," Dialogue: Journal of Phi Sigma Tau (November 2019)</li>
+  <li><a href="https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf">the purpose of Purpose</a>," The Exhibitionist (January 2014)</li>
+</ul>
+
+<br>
 
 
 ## Poetry
@@ -31,12 +39,15 @@ title: "Selected Works"
 * "[Surrender](https://thexzbt.files.wordpress.com/2014/10/2014-3.pdf)," The Exhibitionist (July 2014)
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)," The Exhibitionist (April 2014)
 
+<br>
 
 
 ## Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
 * "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power, Dec 4, 2017
+
+<br>
 
 
 ## Theatrical Experience
@@ -55,6 +66,8 @@ title: "Selected Works"
 * George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
 * General Silas Chambers, HHS OAP, *A Rose for Emily* (April 2013)
 
+<br>
+
 
 ## Works in Progress
 
@@ -64,4 +77,4 @@ title: "Selected Works"
 * "Asceticism in Horkheimer & Adorno: Understanding 'The Culture Industry' in Light of Weber's *Protestant Ethic*"
 * "On Sufficient Worth of Liberty: A Response to John Rawls, Thomas Scanlon, and Norman Daniels"
 
-&nbsp;
+<br>
