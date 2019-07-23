@@ -94,8 +94,9 @@ Private Tutor (Literature and Math)<br>
 * **UHD Writing & Reading Center**<br>
 *January 2018 - September 2018*<br>
 Peer Tutor (Writing)<br>
-Committees: Special Events & Recognition and Awards<br>
-College Reading & Learning Association Level 1 Tutor Certification<br>
+Recognition and Awards Committee<br>
+Special Events Committee<br>
+College Reading & Learning Association, Level 1 Tutor Certification<br>
 <br>
 * **UHD Peer Mentor Program**<br>
 *January 2018 - May 2018*<br>
