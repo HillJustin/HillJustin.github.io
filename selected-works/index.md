@@ -3,10 +3,10 @@ layout: default
 title: "Selected Works"
 ---
 <div class="hero-image">
-  <img src="/assets/images/selected-works-hero-image.jpg" alt="selected works hero image"/>
+  <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
 </div><!-- /.hero-image -->
 
-**last updated: July 08, 2019**
+**last updated: July 21, 2019**
 
 <div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div><!-- /.text -->
 
@@ -22,12 +22,24 @@ title: "Selected Works"
 <br>
 
 
+## Conference Presentations
+
+* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
+* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power, Dec 4, 2017
+
+<br>
+
+
 ## Essays
 
-<ul class>
-  <li><a href="/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf">Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics</a>," Dialogue: Journal of Phi Sigma Tau (November 2019)</li>
-  <li><a href="https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf">the purpose of Purpose</a>," The Exhibitionist (January 2014)</li>
-</ul>
+* ["the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)," The Exhibitionist (January 2014)
+
+<br>
+
+
+## Journal Publications
+
+* ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November 2019)
 
 <br>
 
@@ -42,29 +54,52 @@ title: "Selected Works"
 <br>
 
 
-## Presentations
-
-* "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
-* "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power, Dec 4, 2017
-
-<br>
-
-
 ## Theatrical Experience
 
-* Lighting Design (never performed), Lone Star College DRAM 1310, *Haiku* (October-December 2016)
+* Lighting Design (never performed), *Haiku*, Lone Star College DRAM 1310 (October-December 2016)
   * [emotional cue synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
   * [cue sheet](/assets/pdfs/haiku-files/cue-sheet.pdf)
   * [light plot](/assets/pdfs/haiku-files/light-plot.pdf)
   * [magic sheet](/assets/pdfs/haiku-files/magic-sheet.pdf)
   * [channel hookup](/assets/pdfs/haiku-files/channel-hookup.pdf)
   * [instrument schedule](/assets/pdfs/haiku-files/instrument-schedule.pdf)
-* Lighting Hang & Focus, University of North Texas (UNT) Theatre Department, *Merry Wives of Windsor* (April 2016)
-* Lighting Hang & Focus, UNT Theatre Department, *Faculty Dance Concert* (January & February 2016)
-* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, University Players UNT, *The Angelina Project* (November 2015)
-* Lighting Hang & Focus, UNT Theatre Department, *The Philadelphia Story* (October 2015)
-* George Spelvin, Huckabay High School (HHS) One-Act Play (OAP), *The Actor's Nightmare* (April 2014)
-* General Silas Chambers, HHS OAP, *A Rose for Emily* (April 2013)
+* Lighting Hang & Focus, *Merry Wives of Windsor*, University of North Texas (UNT) Theatre Department (April 2016)
+* Lighting Hang & Focus, *Faculty Dance Concert*, UNT Theatre Department (January & February 2016)
+* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, *The Angelina Project*, University Players UNT (November 2015)
+* Lighting Hang & Focus, *The Philadelphia Story*, UNT Theatre Department (October 2015)
+* George Spelvin, *The Actor's Nightmare*, Huckabay High School (HHS) One-Act Play (April 2014)
+* General Silas Chambers, *A Rose for Emily*, HHS One-Act Play (April 2013)
+
+<br>
+
+
+## Tutoring and Higher Education
+
+* **Chegg Tutors**<br>
+*June 2018 - Present*<br>
+Private Tutor (Ethics, Logic, Math, Sociology, and Writing)<br>
+<br>
+* **Varsity Tutors**<br>
+*August 2017 - Present*<br>
+Private Tutor (Ethics, Logic, Math, and Writing)<br>
+<br>
+* **UHD Supplemental Instruction (SI) Program**<br>
+*January 2019 - May 2019*<br>
+SI Leader (Introduction to Philosophy)<br>
+<br>
+* **Miz B's Tutorials**<br>
+*July 2018 - May 2019*<br>
+Private Tutor (Literature and Math)<br>
+<br>
+* **UHD Writing & Reading Center**<br>
+*January 2018 - September 2018*<br>
+Peer Tutor (Writing)<br>
+Committees: Special Events & Recognition and Awards<br>
+College Reading & Learning Association Level 1 Tutor Certification<br>
+<br>
+* **UHD Peer Mentor Program**<br>
+*January 2018 - May 2018*<br>
+Peer Mentor
 
 <br>
 

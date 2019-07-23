@@ -8,6 +8,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     margin: auto;
+    text-align: right;
 }
 nav ul {
     width: 100%;
@@ -35,7 +36,13 @@ a:hover {
 }
 h1 {
     font-size: 2.5em;
-    font-family: 'Georgia', 'Arial', 'Sans-Serif';
+    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
+}
+ul li {
+    font-size: 1.1em;
+    line-height: 1.15em;
+    margin-left: none;
+    padding-left: none;
 }
 ul.sw {
     list-style-type: none;
@@ -54,30 +61,44 @@ img {
     object-fit: contain;
     margin: auto;
 }
-div.container {
-    width: 100%;
-    max-width: 1000px;
-    margin: auto;
-    align-items: center;
-}
 div.blurb p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
 }
-div.navbar {
-    white-space: nowrap;
+div.contact p {
+    font-size: 1.3em;
+    line-height: 1.35em;
 }
-div.text {
-    font-size: 1em;
-}
-div.ul {
-    width: 80%;
+div.container {
+    width: 100%;
+    max-width: 1000px;
     margin: auto;
+    align-items: center;
 }
 div.hero-image img {
     width: 100%;
     object-fit: contain;
     margin-top: 3%;
+}
+div.navbar {
+    white-space: nowrap;
+}
+div.text {
+    font-size: 1.1em;
+    line-height: 1.15em;
+}
+div.ul {
+    width: 80%;
+    margin: auto;
+}
+div.visual-art img {
+    width: 100%;
+    object-fit: contain;
+}
+div.visual-art p {
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 1.15em;
 }
