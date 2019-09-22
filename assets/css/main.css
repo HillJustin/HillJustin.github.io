@@ -5,27 +5,34 @@ body {
 nav ul, footer ul {
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
-    list-style: none;
     font-weight: bold;
     margin: auto;
-    text-align: right;
 }
 nav ul {
     width: 100%;
     max-width: 1000px;
+    padding-bottom: 50px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     width: 100%;
     max-width: 1000px;
-    margin: auto;
+    margin: 60px auto;
     margin-bottom: 50px;
 }
+nav ul li:first-child {
+    float: left;
+    padding: 5px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #765885;
+}
 nav ul li, footer ul li {
-    display: inline;
     margin-left: 30px;
     margin-right: 5px;
+    float: right;
+    display: inline;
 }
 a {
     text-decoration: none;
@@ -43,6 +50,10 @@ ul li {
     line-height: 1.15em;
     margin-left: none;
     padding-left: none;
+}
+ul li ul li {
+    font-size: inherit;
+    line-height: inherit;
 }
 ul.sw {
     list-style-type: none;
@@ -82,7 +93,7 @@ div.hero-image img {
     object-fit: contain;
     margin-top: 3%;
 }
-div.navbar {
+div.nav {
     white-space: nowrap;
 }
 div.text {

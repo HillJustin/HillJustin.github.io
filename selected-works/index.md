@@ -6,7 +6,7 @@ title: "Selected Works"
   <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
 </div><!-- /.hero-image -->
 
-**last updated: July 21, 2019**
+**last updated: September 21, 2019**
 
 <div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I too was young at one point.</div><!-- /.text -->
 
@@ -73,44 +73,12 @@ title: "Selected Works"
 <br>
 
 
-## Tutoring and Higher Education
-
-* **Chegg Tutors**<br>
-*June 2018 - Present*<br>
-Private Tutor (Ethics, Logic, Math, Sociology, and Writing)<br>
-<br>
-* **Varsity Tutors**<br>
-*August 2017 - Present*<br>
-Private Tutor (Ethics, Logic, Math, and Writing)<br>
-<br>
-* **UHD Supplemental Instruction (SI) Program**<br>
-*January 2019 - May 2019*<br>
-SI Leader (Introduction to Philosophy)<br>
-<br>
-* **Miz B's Tutorials**<br>
-*July 2018 - May 2019*<br>
-Private Tutor (Literature and Math)<br>
-<br>
-* **UHD Writing & Reading Center**<br>
-*January 2018 - September 2018*<br>
-Peer Tutor (Writing)<br>
-Recognition and Awards Committee<br>
-Special Events Committee<br>
-College Reading & Learning Association, Level 1 Tutor Certification<br>
-<br>
-* **UHD Peer Mentor Program**<br>
-*January 2018 - May 2018*<br>
-Peer Mentor
-
-<br>
-
-
 ## Works in Progress
 
-* "Authoritarian Calculability in the Finality of Death: Police Brutality as Weberian Rationalization"
-* "Kant for Kids: Plain Language Dialogues on the *Prolegomena*"
-* "Missed Opportunities: Poverty, Stress Management, and Mindfulness Practices for Elementary Students"
-* "Asceticism in Horkheimer & Adorno: Understanding 'The Culture Industry' in Light of Weber's *Protestant Ethic*"
-* "On Sufficient Worth of Liberty: A Response to John Rawls, Thomas Scanlon, and Norman Daniels"
+* "Authoritarian Calculability in the Finality of Death: Police Brutality as Weberian Rationalization and the Conflict between Personal and Institutional Ends"
+* "Screen Schemas: Choice-Supportive Bias and the Reinscription and Reification of Mythic Theories"
+* "Warp and Weft: On Leaving Space for the Reader in Poetry and Critique"
+* "Threads and Tapestries: On a Thoroughly Historical Theory of Affects and Expressed Partials"
+* <u>Kant for Kids: Plain Language Dialogues on the <i>Prolegomena</i></u>
 
 <br>
