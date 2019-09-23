@@ -16,10 +16,8 @@ I conduct private tutoring sessions via Skype; below is a list of my past experi
 
 * **Private Philosophy Tutoring**<br>
 *Varsity Tutors (August 2017 - August 2019)*<br>
-Ethics, Logic, Math, and Writing<br>
-<br>
 *Chegg Tutors (June 2018 - May 2019)*<br>
-Ethics, Logic, Math, Sociology, and Writing<br>
+Ethics, Logic, and Writing<br>
 <br>
 * **UHD Supplemental Instruction (SI) Program**<br>
 *January 2019 - May 2019*<br>
