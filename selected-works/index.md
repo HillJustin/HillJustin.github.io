@@ -24,7 +24,7 @@ title: "Selected Works"
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)," The Exhibitionist (January 2015)
 * "[Thoughts from a High School Senior](https://thexzbt.files.wordpress.com/2014/10/2014-4.pdf)," The Exhibitionist (October 2014)
-* "[Surrender](https://thexzbt.files.wordpress.com/2014/10/2014-3.pdf)," The Exhibitionist (July 2014)
+* "[Surrender](https://thexzbt.files.wordpress.com/2013/10/2014-3.pdf)," The Exhibitionist (July 2014)
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)," The Exhibitionist (April 2014)
 * ["the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)," The Exhibitionist (January 2014)
 
