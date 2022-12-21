@@ -20,22 +20,6 @@ title: "Publications"
 <br>
 
 
-## Communications Direction
-
-* *Rebuilding with Lived Hospitality*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2020. Long-term communications strategy for rebuilding the Master's Program through relatable and personable lived experience in a post-pandemic, primarily virtual, alienated environment.
-
-<br>
-
-
-## Creative Direction
-
-* *Bringing in the Fold*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram marketing campaign and program website expansion, focused on  portraying a manifold of diverse student experiences.
-
-* *Taking Up Study in Brooklyn*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID.
-
-<br>
-
-
 ## Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)." UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy. Houston, Texas, December 3, 2018. (Refereed).
