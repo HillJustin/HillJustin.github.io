@@ -7,6 +7,8 @@ title: "Publications"
   <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
  </div><!-- /.hero-image -->
 
+# {{ page.title }}
+
 <br>
 
 ## Articles
