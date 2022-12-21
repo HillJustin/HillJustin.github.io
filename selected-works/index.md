@@ -6,10 +6,6 @@ title: "Selected Works"
   <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
 </div><!-- /.hero-image -->
 
-**last updated: April 20, 2021**
-
-<div class="text">I apologize for the naïve Ayn Rand references in some of my poetry biographies; I was young and naive.</div><!-- /.text -->
-
 <br>
 
 ## Publications
