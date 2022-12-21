@@ -20,7 +20,7 @@ title: "Publications"
 
 ## Creative Direction
 
-* *Bringing in the Fold*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. Instagram marketing campaign and program website expansion, focused on diversity, inclusion, and portraying a manifold of student experiences.
+* *Bringing in the Fold*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. Instagram marketing campaign and program website expansion, focused on  portraying a manifold of diverse student experiences.
 
 * *Taking Up Study in Brooklyn*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID.
 
