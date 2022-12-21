@@ -8,10 +8,7 @@ title: "Selected Works"
 
 <br>
 
-## Publications
-
-
-### Articles
+## Articles
 
 * ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-10-benjamin-adorno-spinoza.pdf)." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. (Refereed)
 
@@ -29,7 +26,7 @@ title: "Selected Works"
 <br>
 
 
-### Poetry
+## Poetry
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15.
 
@@ -42,7 +39,7 @@ title: "Selected Works"
 <br>
 
 
-### Visual Art
+## Visual Art
 
 * Three paintings. *HOPE*. Capital Culture House, Virtual, March 22 - 31, 2022.
 
