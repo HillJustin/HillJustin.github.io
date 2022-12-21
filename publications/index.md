@@ -17,6 +17,12 @@ title: "Selected Works"
 <br>
 
 
+## Creative Direction
+
+* *Bringing in the Fold*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. Instagram marketing campaign and program website expansion, focused on diversity, inclusion, and portraying a manifold of student experiences.
+
+* *Taking Up Study in Brooklyn*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID.
+
 ## Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)." UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy. Houston, Texas, December 3, 2018. (Refereed).
