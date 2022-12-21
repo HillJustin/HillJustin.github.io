@@ -13,7 +13,7 @@ title: "Selected Works"
 
 ### Philosophy
 
-* ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-11-benjamin-adorno-spinoza.pdf)," Dialogue: Journal of Phi Sigma Tau (November 2019)
+* ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-10-benjamin-adorno-spinoza.pdf)," *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. (Refereed)
 
 
 ### Poetry and Non-fiction
@@ -30,17 +30,5 @@ title: "Selected Works"
 ## Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)," UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy, Dec 3, 2018
+
 * "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)," UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power, Dec 4, 2017
-
-<br>
-
-
-## Works in Progress
-
-* "Phantasms and the Once-Lived World of the Aesthetic Object: World-Travelling in the Sociopolitical and in Critical Aesthetics"
-* "The Materialist Who Speaks *Playfully*: Kristeva and Derrida on Aesthetic Micropolitics and the Possibility of Written Critique"
-* "Authoritarian Calculability in the Finality of Death: Police Brutality as Weberian Rationalization and the Conflict between Personal and Institutional Ends"
-* "Affect and Ideology: Reflections on Sociopolitical Belief-Construction from War Rhetoric and Propaganda"
-* "Inhabitant Knowledge within the Shattering: Kristeva and Ingold on Ethical Epistemic Postures"
-* "*Wise and Cynical as All Hell*: Insights on Semiotic Aesthetics in Sylvia Plath's *Bell Jar*"
-* <u>Kant for Kids: Plain Language Dialogues on the <i>Prolegomena</i></u>
