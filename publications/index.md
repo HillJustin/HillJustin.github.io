@@ -1,10 +1,11 @@
 ---
 layout: default
-title: "Selected Works"
+title: "Publications"
 ---
+<!---
 <div class="hero-image">
   <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
-</div><!-- /.hero-image -->
+ </div><!-- /.hero-image -->
 
 <br>
 
