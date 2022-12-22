@@ -42,6 +42,29 @@ title: "Publications"
 <br>
 
 
+## Theatre
+
+### Focal Cast
+
+  * George Spelvin, *The Actor's Nightmare*, Huckabay High School (HHS) One-Act Play, performed April 2014.
+
+### Ensemble Cast
+
+  * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, *The Angelina Project*, University of North Texas University Players, performed November 2015.
+
+  * General Silas Chambers, *A Rose for Emily*, HHS One-Act Play, performed April 2013.
+
+### Technical
+
+  * Lighting Hang & Focus, *Merry Wives of Windsor*, University of North Texas Theatre Department, April 2016.
+
+  * Lighting Hang & Focus, *Faculty Dance Concert*, UNT Theatre Department, January - February 2016.
+
+  * Lighting Hang & Focus, *The Philadelphia Story*, UNT Theatre Department, October 2015.
+
+<br>
+
+
 ## Visual Art
 
 * Three paintings. *HOPE*. Capital Culture House, Virtual, March 22 - 31, 2022.
