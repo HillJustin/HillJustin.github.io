@@ -2,14 +2,12 @@
 layout: default
 title: "Publications"
 ---
-<!---
-<div class="hero-image">
-  <img src="/assets/images/hero-images/selected-works-hero-image.jpg" alt="selected works hero image"/>
- </div><!-- /.hero-image -->
 
 # {{ page.title }}
 
 <br>
+
+
 
 ## Articles
 
@@ -20,6 +18,7 @@ title: "Publications"
 <br>
 
 
+
 ## Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)." UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy. Houston, Texas, December 3, 2018. (Refereed).
@@ -27,6 +26,7 @@ title: "Publications"
 * "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)." UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power. Houston, Texas, December 4, 2017. (Refereed).
 
 <br>
+
 
 
 ## Poetry
@@ -42,6 +42,7 @@ title: "Publications"
 <br>
 
 
+
 ## Theatre
 
 ### Focal Cast
@@ -54,7 +55,7 @@ title: "Publications"
 
   * General Silas Chambers, *A Rose for Emily*, HHS One-Act Play, performed April 2013.
 
-### Technical
+### Technical Crew
 
   * Lighting Hang & Focus, *Merry Wives of Windsor*, University of North Texas Theatre Department, April 2016.
 
@@ -63,6 +64,7 @@ title: "Publications"
   * Lighting Hang & Focus, *The Philadelphia Story*, UNT Theatre Department, October 2015.
 
 <br>
+
 
 
 ## Visual Art
