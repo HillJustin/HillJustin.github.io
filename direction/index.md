@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Justin Hill | Direction"
+title: "Direction"
 ---
 
-# Direction
+# {{ page.title }}
 
 <br>
 

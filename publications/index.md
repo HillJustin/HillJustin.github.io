@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Justin Hill | Publications"
+title: "Publications"
 ---
 
-# Publications
+# {{ page.title }}
 
 <br>
 
