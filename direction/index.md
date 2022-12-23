@@ -12,7 +12,15 @@ title: "Direction"
 
 * *Rebuilding with Lived Hospitality*. Five-year strategy. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2025. Ideated, executed, and implemented long-term communications strategy, including voice and tone, for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment.
 
-* *Bringing in the Fold*. One-year campaign SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
+* *Bringing in the Fold*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
+
+  * Statements of Research Interests.
+
+  * Narratives.
+
+  * Testimonials.
+
+  * Interviews.
 
 * *Taking Up Study in Brooklyn*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Instagram campaign and website expansion emphasizing lived experience, personal narrative, and pedagogic hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link) (see below).
 
