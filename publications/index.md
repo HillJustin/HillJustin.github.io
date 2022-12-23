@@ -47,21 +47,21 @@ title: "Publications"
 
 ### Focal Cast
 
-* George Spelvin, in *The Actor's Nightmare*. Huckabay High School (HHS) One-Act Play, performed April 2014.
+* George Spelvin, in *The Actor's Nightmare*. Huckabay High School (HHS) One-Act Play. Texas University Interscholastic League (UIL) Zone Performance. Meridian, Texas, 2014. All-star cast.
 
 ### Ensemble Cast
 
-* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, in *The Angelina Project*. University of North Texas University Players, performed November 2015.
+* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, in *The Angelina Project*. University of North Texas (UNT) University Players. Denton, Texas, November 2015.
 
-* General Silas Chambers, in *A Rose for Emily*. HHS One-Act Play, performed April 2013.
+* General Silas Chambers, in *A Rose for Emily*. HHS One-Act Play. Texas UIL Zone Performance. Meridian, Texas, 2013.
 
 ### Technical Crew
 
-* Lighting Hang and Focus, in *Merry Wives of Windsor*. University of North Texas Theatre Department, April 2016.
+* Lighting Hang and Focus, in *Merry Wives of Windsor*. UNT Theatre Department. Denton, Texas, April 2016.
 
-* Lighting Hang and Focus, in *Faculty Dance Concert*. UNT Theatre Department, January - February 2016.
+* Lighting Hang and Focus, in *Faculty Dance Concert*. UNT Theatre Department. Denton, Texas, February 2016.
 
-* Lighting Hang and Focus, in *The Philadelphia Story*. UNT Theatre Department, October 2015.
+* Lighting Hang and Focus, in *The Philadelphia Story*. UNT Theatre Department. Denton, Texas, October 2015.
 
 <br>
 
@@ -71,6 +71,6 @@ title: "Publications"
 
 * Three paintings. *HOPE*. Capital Culture House, Virtual, March 22 - 31, 2022.
 
-* "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender" poem.
+* "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender."
 
-* Paper collage rainbow fish. *Chambers County Youth Project Show*. 2002. Second in show.
+* Paper collage rainbow fish. *Chambers County Youth Project Show*, Anahuac, Texas, 2002. Second in show.
