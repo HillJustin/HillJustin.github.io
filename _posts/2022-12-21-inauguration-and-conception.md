@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inauguration and Conception: Reflections on Habituating Ritual Activations"
+title: "Inauguration, Conception, and Mundane Constancy: Reflections on Habituating Ritual Activations in the Groove"
 abstract: TBD / work in progress
 date: 2022-12-21
 ---

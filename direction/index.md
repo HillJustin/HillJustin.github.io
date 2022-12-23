@@ -8,18 +8,31 @@ title: "Direction"
 <br>
 
 
-## Communications
+# Analysis
 
-* *Rebuilding with Lived Hospitality*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2020 - 2025. Ideated, executed, and implemented long-term communications strategy, including voice and tone, for rebuilding the Master's Program through relatable and personable lived experience in a post-pandemic, primarily virtual environment, in resistance against an increasingly alienated culture.
+* *Rethinking Texas's Mandatory Parenting Education Documents*. CHILDREN AT RISK. Parenting and Family Well-Being Team. 2017. Policy wireframing.
 
 <br>
 
 
-## Creative
+## Communications
 
-* *Bringing in the Fold*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram marketing campaign, program website expansion, and program of student interviews focused on  portraying the manifold of our diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
+* *Rebuilding with Lived Hospitality*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2025. Ideated, executed, and implemented long-term communications strategy, including voice and tone, for rebuilding the Master's Program through relatable and personable lived experience in a post-pandemic, primarily virtual environment, in resistance against an increasingly alienated culture.
 
-* *Taking Up Study in Brooklyn*. SUNY Stony Brook University. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
+<br>
+
+
+## Creation
+
+* *Tantra Practice in Gethsemane*. Poetry chapbook; sixteen poems and a 1500-word preface on Buddhism, Gethsemane, and Jean-Luc Nancy. Unpublished and in reserve. 2022. Articulated and developed an erotic-esthetic-religious sense of love, being-with, spiritual accountability, and growth through moral failure.
+
+* *the Madness Mixtape: on a Polyrhythmic Sense-Grammar of Historical Materialism* or *Bebop Practices and Survival Strategies for Tantra*. Vault manuscript; 24,000-words. Not intended for publication. 2022. Experiment in self-disruption and stoic crystallization which explored lateral thinking, the importance of historicized and experienced affect, and the valid remainder of sustaining an I-being alongside a we-being in the lived sense of being singular plural.
+
+* *Holy Terrain*. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Established standards for aesthetic taste, growth, and selectivity. Emphasized the role of *eros* in producing collaborative work.
+
+* *Bringing in the Fold*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram marketing campaign, program website expansion, and program of student interviews focused on  portraying the manifold of our diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
+
+* *Taking Up Study in Brooklyn*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
 
 <br>
 
@@ -30,7 +43,7 @@ title: "Direction"
 
 ## Theatre
 
-* Lighting Design, *Haiku*, October-December 2016. Design unproduced. Materials in order of creative process, from organic feeling response to technical implementation.
+* *What's So Wrong with the Light?*. Lighting design for *Haiku* by Kate Snodgrass. 2016. Design unproduced. Materials in order of creative process, from organic feeling response to technical implementation.
 
   * [Emotional Cue Synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
   * [Cue Sheet](/assets/pdfs/haiku-files/cue-sheet.pdf)
