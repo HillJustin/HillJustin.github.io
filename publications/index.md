@@ -72,3 +72,5 @@ title: "Publications"
 * Three paintings. *HOPE*. Capital Culture House, Virtual, March 22 - 31, 2022.
 
 * "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender" poem.
+
+* Paper collage rainbow fish. *Chambers County Youth Project Show*. 2002. Second in show.
