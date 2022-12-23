@@ -35,7 +35,7 @@ title: "Publications"
 
 * "[Thoughts from a High School Senior](https://thexzbt.files.wordpress.com/2014/10/2014-4.pdf)." Three poems. *The Exhibitionist*, Vol. 2, no. 4, October 2014, 14-15.
 
-* "[Surrender](https://thexzbt.files.wordpress.com/2013/02/2014-3.pdf)." The Exhibitionist*, Vol. 2, no. 3, July 2014, 11. Published contemporaneously with "Mission 3:16" cover image.
+* "[Surrender](https://thexzbt.files.wordpress.com/2013/02/2014-3.pdf)." *The Exhibitionist*, Vol. 2, no. 3, July 2014, 11. Published contemporaneously with "Mission 3:16" cover image.
 
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)." *The Exhibitionist*, Vol. 2, no. 2, April 2014, 35.
 
@@ -47,21 +47,21 @@ title: "Publications"
 
 ### Focal Cast
 
-  * George Spelvin, *The Actor's Nightmare*, Huckabay High School (HHS) One-Act Play, performed April 2014.
+* George Spelvin, in *The Actor's Nightmare*. Huckabay High School (HHS) One-Act Play, performed April 2014.
 
 ### Ensemble Cast
 
-  * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, *The Angelina Project*, University of North Texas University Players, performed November 2015.
+* Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, in *The Angelina Project*. University of North Texas University Players, performed November 2015.
 
-  * General Silas Chambers, *A Rose for Emily*, HHS One-Act Play, performed April 2013.
+* General Silas Chambers, in *A Rose for Emily*. HHS One-Act Play, performed April 2013.
 
 ### Technical Crew
 
-  * Lighting Hang & Focus, *Merry Wives of Windsor*, University of North Texas Theatre Department, April 2016.
+* Lighting Hang and Focus, in *Merry Wives of Windsor*. University of North Texas Theatre Department, April 2016.
 
-  * Lighting Hang & Focus, *Faculty Dance Concert*, UNT Theatre Department, January - February 2016.
+* Lighting Hang and Focus, in *Faculty Dance Concert*. UNT Theatre Department, January - February 2016.
 
-  * Lighting Hang & Focus, *The Philadelphia Story*, UNT Theatre Department, October 2015.
+* Lighting Hang and Focus, in *The Philadelphia Story*. UNT Theatre Department, October 2015.
 
 <br>
 
