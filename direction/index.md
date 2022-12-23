@@ -17,7 +17,7 @@ title: "Direction"
 
 ## Creation
 
-* *Tantra Practice in Gethsemane*. Poetry chapbook; sixteen poems and a 1500-word preface on Buddhism, Gethsemane, and Jean-Luc Nancy. Unpublished and in reserve. 2022. Articulated and developed an erotic-esthetic-religious sense of love, being-with, spiritual accountability, and growth through moral failure.
+* *Tantra Practice in Gethsemane*. Poetry chapbook; sixteen poems and a 1500-word preface on Buddhism, Gethsemane, and Jean-Luc Nancy. Unpublished and in reserve. 2022. Articulated and developed an erotic-esthetic-religious sense of love, being-with, spiritual accountability, and growth through moral failure. Chapbook without preface under consideration for the 2023 Wallace Stegner Poetry Fellowship.
 
 * *the Madness Mixtape: on a Polyrhythmic Sense-Grammar of Historical Materialism* or *Bebop Practices and Survival Strategies for Tantra*. Vault manuscript; 24,000-words. Not intended for publication. 2022. Experiment in self-disruption and stoic crystallization which explored lateral thinking, the importance of historicized and experienced affect, and the valid remainder of sustaining an I-being alongside a we-being in the lived sense of being singular plural.
 
@@ -48,7 +48,7 @@ title: "Direction"
 
 ## Theatre
 
-* *What's So Wrong with the Light?*. Lighting design for *Haiku* by Kate Snodgrass. 2016. Design unproduced. Materials in order of creative process, from organic feeling response to technical implementation.
+* *What's So Wrong with the Light?* Lighting design for *Haiku* by Kate Snodgrass. 2016. Design unproduced. Materials in order of creative process, from organic feeling response to technical implementation.
 
   * [Emotional Cue Synopsis](/assets/pdfs/haiku-files/emotional-cue-synopsis.pdf)
   * [Cue Sheet](/assets/pdfs/haiku-files/cue-sheet.pdf)
