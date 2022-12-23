@@ -8,8 +8,6 @@ title: "Communications"
 <br>
 
 
-## Communications Campaigns & Strategies
-
 * *Holy Terrain*. Ongoing campaign. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Emphasized the role of *eros* in producing collaborative work.
 
 * *Bringing in the Fold*. One-year campaign SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
