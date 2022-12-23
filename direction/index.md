@@ -30,6 +30,11 @@ title: "Direction"
 
 * *Holy Terrain*. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Established standards for aesthetic taste, growth, and selectivity. Emphasized the role of *eros* in producing collaborative work.
 
+<br>
+
+
+## Digital Marketing
+
 * *Bringing in the Fold*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Instagram marketing campaign, program website expansion, and program of student interviews focused on  portraying the manifold of our diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt).
 
 * *Taking Up Study in Brooklyn*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Instagram marketing campaign and program website expansion, focused on lived experience, narrative, and hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
