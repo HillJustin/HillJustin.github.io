@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Direction"
+title: "Justin Hill | Direction"
 ---
 
-# {{ page.title }}
+# Direction
 
 <br>
 
 
 ## Communications
 
-* *Rebuilding with Lived Hospitality*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2025. Ideated, executed, and implemented long-term communications strategy, including voice and tone, for rebuilding the Master's Program through relatable and personable lived experience in a post-pandemic, primarily virtual environment, in resistance against an increasingly alienated culture.
+* *Rebuilding with Lived Hospitality*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 (to be executed across five years: 2020 - 2025). Ideated, executed, and implemented long-term communications strategy, including voice and tone, for rebuilding the Master's Program through relatable and personable lived experience in a post-pandemic, primarily virtual environment, in resistance against an increasingly alienated culture.
 
 <br>
 
