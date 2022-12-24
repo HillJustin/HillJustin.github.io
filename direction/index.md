@@ -26,11 +26,11 @@ title: "Direction"
 
 * *Holy Terrain*. Ongoing campaign. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Ideated and executed. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Emphasized the role of *eros* in producing collaborative work.
 
-* M.A. Open House. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2022. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2022-04-open-house.pdf) for accepted students.
+* *2022 M.A. Open House*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2022. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2022-04-open-house.pdf) for accepted students.
 
 * *Bringing in the Fold*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 — 2022. Ideated and executed Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt). Solicited and directed M.A. students on creation and production of Statements of Research Interests, narratives, testimonials, and interviews.
 
-* M.A. Open House. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2021. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2021-04-open-house.pdf) for accepted students.
+* *2021 M.A. Open House*. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2021. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2021-04-open-house.pdf) for accepted students.
 
 * *Taking Up Study in Brooklyn*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2021. Ideated and executed. Instagram campaign and website expansion emphasizing lived experience, personal narrative, and pedagogic hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
 
