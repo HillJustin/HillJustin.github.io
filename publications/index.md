@@ -12,7 +12,7 @@ title: "Publications"
 </div><!-- /.blurb -->
 
 
-## Articles
+# Articles
 
 * ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-10-benjamin-adorno-spinoza.pdf)." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. (Refereed)
 
@@ -22,7 +22,7 @@ title: "Publications"
 
 
 
-## Conference Presentations
+# Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)." UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy. Houston, Texas, December 3, 2018. (Refereed).
 
@@ -32,7 +32,7 @@ title: "Publications"
 
 
 
-## Poetry
+# Poetry
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15.
 
@@ -46,19 +46,19 @@ title: "Publications"
 
 
 
-## Theatre
+# Theatre
 
-### Focal Cast
+## Focal Cast
 
 * George Spelvin, in *The Actor's Nightmare*. Huckabay High School (HHS) One-Act Play. Texas University Interscholastic League (UIL) Zone Performance. Meridian, Texas, 2014. All-star cast.
 
-### Ensemble Cast
+## Ensemble Cast
 
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, in *The Angelina Project*. University of North Texas (UNT) University Players. Denton, Texas, November 2015.
 
 * General Silas Chambers, in *A Rose for Emily*. HHS One-Act Play. Texas UIL Zone Performance. Meridian, Texas, 2013.
 
-### Technical Crew
+## Technical Crew
 
 * Lighting Hang and Focus, in *Merry Wives of Windsor*. UNT Theatre Department. Denton, Texas, April 2016.
 
@@ -70,7 +70,7 @@ title: "Publications"
 
 
 
-## Visual Art
+# Visual Art
 
 * Three paintings. *HOPE*. Capital Culture House, Virtual, March 22 - 31, 2022.
 
