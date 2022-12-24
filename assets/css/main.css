@@ -93,6 +93,13 @@ div.hero-image img {
     object-fit: contain;
     margin-top: 3%;
 }
+div.instagram {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    align: center;
+    align-items: center;
+}
 div.nav {
     white-space: nowrap;
 }
