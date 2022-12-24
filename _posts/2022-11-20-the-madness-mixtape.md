@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the madness mixtape: bebop practices and survival strategies for tantra"
-abstract: This essay explodes.
+abstract: This essay explodes. Scan it. Dock her. Hands up: I did it. I went insane, and you can't steal my voice. You can't cut out my tongue. You can't pour lead down my throat.
 date: 2022-11-20
 ---
 

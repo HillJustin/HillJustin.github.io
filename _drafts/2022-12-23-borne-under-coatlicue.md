@@ -9,12 +9,14 @@ date: 2022-12-23
 
 Outline:
 
-* Lived experience (being born)
+* Intro: Lived experience (being born)
 
-* Coatlicue, the pharmakon serpent Nature
+* Reading Anzaldua: Coatlicue, the pharmakon serpent Nature
 
-* Born Under Punches by Talking headshot
+* Reading Talking Heads: Born Under Punches
 
 * borne - to have something produced by external causes
 
 * On the subjectivity produced by (i.e., borne from) being born into Coatlicue-like family-life.
+
+* On Transpersonal Subjectivity and Genderqueer Experiences
