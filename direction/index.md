@@ -3,18 +3,21 @@ layout: default
 title: "Direction"
 ---
 
-
 <div class="hero-image">
 	<img src="/assets/images/headshots/professional-headshot.jpg" alt="headshot1">
 </div><!-- /.professional-headshot -->
 
-
-# Communications
+# {{ page.title }}
 
 <br>
 
 
-## Briefs
+## Communications
+
+<br>
+
+
+### Briefs
 
 * *Rebuilding with Lived Hospitality*. Multichannel five-year communications brief. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2025. Ideated, executed, and institutionally implemented long-term communications strategy for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment. Articulates channels, intentions, voices, quality standards, and methods.
 
@@ -23,7 +26,7 @@ title: "Direction"
 <br>
 
 
-## Campaigns
+### Campaigns
 
 * *Holy Terrain*. Ongoing campaign. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Ideated and executed. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Emphasized the role of *eros* in producing collaborative work.
 
@@ -50,7 +53,7 @@ title: "Direction"
 <br>
 
 
-# Creative
+## Creative
 
 <!--
 * Philosophical blog. Ongoing. [Accessible here](/blog).
