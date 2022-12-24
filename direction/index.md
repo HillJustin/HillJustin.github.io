@@ -12,7 +12,7 @@ title: "Direction"
 
 ### Briefs
 
-* *Rebuilding with Lived Hospitality*. Multichannel five-year communications brief. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2025. Ideated, executed, and institutionally implemented long-term communications strategy for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment. Articulates channels, intentions, voices, quality standards, and methods.
+* *Rebuilding with Lived Hospitality*. Multichannel five-year communications brief. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2025. Ideated, executed, and institutionally implemented long-term communications strategy for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment. Articulates channels, intentions, voices, quality standards, and methods.
 
 * *Improving Texas's Mandatory Parenting Education Documents for WIC- and SNAP-Mothers*. Policy wireframe. CHILDREN AT RISK. Parenting and Family Well-Being Team. Houston, Texas. 2017. Visually wireframed the currently extant state-legislative requirements of NGO-produced documents containing parenting education briefs administered to new mothers receiving WIC and SNAP benefits. Created to communicate core info to team members.
 
@@ -22,7 +22,7 @@ title: "Direction"
 
 * M.A. Open House. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2022. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2022-04-open-house.pdf) for accepted students.
 
-* *Bringing in the Fold*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 - 2022. Ideated and executed Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt). Directed M.A. students on creation and production of:
+* *Bringing in the Fold*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2021 — 2022. Ideated and executed Instagram campaign, website expansion, and student interviews representing the department's extant manifold of internationally diverse student experiences. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt). Directed M.A. students on creation and production of:
 
   * Statements of Research Interests.
 
@@ -34,7 +34,7 @@ title: "Direction"
 
 * M.A. Open House. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. Virtual. April 2021. Planned, marketed, and hosted event. Designed and promoted a [cordial invitation](/assets/pdfs/2021-04-open-house.pdf) for accepted students.
 
-* *Taking Up Study in Brooklyn*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 - 2021. Ideated and executed. Instagram campaign and website expansion emphasizing lived experience, personal narrative, and pedagogic hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
+* *Taking Up Study in Brooklyn*. One-year campaign. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2021. Ideated and executed. Instagram campaign and website expansion emphasizing lived experience, personal narrative, and pedagogic hospitality. Tripled enrollment post-COVID. [@StonyBrookPhilArt](https://www.Instagram.com/StonyBrookPhilArt), especially [Hospitality at the Table](https://www.instagram.com/p/CYaHJhjFE-i/?utm_source=ig_web_copy_link).
 
 <br>
 
