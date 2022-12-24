@@ -17,7 +17,7 @@ title: "Direction"
 
 * *Rebuilding with Lived Hospitality*. Multichannel five-year communications brief. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2025. Ideated, executed, and institutionally implemented long-term communications strategy for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment. Articulates channels, intentions, voices, quality standards, and methods.
 
-* *Improving Texas's Mandatory Parenting Education Documents for WIC- and SNAP-Mothers*. Policy wireframe. CHILDREN AT RISK. Parenting and Family Well-Being Team. Houston, Texas. 2017. Visually wireframed the currently extant state-legislative requirements of NGO-produced documents containing parenting education briefs administered to new mothers receiving WIC and SNAP benefits. Created to communicate core info to team members.
+* *Improving Texas's Mandatory Parenting Education Documents for WIC- and SNAP-Parents*. Policy wireframe. CHILDREN AT RISK. Parenting and Family Well-Being Team. Houston, Texas. 2017. Visually wireframed the currently extant state-legislative requirements of NGO-produced documents containing parenting education briefs administered to new mothers receiving WIC and SNAP benefits. Created to communicate core info to team members.
 
 <br>
 

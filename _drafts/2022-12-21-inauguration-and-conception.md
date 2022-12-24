@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Inauguration, Conception, and Mundane Constancy: Reflections on Habituating Ritual Activations in the Groove"
-abstract: TBD / work in progress
+title: "When John Wick Showers: Inauguration, Conception, and Mundane Constancy, or, Reflections on Habituating Ritual Activations in the Groove"
+abstract: What happens when we let rest mark the inundations of our lives? How often should we rest? Can a lack of rest construct passive-reactive subjectivity?
 date: 2022-12-21
 ---
 
