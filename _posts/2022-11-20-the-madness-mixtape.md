@@ -6,8 +6,8 @@ date: 2022-11-20
 ---
 
 A Polyrhythmic Sense Grammar of Historical Materialism in
-Lugones, Lorde, Sontag, Anzaldúa, Benjamin, Nancy, Bergson, and Didion
-from Devotional Friendship and “World”-Traveling to Aesthetic Transparence, Invoked Art, Erotic Materialism, Process Metaphysics, Being Singular Plural, Qualitative Heterogeneity, Self-Respect, Creativity, and Transformative Consciousness
+	Lugones, Lorde, Sontag, Anzaldúa, Benjamin, Nancy, Bergson, and Didion
+		from Devotional Friendship and “World”-Traveling to Aesthetic Transparence, Invoked Art, Erotic Materialism, Process Metaphysics, Being Singular Plural, Qualitative Heterogeneity, Self-Respect, Creativity, and Transformative Consciousness
 
 
 	or
