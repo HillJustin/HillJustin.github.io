@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the Madness Mixtape: Bebop Practices and Survival Strategies for Tantra"
-abstract: This essay explodes. Scan it; dock her; hands up; I did it.
+abstract: This essay explodes. Scan it; dock her; hands up; I did it. I went mad, and (old self-)murder she wrote.
 date: 2022-11-20
 ---
 
