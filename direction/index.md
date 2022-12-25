@@ -3,13 +3,7 @@ layout: default
 title: "Direction"
 ---
 
-<div class="hero-image">
-	<img src="/assets/images/headshots/professional-headshot.jpg" alt="headshot1">
-</div><!-- /.professional-headshot -->
-
 # {{ page.title }}
-
-<br>
 
 
 ## Communications
