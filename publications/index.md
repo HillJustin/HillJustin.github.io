@@ -3,13 +3,11 @@ layout: default
 title: "Publications"
 ---
 
-<div class="hero-image">
-  <img src="/assets/images/headshots/kandinsky-headshot.jpg" alt="headshot2">
-</div><!-- /.professional-headshot -->
-
 # {{ page.title }}
 
-Philosophically, my research interests stem from the perplexity of “becoming-with” and explore outward from the nexus of aspectual personhood. By aspectual personhood, I intend the relationships between (i) subject and self (especially pan-selfhood); (ii) body and environment; (iii) affect and belief; (iv) belief and perception; (v) phenomenality and materialism; (vi) formal language and the ineffable; (vii) qualitative languages and direct experience; and (viii) rote dogma [passivity] and enacted intellectual intuition [activity]. My interest in this nexus takes on a variety of shapes and foci, but what I write is grounded in emphases on process, practice, co-constitution, diversity, inclusion, hospitality, lived experience, and affective necessity, with a strained ear toward any possibilities for transformative communication (such as qualitative languages and the aesthetic communication of semiotic affect). An overarching goal of my work is to open discourse on communitarian personhood — that is, the subject’s experience (of the Itself) as continuously constituted by the subject’s community and environment, which (in aspectual conjunction) can no longer be conceived of as separate and distinct from the subject. Most recently, I have become interested in jazz improvisation and the flow state to investigate practices of experiencing flow between inner and outer and between the subject and the pan-self (i.e., the Itself). Finally, I continue a practice of Buddhism, which is deeply intertwined with my experiential research on flow, tantra, samadhi, ineffability, and communitarian personhood. I aim to draw on as many systems of thought as possible to approach the ineffable and to cultivate, for myself and others, the inner beauty of mental experience through profundity and subtlety. To speak allusively, I wish for the music to always sound this good, rich with timbre and texture.
+<div class="text">
+  <p>Philosophically, my research interests stem from the perplexity of “becoming-with” and explore outward from the nexus of aspectual personhood. By aspectual personhood, I intend the relationships between (i) subject and self (especially pan-selfhood); (ii) body and environment; (iii) affect and belief; (iv) belief and perception; (v) phenomenality and materialism; (vi) formal language and the ineffable; (vii) qualitative languages and direct experience; and (viii) rote dogma [passivity] and enacted intellectual intuition [activity]. My interest in this nexus takes on a variety of shapes and foci, but what I write is grounded in emphases on process, practice, co-constitution, diversity, inclusion, hospitality, lived experience, and affective necessity, with a strained ear toward any possibilities for transformative communication (such as qualitative languages and the aesthetic communication of semiotic affect). An overarching goal of my work is to open discourse on communitarian personhood — that is, the subject’s experience (of the Itself) as continuously constituted by the subject’s community and environment, which (in aspectual conjunction) can no longer be conceived of as separate and distinct from the subject. Most recently, I have become interested in jazz improvisation and the flow state to investigate practices of experiencing flow between inner and outer and between the subject and the pan-self (i.e., the Itself). Finally, I continue a practice of Buddhism, which is deeply intertwined with my experiential research on flow, tantra, samadhi, ineffability, and communitarian personhood. I aim to draw on as many systems of thought as possible to approach the ineffable and to cultivate, for myself and others, the inner beauty of mental experience through profundity and subtlety. To speak allusively, I wish for the music to always sound this good, rich with timbre and texture.</p>
+</div>
 
 ## Articles
 
@@ -20,7 +18,6 @@ Philosophically, my research interests stem from the perplexity of “becoming-w
 <br>
 
 
-
 ## Conference Presentations
 
 * "[Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction](/assets/pdfs/2018-12-03-estrangement.pdf)." UHD's "[Back to the Sources](https://www.uhd.edu/academics/humanities/about/departments/hhl/Documents/2018-HHL-Student-Resaerch-Conference-PROGRAM.pdf)": 2018 History, Humanities, & Languages Student Research Conference, Panel 4B: Engaging with the History of Philosophy. Houston, Texas, December 3, 2018. (Refereed).
@@ -28,7 +25,6 @@ Philosophically, my research interests stem from the perplexity of “becoming-w
 * "[On the Necessity of Erroneous Opinions to the Vitality of Knowledge: A Response to John Stuart Mill](/assets/pdfs/2017-12-04-erroneous-opinions.pdf)." UHD's "[Back to the Sources](/assets/pdfs/2017-12-04-conference-program.pdf)": 2017 History, Humanities, & Languages Student Research Conference, Panel 3B: Exploring Truth and Power. Houston, Texas, December 4, 2017. (Refereed).
 
 <br>
-
 
 
 ## Poetry
@@ -42,7 +38,6 @@ Philosophically, my research interests stem from the perplexity of “becoming-w
 * "[age vitam](https://thexzbt.files.wordpress.com/2013/02/2014-2.pdf)." *The Exhibitionist*, Vol. 2, no. 2, April 2014, 35.
 
 <br>
-
 
 
 ## Theatre
@@ -66,7 +61,6 @@ Philosophically, my research interests stem from the perplexity of “becoming-w
 * Lighting Hang and Focus, in *The Philadelphia Story*. UNT Theatre Department. Denton, Texas, October 2015.
 
 <br>
-
 
 
 ## Visual Art
