@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the madness mixtape: bebop practices and survival strategies for tantra"
+title: "the Madness Mixtape: Bebop Practices and Survival Strategies for Tantra"
 abstract: This essay explodes. Scan it; dock her; hands up; I did it.
 date: 2022-11-20
 ---
