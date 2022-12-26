@@ -46,7 +46,7 @@ title: "Direction"
 
 * *Berkeley and Billiards*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
 
-* *Pizza and* de Anima. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
+* *Pizza and "de Anima: Book III"*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
 
 <br>
 
