@@ -8,7 +8,7 @@ title: "Communications"
 
 ## Briefs
 
-* PHI 520 Syllabus. *Whitehead, Mereotopology, and Process Experientialism*. Independent study with Dr. Edward Casey, SUNY at Stony Brook. Identified foci, researched supplementary threads, and articulated comprehensive curriculum of study. Pace unsuited for general pedagogy but desirable for personal study. [Accessible here](/assets/pdfs/2023-01-phi520-whitehead.pdf).
+* PHI 520 Syllabus. *Whitehead, Mereotopology, and Process Experientialism*. Independent study with Dr. Edward Casey, SUNY at Stony Brook. Identified foci, researched supplementary threads, and articulated comprehensive curriculum of study. [Accessible here](/assets/pdfs/2023-01-phi520-whitehead.pdf).
 
 * *Rebuilding with Lived Hospitality*. Multichannel five-year communications brief. SUNY at Stony Brook. Master of Arts Program in Philosophy and the Arts. 2020 — 2025. Ideated, executed, and institutionally implemented long-term communications strategy for rebuilding the Master's Program through relatable, first-person, lived experience as resistance against alienation in a primarily virtual, post-pandemic environment. Articulated channels, intentions, voices, quality standards, and methods.
 
