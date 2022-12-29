@@ -49,7 +49,7 @@ title: "Communications"
 
 * *Berkeley and Billiards*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
 
-* *Pizza and "de Anima: Book III"*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
+* *Pizza and De Anima"*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
 
 * *What's So Wrong with the Light?* Lighting design for *Haiku* by Kate Snodgrass. 2016. Design unproduced. Materials presented in order of creative process, from organic feeling to technical implementation.
 
