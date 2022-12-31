@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "the Madness Mixtape: Bebop Practices and Survival Strategies for Tantra"
+title: "the Madness Cipher: Bebop Practices and Survival Strategies for Tantra"
 abstract: This essay explodes. Scan it; dock her; hands up; I did it. I went mad, and (old self-)murder she wrote.
 date: 2022-11-20
 ---
+
+[Formatted PDF mixtape accessible here](/assets/pdfs/2022-11-20-madness-mixtape.pdf), but the cipher speaks differently.
 
 A Polyrhythmic Sense Grammar of Historical Materialism in
 	Lugones, Lorde, Sontag, Anzaldúa, Benjamin, Nancy, Bergson, and Didion
@@ -11,7 +13,7 @@ A Polyrhythmic Sense Grammar of Historical Materialism in
 
 
 	or
-		the Madness Mixtape: who am i?
+		the Madness Cipher: who am i?
 			the Work of the Intellective Soul on the “I” [not i]
 
 
