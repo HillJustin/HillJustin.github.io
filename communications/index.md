@@ -45,7 +45,7 @@ title: "Communications"
 
 * *Pool and Playfulness*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2019. [Event flyer accessible here.](/assets/pdfs/2019-pool-and-playfulness.png)
 
-* *A Night of Philosophy and Ideas at Rice University (Group Attendance)*. Inter-University Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2019.
+* *A Night of Philosophy and Ideas at Rice University*. Inter-university event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2019.
 
 * *Berkeley and Billiards*. Event. Texas Nu Chapter of *Phi Sigma Tau, International Honor Society for Philosophy*. 2018.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fanged Cogito: Descartes; Della Rocca; Feldman and Conee; Aristotle; and Bergson"
+title: "A Fanged Cogito, the Cartesian Circle as Non-Circular, and a Return to the Return of God: Descartes; Della Rocca; Feldman and Conee; Bergson; Aristotle; and Emerson"
 abstract: TBD
 date: 2023-01-10
 ---
@@ -13,4 +13,5 @@ Outline:
 * Hill -- the Process Cogito
 * Bergson -- Intuition
 * Aristotle -- and the Soul
+* Emerson -- on GOD [Divinity School Address]
 * Conclusion
