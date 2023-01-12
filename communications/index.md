@@ -17,6 +17,8 @@ title: "Communications"
 
 ## Campaigns
 
+* [*Back-and-Forth*](https://mailchi.mp/nagps/2023-nagps-state-of-the-union-back-and-forth). 2023 State of the Union Address. [National Association of Graduate-Professional Students](http://nagps.org/). Speech-writing.
+
 * *Holy Terrain*. Ongoing campaign. [@holyTerrainArt](https://www.Instagram.com/holyTerrainArt/). Collaborative art collective. 2022. Ideated and executed. Advocated for conceptions of art and creation as co-constitutive practices of love-as-existence, articulated by beings sharing Being. Emphasized the roles of *eros* and *agape* in producing collaborative work.
 
 <div class="instagram" align="center">
