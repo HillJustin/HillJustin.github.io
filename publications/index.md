@@ -5,11 +5,6 @@ title: "Publications"
 
 # {{ page.title }}
 
-<div class="text">
-  <p>My research interests in transpersonal studies stem from the perplexity of “becoming-with” and explore outward from the nexus of aspectual personhood. By aspectual personhood, I intend the relationships between (i) subject and self (especially pan-selfhood); (ii) body and environment; (iii) affect and belief; (iv) belief and perception; (v) phenomenality and materialism; (vi) formal language and the ineffable; (vii) qualitative languages and direct experience; and (viii) rote dogma [passivity] and enacted intellectual intuition [activity].</p>
-
-  <p>My interest in this nexus takes on a variety of shapes and foci, but what I write is grounded in emphases on process, practice, co-constitution, diversity, inclusion, hospitality, lived experience, and affective necessity, with a strained ear toward any possibilities for transformative communication (such as qualitative languages and the aesthetic communication of semiotic affect). An overarching goal of my work is to open discourse on communitarian personhood — that is, the subject’s experience (of the Itself) as continuously constituted by the subject’s community and environment, which (in aspectual conjunction) can no longer be conceived of as separate and distinct from the subject. I continue a practice of Buddhism, which is deeply intertwined with my experiential research on flow, tantra, samadhi, ineffability, and communitarian personhood. I aim to draw on as many systems of thought as possible to approach the ineffable and to cultivate, for myself and others, the inner beauty of mental experience through profundity and subtlety. To speak allusively, I wish for the music to always sound this good, rich with timbre and texture.</p>
-</div>
 
 <br>
 
