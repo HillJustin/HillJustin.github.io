@@ -17,9 +17,9 @@ Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Articles
 
-* "Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. https://philpapers.org/archive/HILACA-6.pdf. (Refereed).
+* "Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. [https://philpapers.org/archive/HILACA-6.pdf](https://philpapers.org/archive/HILACA-6.pdf). (Refereed).
 
-* "the purpose of Purpose." *The Exhibitionist*, Vol 2, no. 1, January 2014, 9-12. https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf. (Refereed).
+* "the purpose of Purpose." *The Exhibitionist*, Vol 2, no. 1, January 2014, 9-12. [https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf). (Refereed).
 
 <br>
 
