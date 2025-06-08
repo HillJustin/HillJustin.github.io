@@ -67,7 +67,7 @@ Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Poetry
 
-* "Eschatology." Single poem. *Janus Unbound: Journal of Critical Studies*, Forthcoming. (Refereed).
+* "Eschatology." Single poem. *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. (Refereed).
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." Single poem. *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15. (Refereed).
 
