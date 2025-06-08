@@ -17,16 +17,16 @@ Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Articles
 
-* ["Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics](/assets/pdfs/2019-10-benjamin-adorno-spinoza.pdf)." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. (Refereed)
+* "Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. https://philpapers.org/archive/HILACA-6.pdf. (Refereed).
 
-* ["the purpose of Purpose](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf)." *The Exhibitionist*, Vol 2, no. 1, January 2014, 9-12.
+* "the purpose of Purpose." *The Exhibitionist*, Vol 2, no. 1, January 2014, 9-12. https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf. (Refereed).
 
 <br>
 
 
 ## Book Reviews
 
-* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. Dedicated to Margaret Kay-Alana Calhoun Turner. (Refereed).
+* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. Dedicated to Margaret Kay-Alana Calhoun Turner.
 
 <br>
 
@@ -89,13 +89,13 @@ Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Visual Art
 
-* "i don't excite you anymore." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. Holy Terrain moniker.
+* "i don't excite you anymore." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. Holy Terrain moniker. (Refereed).
 
-* "fussy like a pussycat." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022.
+* "fussy like a pussycat." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. (Refereed).
 
-* "it only takes a moment / to fall in love again." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022.
+* "it only takes a moment / to fall in love again." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. (Refereed).
 
-* "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender."
+* "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender." (Refereed).
 
 <br>
 
