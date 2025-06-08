@@ -26,7 +26,7 @@ Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Book Reviews
 
-* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Forthcoming. Dedicated to Margaret Kay-Alana Calhoun Turner. (Refereed).
+* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. Dedicated to Margaret Kay-Alana Calhoun Turner. (Refereed).
 
 <br>
 
