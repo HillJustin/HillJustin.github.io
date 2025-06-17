@@ -10,7 +10,7 @@ title: "Publications"
 <br>
 
 
-Full Curriculum Vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
+Curriculum vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 <br>
 
