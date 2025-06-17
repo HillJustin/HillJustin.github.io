@@ -26,7 +26,21 @@ Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Service
 
-*
+* Social Media Triarch, RPA. Available at [Facebook.com/RadPhilAssoc/](Facebook.com/RadPhilAssoc/) and at [Instagram.com/RadicalPhilosophyAssoc/](Instagram.com/RadicalPhilosophyAssoc/), 2025.
+
+* Director of Communications and Chief Communications Officer, NAGPS. Available at [Facebook.com/NAGPS/](Facebook.com/NAGPS/) and at [Instagram.com/NAGPS/](Instagram.com/NAGPS/), 2023.
+
+* President, Phi Sigma Tau, Texas Nu Chapter, University of Houston-Downtown (UHD), 2018 - 2019.
+
+* President, Philosophy Club, UHD, 2018 - 2019.
+
+* Texas Higher Education Coordinating Board Student Representative, UHD Nominee. *University-level nomination to system-level to interview for system-level nomination to state-level position*, 2017.
+
+* University of Houston System Board of Regents Student Representative, UHD Nominee. *University-level nomination to system-level for system-level position*, 2017.
+
+* UNT Phi Kappa Sigma New Member Philanthropy Chair. *Penny Drive and Miss Greek Pageant, to both raise money and promote blood marrow donation testing for the Leukemia & Lymphoma Society*, 2014.
+
+* National Honor Society. *Volunteer service in central north Texas*, 2012 - 2014.
 
 <br>
 
@@ -52,7 +66,7 @@ Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
 
 * UHD Red Rose Scholarship, *one of fifteen*, 2018.
 
-* UNT Excellence Scholarship, *second of six*, 2014-2015.
+* UNT Excellence Scholarship, *second of six*, 2014 - 2015.
 
 * Texas Education Agency Highest Ranking Graduate Tuition Waiver.
 *State-funded first-year tuition remission for high-school valedictorians*, 2014-2015.
