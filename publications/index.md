@@ -10,7 +10,7 @@ title: "Publications"
 <br>
 
 
-Curriculum vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
+Full curriculum vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 <br>
 
@@ -33,7 +33,7 @@ Curriculum vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Conference Presentations
 
-* "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University, Stephenville, TX, April 14, 2025. (Refereed).
+* "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
 
 * "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *7th Annual Weatherford College Philosophy of Religion Conference: "Philosophy of Religion and War*," Weatherford College, Weatherford, TX, April 12, 2025. (Refereed).
 
@@ -89,36 +89,6 @@ Curriculum vitae available [here](/assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Visual Art
 
-* "i don't excite you anymore." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. Holy Terrain moniker. (Refereed).
+* Three pieces. Watercolor ink, Bristol vellum. *HOPE*. Capital Culture House [in Madrid, Spain], [Virtual](https://capitalculturehouse.org/virtual/), March 22 - 31, 2022. Holy Terrain moniker. (Refereed).
 
-* "fussy like a pussycat." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. (Refereed).
-
-* "it only takes a moment / to fall in love again." Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House, [Virtual Interactive Gallery](https://capitalculturehouse.org/virtual-shows/), March 22 - 31, 2022. (Refereed).
-
-* "Mission 3:16." Cover image. *The Exhibitionist*, Vol. 2, no. 3, July 2014. Published contemporaneously with "Surrender." (Refereed).
-
-<br>
-
-
-## Memberships
-
-* Radical Philosophy Association (RPA), 2025.
-
-* National Association of Graduate-Professional Students (NAGPS), 2022.
-
-* American Philosophical Association (APA), 2019.
-
-<br>
-
-
-## Honors
-
-* Pi Gamma Mu, International Honor Society for the Social Sciences, 2019.
-
-* UHD [University of Houston-Downtown] Outstanding Student in Humanities, one of two, 2019.
-
-* Phi Sigma Tau, International Honor Society for Philosophy, 2018.
-
-* UHD Outstanding Student in Philosophy, one of two, 2018.
-
-* National Merit Commended Student, 95th Percentile, 2013.
+* "Mission 3:16." Cover. *The Exhibitionist*, Vol. 2, no. 3, July 2014. (Refereed).
