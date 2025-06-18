@@ -20,7 +20,7 @@ title: "Teaching"
 
 ## Annotated Readings
 
-* [Aristotle. *Nicomachean Ethics.*](/assets/pdfs/annotations/)
+* [Aristotle. *Nicomachean Ethics*, excerpts from Books I, II, and VIII.](/assets/pdfs/annotations/)
 
 * [Bergson, Henri. *Introduction to Metaphysics.*](/assets/pdfs/annotations/)
 
@@ -34,11 +34,11 @@ title: "Teaching"
 
 * [Kant, Immanuel. "An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/)
 
-* [Kant, Immanuel. *Grounding for the Metaphysics of Morals*, excerpts from the Preface and the First Section.](/assets/pdfs/annotations/)
+* [Kant, Immanuel. *Grounding for the Metaphysics of Morals*, excerpts from Preface and First Section.](/assets/pdfs/annotations/)
 
 * [Nancy, Jean-Luc. *Being Singular Plural.*](/assets/pdfs/annotations/)
 
-* [Nancy, Jeanu-Luc. "Of Divine Places."](/assets/pdfs/annotations/)
+* [Nancy, Jean-Luc. "Of Divine Places."](/assets/pdfs/annotations/)
 
 * [Plato. *Apology.*](/assets/pdfs/annotations/)
 
@@ -46,7 +46,7 @@ title: "Teaching"
 
 * [Plato. *Republic*, excerpts from Books I, II, IV, VI, and VII.](/assets/pdfs/annotations/)
 
-* [Spinoza, Baruch. *Ethics*, excerpt from Book III.](/assets/pdfs/annotations/)
+* [Spinoza, Baruch. *Ethics*, excerpt from Part III.](/assets/pdfs/annotations/)
 
 * [Sartre, Jean-Paul. *Sketch for a Theory of the Emotions.*](/assets/pdfs/annotations/)
 
