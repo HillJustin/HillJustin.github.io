@@ -34,13 +34,13 @@ Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
 
 * President, Philosophy Club, UHD, 2018 - 2019.
 
-* Texas Higher Education Coordinating Board Student Representative, UHD Nominee. *University-level nomination to system-level for state-level position*, 2017.
+* Texas Higher Education Coordinating Board Student Representative, UHD Nominee. *University-level nomination to system-level for state-level position.* 2017.
 
-* University of Houston System Board of Regents Student Representative, UHD Nominee. *University-level nomination to system-level for system-level position*, 2017.
+* University of Houston System Board of Regents Student Representative, UHD Nominee. *University-level nomination to system-level for system-level position.* 2017.
 
-* UNT Phi Kappa Sigma New Member Philanthropy Chair. *Penny Drive and Miss Greek Pageant, to both raise money and promote blood marrow donation testing for the Leukemia & Lymphoma Society*, 2014.
+* UNT Phi Kappa Sigma New Member Philanthropy Chair. *Penny Drive and Miss Greek Pageant, to both raise money and promote blood marrow donation testing for the Leukemia & Lymphoma Society.* 2014.
 
-* National Honor Society. *Volunteer service in northcentral Texas*, 2012 - 2014.
+* National Honor Society. *Volunteer service in northcentral Texas.* 2012 - 2014.
 
 <br>
 
@@ -62,13 +62,13 @@ Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
 
 ## Awards
 
-* COLFA [College of Liberal and Fine Arts] Travel Funding, TSU,  March 27 - April 12, 2025. *Three distinct conferences approved, including room, board, travel, and registration.*
+* COLFA [College of Liberal and Fine Arts] Travel Funding, Tarleton State University,  March 27 - April 12, 2025. *Three distinct conferences approved, including room, board, travel, and registration.*
 
 * UHD Red Rose Scholarship, one of fifteen, 2018.
 
 * UNT Excellence Scholarship, second of six, 2014 - 2015.
 
 * Texas Education Agency Highest Ranking Graduate Tuition Waiver.
-*State-funded first-year tuition remission for high-school valedictorians*, 2014-2015.
+*State-funded first-year tuition remission for high-school valedictorians.* 2014-2015.
 
 * Rose Lafferty and Flora Foust Scholarship, 2014.
