@@ -5,8 +5,6 @@ title: "Teaching"
 
 # {{ page.title }}
 
-<br>
-
 *N.B. This page is still under construction.*
 
 <br>
@@ -54,7 +52,5 @@ title: "Teaching"
 
 
 ## Audiovisual Readings
-
-<br>
 
 Full video lectures of key philosophical readings available at [Holy Terrain Art on YouTube.](https://www.YouTube.com/@HolyTerrainArt/)
