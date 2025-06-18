@@ -10,7 +10,7 @@ title: "Teaching"
 <br>
 
 
-Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
+Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf). This page includes courses of study and their associated instructional resources, including primary sources and scaffolding.
 
 <br>
 
@@ -24,37 +24,37 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Annotated Readings
 
-* [Aristotle. *Nicomachean Ethics*, excerpts from Books I, II, and VIII.](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf)
+* [Aristotle. *Nicomachean Ethics*, excerpts from Books I, II, and VIII](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf), second edition, trans. Terence Irwin (Indianapolis: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
 
-* [Bergson, Henri. *Introduction to Metaphysics.*](/assets/pdfs/annotations/bergson-intro-metaphysics-hillj-annotations.pdf)
+* [Bergson, Henri. "Introduction to Metaphysics"](/assets/pdfs/annotations/bergson-intro-metaphysics-hillj-annotations.pdf) [1903], in *The Creative Mind: An Introduction to Metaphysics*, trans. Mabelle L. Andison (Mineola, NY: Dover Publications, Inc., 2007 [1946]), 133-69.
 
-* [Deleuze, Gilles. "Immanence: A Life."](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations.pdf)
+* [Deleuze, Gilles. "Immanence: A Life"](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations.pdf) [1995], in *Pure Immanence: Essays on A Life*, trans. Anne Boyman (New York: Zone Books, 2005), 25-33.
 
-* [Descartes, René. *Meditations on First Philosophy.*](/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf)
+* [Descartes, René. *Meditations on First Philosophy*](/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf),
 
-* [Dewey, John. *Art as Experience*, Ch. 1-3.](/assets/pdfs/annotations/dewey-art-as-experience-hillj-annotations.pdf)
+* [Dewey, John. *Art as Experience*, Ch. 1-3](/assets/pdfs/annotations/dewey-art-as-experience-hillj-annotations.pdf) (New York: Perigee [Penguin Group (USA) Inc.], 2005 [1934]), vii-viii, 1-59.
 
-* [James, William. "What Pragmatism Means."](/assets/pdfs/annotations/james-what-pragmatism-means-hillj-annotations.pdf)
+* [James, William. "What Pragmatism Means"](/assets/pdfs/annotations/james-what-pragmatism-means-hillj-annotations.pdf) [1904], in *Selected Writings* (Vermont/London: Everyman, 1995), xii-xliii, 3-19.
 
-* [Kant, Immanuel. "An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/kant-enlightenment-hillj-annotations.pdf)
+* [Kant, Immanuel. "An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/kant-enlightenment-hillj-annotations.pdf) [1784], trans. Ted Humphrey (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1992), available originally from the New York Public Library (NYPL) at [https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf).
 
-* [Kant, Immanuel. *Grounding for the Metaphysics of Morals*, excerpts from Preface and First Section.](/assets/pdfs/annotations/kant-grounding-hillj-annotations.pdf)
+* [Kant, Immanuel. *Grounding for the Metaphysics of Morals*, excerpts from Preface and First Section](/assets/pdfs/annotations/kant-grounding-hillj-annotations.pdf)
 
-* [Mill, John Stuart. *Utilitarianism*, Ch. 1-2.](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf)
+* [Mill, John Stuart. *Utilitarianism*, Ch. 1-2](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf)
 
-* [Nancy, Jean-Luc. *Being Singular Plural.*](/assets/pdfs/annotations/nancy-being-singular-plural-hillj-annotations.pdf)
+* [Nancy, Jean-Luc. *Being Singular Plural*](/assets/pdfs/annotations/nancy-being-singular-plural-hillj-annotations.pdf), trans. Robert D. Richardson and Anne O'Byrne (Stanford, CA: Stanford University Press, 2000 [1996]), ix, xi-xvii, 1-21.
 
 <!---
 * [Nancy, Jean-Luc. "Of Divine Places."](/assets/pdfs/annotations/)
 -->
 
-* [Plato. *Apology.*](/assets/pdfs/annotations/plato-apology-hillj-annotations.pdf)
+* [Plato. *Apology*](/assets/pdfs/annotations/plato-apology-hillj-annotations.pdf), in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 21-44.
 
-* [Plato. *Euthyphro.*](/assets/pdfs/annotations/plato-euthyphro-hillj-annotations.pdf)
+* [Plato. *Euthyphro*](/assets/pdfs/annotations/plato-euthyphro-hillj-annotations.pdf), in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 1-20.
 
-* [Plato. *Republic*, excerpts from Books I, II, IV, VI, and VII.](/assets/pdfs/annotations/plato-republic-hillj-annotations.pdf)
+* [Plato. *Republic*, excerpts from Books I, II, IV, VI, and VII](/assets/pdfs/annotations/plato-republic-hillj-annotations.pdf), in *The Complete Works*, ed. John M. Cooper, assoc. ed. D.S. Hutchinson, trans. G.M.A. Grube, rev. C.D.C. Reeve (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1997), 971-1003, 1052-77, 1126-55.
 
-* [Sartre, Jean-Paul. *Sketch for a Theory of the Emotions.*](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations.pdf)
+* [Sartre, Jean-Paul. *Sketch for a Theory of the Emotions*](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations.pdf), trans. Philip Mairet (New York: Routledge Great Minds, 2014).
 
 * [Spinoza, Baruch. *Ethics*, excerpt from Part III.](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf)
 
