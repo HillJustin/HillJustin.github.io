@@ -9,7 +9,7 @@ title: "Service"
 
 <br>
 
-Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
+Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 
 <br>
 
