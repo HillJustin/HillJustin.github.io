@@ -34,7 +34,7 @@ Full curriculum vitae available [here](assets/pdfs/HillJ-CV-2025.pdf).
 
 * President, Philosophy Club, UHD, 2018 - 2019.
 
-* Texas Higher Education Coordinating Board Student Representative, UHD Nominee. *University-level nomination to system-level to interview for system-level nomination to state-level position*, 2017.
+* Texas Higher Education Coordinating Board Student Representative, UHD Nominee. *University-level nomination to system-level for state-level position*, 2017.
 
 * University of Houston System Board of Regents Student Representative, UHD Nominee. *University-level nomination to system-level for system-level position*, 2017.
 
