@@ -13,7 +13,7 @@ title: "Teaching"
 
 ## Syllabi
 
-* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/HillJ-PHIL1301-Syllabus)
+* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/HillJ-PHIL1301-Syllabus.pdf)
 
 <br>
 
