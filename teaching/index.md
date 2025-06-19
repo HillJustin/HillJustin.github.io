@@ -70,13 +70,17 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf). This pag
 
     * [*Apology*](/assets/pdfs/annotations/plato-apology-hillj-annotations.pdf), in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 21-44.
 
-    * *Euthyphro*](/assets/pdfs/annotations/plato-euthyphro-hillj-annotations.pdf), in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 1-20.
+    * [*Euthyphro*](/assets/pdfs/annotations/plato-euthyphro-hillj-annotations.pdf), in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 1-20.
 
-    * *Republic*, excerpts from Books I, II, IV, VI, and VII](/assets/pdfs/annotations/plato-republic-hillj-annotations.pdf), in *The Complete Works*, ed. John M. Cooper, assoc. ed. D.S. Hutchinson, trans. G.M.A. Grube, rev. C.D.C. Reeve (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1997), 971-1003, 1052-77, 1126-55.
+    * [*Republic*, excerpts from Books I, II, IV, VI, and VII](/assets/pdfs/annotations/plato-republic-hillj-annotations.pdf), in *The Complete Works*, ed. John M. Cooper, assoc. ed. D.S. Hutchinson, trans. G.M.A. Grube, rev. C.D.C. Reeve (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1997), 971-1003, 1052-77, 1126-55.
 
-* [Sartre, Jean-Paul. *Sketch for a Theory of the Emotions*](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations.pdf), trans. Philip Mairet (New York: Routledge Great Minds, 2014).
+* Sartre, Jean-Paul.
 
-* [Spinoza, Baruch. *Ethics*, excerpt from Part III](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf), in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), 127-35.
+    * [*Sketch for a Theory of the Emotions*](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations.pdf), trans. Philip Mairet (New York: Routledge Great Minds, 2014).
+
+* Spinoza, Baruch.
+
+    * [*Ethics*, excerpt from Part III](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf), in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), 127-35.
 
 <br>
 
