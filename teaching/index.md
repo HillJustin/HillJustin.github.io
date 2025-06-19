@@ -26,23 +26,23 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf). This pag
 
 * Aristotle.
 
-    * [*Nicomachean Ethics*, excerpts from Books I, II, and VIII](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf), second edition, trans. Terence Irwin (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
+  * [*Nicomachean Ethics*, excerpts from Books I, II, and VIII](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf), second edition, trans. Terence Irwin (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
 
 * Bergson, Henri.
 
-    * ["Introduction to Metaphysics"](/assets/pdfs/annotations/bergson-intro-metaphysics-hillj-annotations.pdf) [1903], in *The Creative Mind: An Introduction to Metaphysics*, trans. Mabelle L. Andison (Mineola, NY: Dover Publications, Inc., 2007 [1946]), 133-69.
+  * ["Introduction to Metaphysics"](/assets/pdfs/annotations/bergson-intro-metaphysics-hillj-annotations.pdf) [1903], in *The Creative Mind: An Introduction to Metaphysics*, trans. Mabelle L. Andison (Mineola, NY: Dover Publications, Inc., 2007 [1946]), 133-69.
 
 * Deleuze, Gilles.
 
-    * ["Immanence: A Life"](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations.pdf) [1995], in *Pure Immanence: Essays on A Life*, trans. Anne Boyman (New York: Zone Books, 2005), 25-33.
+  * ["Immanence: A Life"](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations.pdf) [1995], in *Pure Immanence: Essays on A Life*, trans. Anne Boyman (New York: Zone Books, 2005), 25-33.
 
 * Descartes, René.
 
-    * [*Meditations on First Philosophy: With Selections from the Objections and Replies*](/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf) [1641], ed. John Cottingham, trans. John Cottingham (New York: Cambridge University Press, 2013 [1986]), 3-62.
+  * [*Meditations on First Philosophy: With Selections from the Objections and Replies*](/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf) [1641], ed. John Cottingham, trans. John Cottingham (New York: Cambridge University Press, 2013 [1986]), 3-62.
 
 * Dewey, John.
 
-    * [*Art as Experience*, Ch. 1-3](/assets/pdfs/annotations/dewey-art-as-experience-hillj-annotations.pdf) (New York: Perigee [Penguin Group (USA) Inc.], 2005 [1934]), vii-viii, 1-59.
+  * [*Art as Experience*, Ch. 1-3](/assets/pdfs/annotations/dewey-art-as-experience-hillj-annotations.pdf) (New York: Perigee [Penguin Group (USA) Inc.], 2005 [1934]), vii-viii, 1-59.
 
 * James, William.
 
