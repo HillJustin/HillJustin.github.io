@@ -10,7 +10,7 @@ title: "Teaching"
 <br>
 
 
-Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf). This page includes courses of study and their associated instructional resources, including primary sources and scaffolding.
+This page includes courses of study and their associated instructional resources, including primary sources and scaffolding.
 
 <br>
 
