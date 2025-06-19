@@ -87,4 +87,4 @@ This page includes courses of study and their associated instructional resources
 
 ## Audiovisual Readings
 
-Full video lectures of key philosophical readings available at [Holy Terrain Art on YouTube.](https://www.YouTube.com/@HolyTerrainArt/)
+Full video lectures of key philosophical readings forthcoming at [Holy Terrain Art on YouTube.](https://www.YouTube.com/@HolyTerrainArt/)
