@@ -47,21 +47,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, h2 {
-    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
-}
-ol li, ul li {
+li {
     line-height: 1.15em;
-    margin-left: none;
-    padding-left: none;
-}
-ul li ul li, ol li ol li {
-    font-size: inherit;
-    line-height: inherit;
-}
-ul.posts {
-    margin: 20px auto 40px;
-    font-size: 0.9em;
 }
 ol li {
     list-style-type: none;
@@ -72,7 +59,6 @@ img {
     margin: auto;
 }
 div.blurb p {
-    font-size: 1em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
@@ -82,8 +68,13 @@ div.container {
     margin: auto;
     align-items: center;
 }
+div.hero-image {
+    margin-top: 1%;
+}
 div.hero-image img {
-    margin-top: 2%;
+    margin: auto;
+    width: 60%;
+    display: block;
 }
 div.instagram {
     max-width: 1000px;
