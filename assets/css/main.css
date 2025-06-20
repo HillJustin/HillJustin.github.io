@@ -17,18 +17,15 @@ footer ol {
 }
 nav ol li:first-child {
     float: left;
-    margin-left: 2%;
     border-style: solid;
     border-width: thin;
     border-color: #765885;
 }
 footer ol li:last-child {
     float: left;
-    margin-left: 2%;
 }
 nav ol li, footer ol li {
     float: right;
-    margin-right: 2%;
     display: inline;
     padding: 10px;
     }
