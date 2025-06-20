@@ -10,25 +10,36 @@ nav ol, footer ol {
     margin: auto;
     max-width: 1000px;
 }
+nav ol {
+    border-bottom: 2px solid #d5d5d5;
+}
 footer ol {
     border-top: 2px solid #d5d5d5;
     font-size: 0.9em;
     margin: 60px auto;
 }
-nav ol li:first-child {
-    float: left;
+nav ol li:first-child, footer ol li:first-child {
     border-style: solid;
     border-width: thin;
     border-color: #765885;
+    border-radius: 5px;
 }
-footer ol li:last-child {
+nav ol li:first-child {
     float: left;
 }
-nav ol li, footer ol li {
+footer ol li:first-child {
+    float: right;
+}
+nav ol li {
     float: right;
     display: inline;
     padding: 10px;
-    }
+}
+footer ol li {
+    float: left;
+    display: inline;
+    padding: 10px;
+}
 a {
     text-decoration: none;
     color: #765885;
@@ -40,7 +51,6 @@ h1, h2 {
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 ol li, ul li {
-    font-size: 1.1em;
     line-height: 1.15em;
     margin-left: none;
     padding-left: none;
@@ -48,11 +58,6 @@ ol li, ul li {
 ul li ul li, ol li ol li {
     font-size: inherit;
     line-height: inherit;
-}
-ul.sw {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 ul.posts {
     margin: 20px auto 40px;
@@ -67,7 +72,7 @@ img {
     margin: auto;
 }
 div.blurb p {
-    font-size: 1.2em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
