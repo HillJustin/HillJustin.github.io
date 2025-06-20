@@ -7,19 +7,13 @@ nav ol, footer ol {
     padding: 5px;
     font-weight: lighter;
     margin: auto;
-}
-nav ol {
-    width: 100%;
     max-width: 1000px;
     padding-bottom: 50px;
 }
-footer {
+footer ol {
     border-top: 1px solid #d5d5d5;
-    font-size: .9em;
-    width: 100%;
-    max-width: 1000px;
+    font-size: 0.8em;
     margin: 60px auto;
-    margin-bottom: 50px;
 }
 nav ol li:first-child, footer ol li:last-child {
     float: left;
@@ -28,8 +22,6 @@ nav ol li:first-child, footer ol li:last-child {
     border-color: #765885;
 }
 nav ol li, footer ol li {
-    margin-left: 5px;
-    margin-right: 5px;
     float: right;
     display: inline;
     padding: 10px;
@@ -41,8 +33,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 2.4em;
+h1, h2 {
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 ol li, ul li {
@@ -68,30 +59,25 @@ ol li {
     list-style-type: none;
 }
 img {
-    width: 80%;
+    width: 100%;
     object-fit: contain;
     margin: auto;
 }
 div.blurb p {
-    font-size: 1.3em;
+    font-size: 1.2em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
 }
 div.container {
-    width: 100%;
     max-width: 1000px;
     margin: auto;
     align-items: center;
 }
 div.hero-image img {
-    width: 100%;
-    align: center;
-    align-content: center;
     margin-top: 2%;
 }
 div.instagram {
-    width: 100%;
     max-width: 1000px;
     margin: auto;
     align-items: center;
@@ -101,11 +87,9 @@ div.nav {
     white-space: nowrap;
 }
 div.visual-art img {
-    width: 100%;
     object-fit: contain;
 }
 div.visual-art p {
     text-align: center;
-    font-size: 1em;
     line-height: 1.15em;
 }
