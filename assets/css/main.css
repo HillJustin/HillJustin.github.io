@@ -5,7 +5,7 @@ body {
 nav ul, footer ul {
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
-    font-weight: bold;
+    font-weight: lighter;
     margin: auto;
 }
 nav ul {
@@ -15,7 +15,7 @@ nav ul {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .5em;
     width: 100%;
     max-width: 1000px;
     margin: 60px auto;
