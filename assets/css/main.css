@@ -19,12 +19,13 @@ nav ol li:first-child, footer ol li:last-child {
     float: left;
     border-style: solid;
     border-width: thin;
+    display: inline;
     border-color: #765885;
 }
 nav ol li, footer ol li {
     float: right;
     display: inline;
-    padding: 10px;
+    padding: 15px;
     }
 a {
     text-decoration: none;
