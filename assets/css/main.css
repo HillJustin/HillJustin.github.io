@@ -1,31 +1,36 @@
 body {
     margin: 60px auto;
     width: 82.5%;
+    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ol, footer ol {
-    font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5px;
+    padding: 15px;
+    padding-bottom: 50px;
     font-weight: lighter;
     margin: auto;
     max-width: 1000px;
-    padding-bottom: 50px;
 }
 footer ol {
-    border-top: 1px solid #d5d5d5;
+    border-top: 2px solid #d5d5d5;
     font-size: 0.8em;
     margin: 60px auto;
 }
-nav ol li:first-child, footer ol li:last-child {
+nav ol li:first-child {
     float: left;
+    margin-left: 2%;
     border-style: solid;
     border-width: thin;
-    display: inline;
     border-color: #765885;
+}
+footer ol li:last-child {
+    float: left;
+    margin-left: 2%;
 }
 nav ol li, footer ol li {
     float: right;
+    margin-right: 2%;
     display: inline;
-    padding: 15px;
+    padding: 10px;
     }
 a {
     text-decoration: none;

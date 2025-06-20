@@ -6,10 +6,6 @@ title: "Publications"
 # {{ page.title }}
 
 
-
-<br>
-
-
 Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 <br>

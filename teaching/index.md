@@ -6,11 +6,7 @@ title: "Teaching"
 # {{ page.title }}
 
 
-
-<br>
-
-
-This page includes courses of study and their associated instructional resources, including primary sources and scaffolding.
+This page includes courses of study and their associated instructional resources, including primary sources and scaffolding. You can follow a given syllabi with its associated texts and videos at your own pacing. I encourage you please to ask questions and to request clarity by leaving comments on the videos. I want to help as much as possible, but I do not always know what is still not clear to different lived experiences.
 
 <br>
 
@@ -23,6 +19,8 @@ This page includes courses of study and their associated instructional resources
 
 
 ## Annotated Readings
+
+Click the hyperlink to see the annotated PDF.
 
 * Aristotle.
 
