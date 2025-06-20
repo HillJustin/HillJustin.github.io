@@ -69,11 +69,11 @@ div.container {
     align-items: center;
 }
 div.hero-image {
-    margin-top: 2%;
+    margin-top: 0%;
 }
 div.hero-image img {
     margin: auto;
-    width: 80%;
+    width: 100%;
     display: block;
 }
 div.instagram {
