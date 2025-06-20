@@ -2,38 +2,38 @@ body {
     margin: 60px auto;
     width: 82.5%;
 }
-nav ul, footer ul {
+nav ol, footer ol {
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 5px;
-    font-weight: bold;
+    font-weight: lighter;
     margin: auto;
 }
-nav ul {
+nav ol {
     width: 100%;
     max-width: 1000px;
     padding-bottom: 50px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .7em;
+    font-size: .9em;
     width: 100%;
     max-width: 1000px;
     margin: 60px auto;
     margin-bottom: 50px;
 }
-nav ul li:first-child {
+nav ol li:first-child, footer ol li:last-child {
     float: left;
-    padding: 5px;
     border-style: solid;
     border-width: thin;
     border-color: #765885;
 }
-nav ul li, footer ul li {
-    margin-left: 30px;
+nav ol li, footer ol li {
+    margin-left: 5px;
     margin-right: 5px;
     float: right;
     display: inline;
-}
+    padding: 10px;
+    }
 a {
     text-decoration: none;
     color: #765885;
@@ -42,16 +42,16 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2.5em;
+    font-size: 2.4em;
     font-family: 'Georgia', 'Helvetica', 'Arial', 'Sans-Serif';
 }
-ul li {
+ol li, ul li {
     font-size: 1.1em;
     line-height: 1.15em;
     margin-left: none;
     padding-left: none;
 }
-ul li ul li {
+ul li ul li, ol li ol li {
     font-size: inherit;
     line-height: inherit;
 }
@@ -62,9 +62,9 @@ ul.sw {
 }
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 0.9em;
 }
-ul.posts li {
+ol li {
     list-style-type: none;
 }
 img {
@@ -73,14 +73,10 @@ img {
     margin: auto;
 }
 div.blurb p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
     text-align: justify;
-}
-div.contact p {
-    font-size: 1.3em;
-    line-height: 1.35em;
 }
 div.container {
     width: 100%;
@@ -90,8 +86,9 @@ div.container {
 }
 div.hero-image img {
     width: 100%;
-    object-fit: contain;
-    margin-top: 3%;
+    align: center;
+    align-content: center;
+    margin-top: 2%;
 }
 div.instagram {
     width: 100%;
@@ -103,20 +100,12 @@ div.instagram {
 div.nav {
     white-space: nowrap;
 }
-div.text {
-    font-size: 1.1em;
-    line-height: 1.15em;
-}
-div.ul {
-    width: 80%;
-    margin: auto;
-}
 div.visual-art img {
     width: 100%;
     object-fit: contain;
 }
 div.visual-art p {
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.15em;
 }
