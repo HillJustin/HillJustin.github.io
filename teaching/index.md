@@ -15,6 +15,8 @@ This page includes courses of study and their associated instructional resources
 
 * [PHIL 1301: Introduction to Philosophy](/assets/pdfs/hillj-phil1301-syllabus.pdf)
 
+* [PHIL 1304: Introduction to World Religions](/assets/pdfs/hillj-phil1304-syllabus.pdf)
+
 <br>
 
 
