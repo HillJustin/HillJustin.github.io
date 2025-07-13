@@ -89,4 +89,4 @@ Click the hyperlink to see the annotated PDF.
 
 ## Audiovisual Readings
 
-Full video lectures of key philosophical readings forthcoming at [Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
+Full video lectures of key philosophical readings forthcoming [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
