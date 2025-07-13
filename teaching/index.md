@@ -65,7 +65,7 @@ Click the hyperlink to see the annotated PDF.
     * [*Being Singular Plural*](/assets/pdfs/annotations/nancy-being-singular-plural-hillj-annotations.pdf), trans. Robert D. Richardson and Anne O'Byrne (Stanford, CA: Stanford University Press, 2000 [1996]), ix, xi-xvii, 1-21.
 
 <!---
-    * [Nancy, Jean-Luc. "Of Divine Places."](/assets/pdfs/annotations/) [1986], in *The Inoperative Community*, trans. Michael Holland (Minneapolis, MN: University of Minnesota Press, 1991), 110-50
+    * ["Of Divine Places."](/assets/pdfs/annotations/nancy-of-divine-places-hillj-annotations.pdf) [1986], in *The Inoperative Community*, trans. Michael Holland (Minneapolis, MN: University of Minnesota Press, 1991), 110-50.
 -->
 
 * Plato.
@@ -89,4 +89,4 @@ Click the hyperlink to see the annotated PDF.
 
 ## Audiovisual Readings
 
-Full video lectures of key philosophical readings forthcoming at [Holy Terrain Art on YouTube.](https://www.YouTube.com/@HolyTerrainArt/)
+Full video lectures of key philosophical readings forthcoming at [Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
