@@ -31,9 +31,9 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 * "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
 
-* "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *7th Annual Weatherford College Philosophy of Religion Conference: "Philosophy of Religion and War*," Weatherford College, Weatherford, TX, April 12, 2025. (Refereed).
+* "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *"Philosophy of Religion and War": 7th Annual Weatherford College [WC] Philosophy of Religion Conference*, WC, Weatherford, TX, April 12, 2025. (Refereed).
 
-* "Conviction, Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54th Annual North Texas Philosophical Association [NTPA] 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
+* "Conviction, [Enlightenment], Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54th Annual North Texas Philosophical Association [NTPA] 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
 
 * "What a Body Can Do: Subject-Object Distinctions as Self-Estrangement in Horkheimer, Adorno, and Early Marx." *75th Meeting of the New Mexico-Texas [NMTX] Philosophical Society*, NMTX Philosophical Society, Houston Community College [HCC], Houston, TX, March 28, 2025. (Refereed).
 
