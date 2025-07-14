@@ -85,6 +85,6 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Visual Art
 
-* Three pieces. Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House [Madrid, Spain], [Virtual](https://capitalculturehouse.org/virtual/), March 22-31, 2022. Holy Terrain moniker. (Refereed).
+* Three pieces. Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House [Madrid, Spain], [Virtual](https://www.instagram.com/p/Cbk5yWIK9DC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), March 22-31, 2022. Holy Terrain moniker. https://capitalculturehouse.org/virtual/. (Refereed).
 
 * "Mission 3:16." Cover. *The Exhibitionist*, Vol. 2, no. 3, July 2014. (Refereed).
