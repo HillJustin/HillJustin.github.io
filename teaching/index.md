@@ -22,6 +22,13 @@ This page includes courses of study and their associated instructional resources
 <br>
 
 
+## Courses
+
+* [PHIL 1301: Introduction to Philosophy](/teaching/phil-1301)
+
+<br>
+
+
 ## Annotated Readings
 
 Click the hyperlink to see the annotated PDF.
