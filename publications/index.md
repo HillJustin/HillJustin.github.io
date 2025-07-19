@@ -22,7 +22,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Book Reviews
 
-* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. Dedicated to Margaret Kay-Alana Calhoun Turner.
+* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025. Dedicated to Margaret Kay-Alana Calhoun Turner.
 
 <br>
 
@@ -63,7 +63,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Poetry
 
-* "Eschatology." Single poem. *Janus Unbound: Journal of Critical Studies*, Forthcoming [2025]. (Refereed).
+* "Eschatology." Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025. (Refereed).
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." Single poem. *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15. (Refereed).
 
