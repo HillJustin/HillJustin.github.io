@@ -30,7 +30,7 @@ These videos cover the course syllabus and assigned readings, including top-leve
 <br>
 
 
-### Henri Bergson, *Introduction to Metaphysics*, July 2025.
+### Henri Bergson, *Introduction to Metaphysics* [1903], July 2025.
 
 * Part One
 
@@ -65,3 +65,13 @@ These videos cover the course syllabus and assigned readings, including top-leve
 * Part Seven
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/F5z6eY5ysHE?si=0QGXbHWP4ksPROPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+
+### Plato, *Apology* [399 BCE], July 2025.
+
+* Part One
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7IuoEeyf_1A?si=ycK4_Y-MNeKRyO0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
