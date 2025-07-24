@@ -69,9 +69,29 @@ These videos cover the course syllabus and assigned readings, including top-leve
 <br>
 
 
-### Plato, *Apology* [399 BCE], July 2025.
+### Socrates, in Plato's *Apology* [ca. 399 BCE], July 2025.
 
 * Part One
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/7IuoEeyf_1A?si=ycK4_Y-MNeKRyO0O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
+
+* Part Two
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Om1tlTuSbGI?si=wyu3uQARBECazPZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Three
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/c0lkGzTGi4Q?si=e1Aq1FtNKVi4ZZi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Four
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t6NW0qqrOjY?si=-UdWmeAoW0fa5soM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+
+### Plato, *Republic* [ca. 380 BCE], excerpts from Books I, II, and IV, July 2025.
+
+* Part One
+
+  tbd
