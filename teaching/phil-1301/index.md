@@ -90,8 +90,4 @@ These videos cover the course syllabus and assigned readings, including top-leve
 <br>
 
 
-### Plato, *Republic* [ca. 380 BCE], excerpts from Books I, II, and IV, July 2025.
-
-* Part One
-
-  tbd
+### Plato, *Republic* [ca. 380 BCE], excerpts from Books I, II, and IV, Forthcoming [July 2025].
