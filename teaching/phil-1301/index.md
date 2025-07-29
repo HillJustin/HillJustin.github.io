@@ -23,7 +23,7 @@ These videos cover the course syllabus and assigned readings, including top-leve
 
 ### Syllabus, July 2025.
 
-* Full Series
+* In-Person
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NxAKTJuz1ps?si=B84DSfhtkNzGn1Z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -95,3 +95,23 @@ These videos cover the course syllabus and assigned readings, including top-leve
 * Part One
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RBMWgk3nrIo?si=htbZqH26kU7I12Vj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Two
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Pdqiy524dxI?si=5LV8hBGOew4-4nsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Three
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EIqi_duWLOw?si=qQLk_3xgPqJKdSyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Four
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/maUy3i1REUs?si=36H0h4HV4C-N4jHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Five
+
+
+
+<br>
+
+### Plato, *Republic* [ca. 380 BCE], excerpts from Books VI and VII, Forthcoming [August 2025].
