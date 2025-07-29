@@ -7,9 +7,9 @@ title: "PHIL 1301: Introduction to Philosophy"
 
 ## Syllabus
 
-* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/hillj-phil1301-syllabus.pdf)
+* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/hillj-phil-1301-syllabus.pdf)
 
-    * [PHIL 1301_ Guiding Questions.pdf](/assets/pdfs/hillj-phil1301-guiding-questions.pdf)
+    * [PHIL 1301_ Guiding Questions.pdf](/assets/pdfs/hillj-phil-1301-guiding-questions.pdf)
 
 <br>
 
