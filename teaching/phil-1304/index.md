@@ -65,3 +65,9 @@ These videos cover the course syllabus and assigned readings, including top-leve
   <iframe width="560" height="315" src="https://www.youtube.com/embed/F5z6eY5ysHE?si=0QGXbHWP4ksPROPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
+
+### Gilles Deleuze, "Immanence: A Life," Forthcoming [2025].
+
+<br>
+
+### ———, "Zones of Immanence," Forthcoming [2025].
