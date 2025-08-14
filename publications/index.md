@@ -22,12 +22,23 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Book Reviews
 
+* *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
+
 * *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025. Dedicated to Margaret Kay-Alana Calhoun Turner.
 
 <br>
 
 
+## Interviews
+
+* "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Interembodiment and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, Online, Forthcoming [September 19, 2025].
+
+<br>
+
+
 ## Conference Presentations
+
+* "Foucault on Defanged Discourse and Expressive Materialism." *123rd Meeting of the Central Division of the American Philosophical Association [APA]*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
 
 * "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
 
@@ -57,6 +68,13 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 * Commentator, Igrek, Apple, "The Will to Power as an Oppositional Force against Authoritarianism." *75th Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
 
 * Coordinator. *36th Annual NAGPS National Conference: "TT: ESSOA."* NAGPS, in partnership with GSAN for a nine-guest speaker panel on disability justice, in addition to NAGPS programming, Online, February 24-25, 2023. (Organizer).
+
+<br>
+
+
+## Invited Lectures
+
+* "Language as Medium and Mediums as Languages in John Dewey's Esthetics." ART 3321: Life Drawing, TSU, Stephenville, TX, September 29 - October 3, 2025. (Invited).
 
 <br>
 

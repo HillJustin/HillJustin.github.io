@@ -13,11 +13,24 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 
 ## Memberships
 
-* Radical Philosophy Association (RPA), 2025.
+* Society for Phenomenology and Existential Philosophy (SPEP), 2025 - Present.
 
-* National Association of Graduate-Professional Students (NAGPS), 2022.
+* Radical Philosophy Association (RPA), 2025 - Present.
 
-* American Philosophical Association (APA), 2019.
+* American Philosophical Association (APA), 2019 - Present.
+
+* Pi Gamma Mu, International Honor Society for the Social Sciences, 2019 - Present.
+
+* Phi Sigma Tau, International Honor Society for Philosophy, 2018 - Present.
+
+* National Association of Graduate-Professional Students (NAGPS), 2022 - 2023.
+
+<br>
+
+
+## Refereeships
+
+* *Janus Unbound: Journal of Critical Studies*, 2025 - Present.
 
 <br>
 
