@@ -24,7 +24,14 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 * *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
 
-* [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,*](/assets/pdfs/hillj-palestine-laboratory.pdf) by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner; from the river to the sea, Kay.
+* [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World*](/assets/pdfs/hillj-palestine-laboratory.pdf), by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner; from the river to the sea, Kay.
+
+<br>
+
+
+## Article Contributions
+
+* Peter Trnka, “Incanting Ghosts: A Letter from the Editor-in-Chief,” Janus Unbound: Journal of Critical Studies, Vol. 4, no. 2, July 2025, 1-16, quoted about epistemicide and Kay’s wrongful death interacting with police, 11-13. [https://journals.library.mun.ca/index.php/JU/article/view/2914/2355](https://journals.library.mun.ca/index.php/JU/article/view/2914/2355).
 
 <br>
 
@@ -81,7 +88,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Poetry
 
-* ["Eschatology."](/assets/pdfs/hillj-eschatology.pdf) Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 119-20. (Refereed).
+* "[Eschatology](/assets/pdfs/hillj-eschatology.pdf)." Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 119-20. (Refereed).
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." Single poem. *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15. (Refereed).
 
