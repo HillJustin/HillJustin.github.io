@@ -24,14 +24,14 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 * *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
 
-* *The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,* by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025. Dedicated to Margaret Kay-Alana Calhoun Turner.
+* [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,*](/assets/pdfs/hillj-palestine-laboratory.pdf) by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner.
 
 <br>
 
 
 ## Interviews
 
-* "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Interembodiment and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, Online, Forthcoming [September 19, 2025].
+* "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Method, Eidetics/Knowing, Commitment, Interembodiment, Multiplicity as the Univocity of Being, and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, Online, Forthcoming [September 25, 2025].
 
 <br>
 
@@ -81,7 +81,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Poetry
 
-* "Eschatology." Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025. (Refereed).
+* ["Eschatology."](/assets/pdfs/hillj-eschatology.pdf) Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 119-20. (Refereed).
 
 * "[the Night](https://thexzbt.files.wordpress.com/2013/02/2015-1.pdf)." Single poem. *The Exhibitionist*, Vol. 3, no. 1, January 2015, 15. (Refereed).
 
