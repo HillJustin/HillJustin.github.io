@@ -45,19 +45,19 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Conference Presentations
 
-* "Foucault on Defanged Discourse and Expressive Materialism." *123rd Meeting of the Central Division of the American Philosophical Association [APA]*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
+* "Foucault on Defanged Discourse and Expressive Materialism." *123<sup>rd</sup> Meeting of the Central Division of the American Philosophical Association [APA]*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
 
 * "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
 
-* "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *"Philosophy of Religion and War": 7th Annual Weatherford College [WC] Philosophy of Religion Conference*, WC, Weatherford, TX, April 12, 2025. (Refereed).
+* "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *"Philosophy of Religion and War": 7<sup>th</sup> Annual Weatherford College [WC] Philosophy of Religion Conference*, WC, Weatherford, TX, April 12, 2025. (Refereed).
 
-* "Conviction, [Enlightenment], Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54th Annual North Texas Philosophical Association [NTPA] 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
+* "Conviction, [Enlightenment], Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54<sup>th</sup> Annual North Texas Philosophical Association [NTPA] 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
 
-* "What a Body Can Do: Subject-Object Distinctions as Self-Estrangement in Horkheimer, Adorno, and Early Marx." *75th Meeting of the New Mexico-Texas [NMTX] Philosophical Society*, NMTX Philosophical Society, Houston Community College [HCC], Houston, TX, March 28, 2025. (Refereed).
+* "What a Body Can Do: Subject-Object Distinctions as Self-Estrangement in Horkheimer, Adorno, and Early Marx." *75<sup>th</sup> Meeting of the New Mexico-Texas [NMTX] Philosophical Society*, NMTX Philosophical Society, Houston Community College [HCC], Houston, TX, March 28, 2025. (Refereed).
 
-* "Self-Forgiveness, Enmeshed Being, and Wellbeing through Loving Perception." *36th Annual NAGPS [National Association of Graduate-Professional Students] National Conference: "Teaching to Transform: Empowering Students to Succeed through Ownership and Advocacy [TT:ESSOA],"* NAGPS, in partnership with Grad Student Action Network (GSAN), Online, February 25, 2023. (Organizer).
+* "Self-Forgiveness, Enmeshed Being, and Wellbeing through Loving Perception." *36<sup>th</sup> Annual NAGPS [National Association of Graduate-Professional Students] National Conference: "Teaching to Transform: Empowering Students to Succeed through Ownership and Advocacy [TT:ESSOA],"* NAGPS, in partnership with Grad Student Action Network (GSAN), Online, February 25, 2023. (Organizer).
 
-* "The Ordeals: Trial by Incarnation as Religious-Existential-Phenomenological Pedagogy." *36th Annual NAGPS National Conference: "TT: ESSOA,"* NAGPS, in partnership with GSAN, Online, February 24, 2023. (Organizer).
+* "The Ordeals: Trial by Incarnation as Religious-Existential-Phenomenological Pedagogy." *36<sup>th</sup> Annual NAGPS National Conference: "TT: ESSOA,"* NAGPS, in partnership with GSAN, Online, February 24, 2023. (Organizer).
 
 * "Estrangement in *Dialectic of Enlightenment*: A Brief Critique of the Subject-Object Distinction." *UHD's [University of Houston-Downtown] "Back to the Sources": 2018 History, Humanities, & Languages [HHL] Student Research Conference*, UHD, Houston, TX, December 3, 2018. (Refereed).
 
@@ -68,13 +68,13 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 ## Conference Proceedings
 
-* Moderator, "Temporality Otherwise." *63rd Annual Meeting of the Society for Phenomenology and Existential Philosophy [SPEP]*, SPEP, Virtual, October 17-18 and 24-25, 2025, Forthcoming. (Invited).
+* Moderator, "Temporality Otherwise." *63<sup>rd</sup> Annual Meeting of the Society for Phenomenology and Existential Philosophy [SPEP]*, SPEP, Virtual, October 17-18 and 24-25, 2025, Forthcoming. (Invited).
 
-* Moderator, Session II, Panel A. *75th Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
+* Moderator, Session II, Panel A. *75<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
 
-* Commentator, Igrek, Apple, "The Will to Power as an Oppositional Force against Authoritarianism." *75th Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
+* Commentator, Igrek, Apple, "The Will to Power as an Oppositional Force against Authoritarianism." *75<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
 
-* Coordinator. *36th Annual NAGPS National Conference: "TT: ESSOA."* NAGPS, in partnership with GSAN for a nine-guest speaker panel on disability justice, in addition to NAGPS programming, Online, February 24-25, 2023. (Organizer).
+* Coordinator. *36<sup>th</sup> Annual NAGPS National Conference: "TT: ESSOA."* NAGPS, in partnership with GSAN for a nine-guest speaker panel on disability justice, in addition to NAGPS programming, Online, February 24-25, 2023. (Organizer).
 
 <br>
 
