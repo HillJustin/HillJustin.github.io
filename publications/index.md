@@ -24,7 +24,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf).
 
 * *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
 
-* [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,*](/assets/pdfs/hillj-palestine-laboratory.pdf) by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner.
+* [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World,*](/assets/pdfs/hillj-palestine-laboratory.pdf) by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner; from the river to the sea, Kay.
 
 <br>
 
