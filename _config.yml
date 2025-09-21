@@ -1,6 +1,12 @@
+# _config.yml
+
 name: Justin Hill, philosopher
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 collections:
   hfiles:
     output: true
+
+podcast:
+    title: "Holy Terrain Art: Notes on the Transpersonal, Multimedia, Aesthetic Philosophy of Being-With"
+    subtitle:
