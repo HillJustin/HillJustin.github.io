@@ -11,7 +11,7 @@ plugins:
 collections:
   posts:
     output: true
-    permalink: /HTA/:podcast_episode/
+    permalink: /hta/:podcast_episode/
 
 podcast:
     title: "Holy Terrain Art"
