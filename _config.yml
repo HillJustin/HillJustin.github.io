@@ -3,6 +3,10 @@
 name: Justin Andrew Hill
 markdown: kramdown
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
 collections:
   posts:
     output: true
@@ -31,4 +35,4 @@ podcast:
         - research
     image: /assets/images/podcast.png
     complete: no
-    episode: # local
+    episode: {{ page.episode }}
