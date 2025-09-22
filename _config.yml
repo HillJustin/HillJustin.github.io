@@ -2,6 +2,11 @@
 
 name: Justin Andrew Hill
 markdown: kramdown
+url: "HillJ.net"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
 
 collections:
   posts:
@@ -31,4 +36,4 @@ podcast:
         - research
     image: /assets/images/podcast.png
     complete: no
-    episode: # local
+    episode: {{ page.episode }}
