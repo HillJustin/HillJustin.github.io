@@ -2,6 +2,7 @@
 
 name: Justin Andrew Hill
 markdown: kramdown
+url: "HillJ.net"
 
 plugins:
   - jekyll-remote-theme
