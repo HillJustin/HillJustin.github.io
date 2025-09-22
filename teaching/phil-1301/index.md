@@ -40,7 +40,6 @@ These videos cover the course syllabus and assigned readings, including top-leve
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/p4lu1Vb3aII?si=v3uCNQR0zB73nvA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 * Part Two
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TAWkT-B7DPA?si=oCLrWbXCuioWOkrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

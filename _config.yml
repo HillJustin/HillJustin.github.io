@@ -1,12 +1,34 @@
 # _config.yml
 
-name: Justin Hill, philosopher
+name: Justin Andrew Hill
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+
 collections:
-  hfiles:
+  posts:
     output: true
+    permalink: /HTA/:podcast_episode/
 
 podcast:
-    title: "Holy Terrain Art: Notes on the Transpersonal, Multimedia, Aesthetic Philosophy of Being-With"
-    subtitle:
+    title: "Holy Terrain Art"
+    subtitle: "Philosophical Sketches of Transpersonal Being-With"
+    description: *subtitle
+    summary: *subtitle
+    email: HolyTerrainArt@gmail.com
+    language: "en"
+    author: Holy Terrain Art
+    owner:
+        name: Justin Andrew Hill
+        email: Hill.Justin.Andrew@gmail.com
+    explicit: false
+    category: Education
+    subcategory: Higher Education
+    tags:
+        - university
+        - higher education
+        - [University Name]
+        - students
+        - campus life
+        - research
+    image: /assets/images/podcast.png
+    complete: no
+    episode: # local
