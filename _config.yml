@@ -14,26 +14,26 @@ collections:
     permalink: /hta/:podcast_episode/
 
 podcast:
-    title: "Holy Terrain Art"
-    subtitle: "Philosophical Sketches of Transpersonal Being-With"
-    description: "A philosophy podcast, sometimes taken for college credit."
-    summary: "This podcast is concurrent with curriculi in higher education."
+  title: "Holy Terrain Art"
+  subtitle: "Philosophical Sketches of Transpersonal Being-With"
+  description: "A philosophy podcast, sometimes taken for college credit."
+  summary: "This podcast is concurrent with curriculi in higher education."
+  email: Hill.Justin.Andrew@gmail.com
+  language: "en"
+  uthor: Holy Terrain Art
+  owner:
+    name: Justin Andrew Hill
     email: Hill.Justin.Andrew@gmail.com
-    language: "en"
-    author: Holy Terrain Art
-    owner:
-        name: Justin Andrew Hill
-        email: Hill.Justin.Andrew@gmail.com
-    explicit: false
-    category: Education
-    subcategory: Higher Education
-    tags:
-        - university
-        - higher education
-        - [University Name]
-        - students
-        - campus life
-        - research
-    image: /assets/images/podcast-logo.jpeg
-    complete: no
-    episode: {{ page.episode }}
+  explicit: false
+  category: Education
+  subcategory: Higher Education
+  tags:
+  - university
+  - higher education
+  - [University Name]
+  - students
+  - campus life
+  - research
+  image: /assets/images/podcast-logo.jpeg
+  complete: no
+  episode: {{ page.episode }}
