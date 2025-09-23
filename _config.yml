@@ -20,10 +20,8 @@ podcast:
   summary: "This podcast is concurrent with curriculi in higher education."
   email: Hill.Justin.Andrew@gmail.com
   language: "en"
-  uthor: Holy Terrain Art
-  owner:
-    name: Justin Andrew Hill
-    email: Hill.Justin.Andrew@gmail.com
+  author: Holy Terrain Art
+  owner: Justin Andrew Hill
   explicit: false
   category: Education
   subcategory: Higher Education
