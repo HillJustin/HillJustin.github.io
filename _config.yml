@@ -35,4 +35,3 @@ podcast:
   image: /assets/images/podcast-logo.jpeg
   complete: no
   episode: {{ page.episode }}
-  type: serial
