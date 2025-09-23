@@ -16,9 +16,9 @@ collections:
 podcast:
     title: "Holy Terrain Art"
     subtitle: "Philosophical Sketches of Transpersonal Being-With"
-    description: *subtitle
-    summary: *subtitle
-    email: HolyTerrainArt@gmail.com
+    description: "A philosophy podcast."
+    summary: "This podcast is concurrent with curriculi in higher education."
+    email: Hill.Justin.Andrew@gmail.com
     language: "en"
     author: Holy Terrain Art
     owner:
@@ -34,6 +34,6 @@ podcast:
         - students
         - campus life
         - research
-    image: /assets/images/podcast.png
+    image: /assets/images/podcast-logo.jpeg
     complete: no
     episode: {{ page.episode }}
