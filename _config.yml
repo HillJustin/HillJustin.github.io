@@ -2,7 +2,7 @@
 
 name: Justin Andrew Hill
 markdown: kramdown
-url: "HillJ.net"
+url: "https://HillJ.net"
 
 plugins:
   - jekyll-remote-theme
@@ -16,7 +16,7 @@ collections:
 podcast:
     title: "Holy Terrain Art"
     subtitle: "Philosophical Sketches of Transpersonal Being-With"
-    description: "A philosophy podcast."
+    description: "A philosophy podcast, sometimes taken for college credit."
     summary: "This podcast is concurrent with curriculi in higher education."
     email: Hill.Justin.Andrew@gmail.com
     language: "en"
