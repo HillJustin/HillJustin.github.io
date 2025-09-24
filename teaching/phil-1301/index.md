@@ -18,6 +18,8 @@ title: "PHIL 1301: Introduction to Philosophy"
 
 These videos cover the course syllabus and assigned readings, including top-level explanations, cross-references, and scaffolding breakdowns.
 
+The audio-only version are available as episodes in the [Holy Terrain Art podcast](/hta).
+
 <br>
 
 
