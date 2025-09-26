@@ -1,4 +1,4 @@
 ---
 layout: feed
-title: Holy Terrain Art: A Podcast
+title: Holy Terrain Art, a Podcast
 ---
