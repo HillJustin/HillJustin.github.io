@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 3.3, Plato, "Republic," excerpts from Books I, II, and IV
-abstract: This is part three of five of the lecture series on Plato's "Republic," excerpts from Books I, II, and IV.
+abstract: This episode is part three of five of the lecture series [HTA 3] on Plato's "Republic," excerpts from Books I, II, and IV.
 podcast:
   episode: 33
   file: HTA3PlatoRepublicSoul3.mp3
