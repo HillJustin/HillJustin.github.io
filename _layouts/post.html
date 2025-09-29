@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 <p class="podcast_episode">HolyTerrainArt: Episode {{ page.podcast.episode }}</p>
-<p class="description">Abstract: {{ page.description }}</p>
+<!-- p class="abstract">Abstract: {{ page.abstract }}</p -->
 <p class="meta">Recorded on: {{ page.podcast.recording_date | date_to_string: "ordinal", "US" }}.</p>
 <p class="podcast_duration">Podcast Duration: {{ page.podcast.duration }}.</p>
 <p class="podcast_size">Podcast Size: {{ page.podcast.size_in_megabytes }}.</p>
@@ -11,7 +11,15 @@ layout: default
 <br>
 
 <div class="post">
+
+  <h2>Abstract</h2>
+  <p>{{ page.abstract }}</p>
+
+  <br>
+
+  
   {{ content }}
+  <br>
   <br>
 
   <audio controls preload="metadata" src="/assets/episodes/{{ page.podcast.file }}"></audio>
