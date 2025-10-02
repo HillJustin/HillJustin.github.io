@@ -119,4 +119,50 @@ The audio-only version are available as episodes in the [Holy Terrain Art podcas
 
 <br>
 
-### Plato, *Republic* [ca. 380 BCE], excerpts from Books VI and VII, Forthcoming [August 2025].
+
+### Plato, *Republic* [ca. 380 BCE], excerpts from Books VI and VII, September 2025.
+
+* Part One
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h1eqk70sDXI?si=oCx7Yv8321Yyk6oB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Two
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aWCBtGP3Ntc?si=faM-J8h94S1MUwHL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+
+### Aristotle, *Nicomachean Ethics* [ca. 350 BCE], excerpts from Books I, II, and VIII, September 2025.
+
+
+* Part One
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zi1kuE1cNWU?si=IVHp2eYruG59ZIdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Two
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/5BRLlxL5XCQ?si=LMEz-vgjuJYuX1v1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Three
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rz9xrQLWnCc?si=DrnKa22uS89fsDas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Part Four
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/emj21rbMQAE?si=_aN_fiC_E1W3_gnZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+
+### René Descartes, *Meditations on First Philosophy* [ca. 1645 CE], Meditations One through Three
+
+* Meditation One
+
+
+
+* Meditation Two
+
+
+
+* Meditation Three
