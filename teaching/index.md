@@ -67,7 +67,7 @@ Click the hyperlink to see the annotated PDF.
 
 * Mill, John Stuart.
 
-    * [*Utilitarianism*, Ch. 1-2](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf){:target"_blank" rel="noreferrer noopener"}, in *The Classical Utilitarians: Bentham and Mill*, ed. John Troyer (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2003), 94-115 (incl. Jeremy Bentham on "Push-Pin versus Poetry" for context).
+    * [*Utilitarianism*, Ch. 1-2](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf){:target"_blank" rel="noreferrer noopener"} [1861], in *The Classical Utilitarians: Bentham and Mill*, ed. John Troyer (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2003), 94-115 (incl. Jeremy Bentham on "Push-Pin versus Poetry" for context).
 
 * Nancy, Jean-Luc.
 
