@@ -13,16 +13,20 @@ This page includes courses of study and their associated instructional resources
 
 ## Syllabi
 
-* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/hillj-phil-1301-syllabus.pdf)
+Click the hyperlinks to see PDF resources, which will open in new tabs.
 
-    * [PHIL 1301_ Guiding Questions.pdf](/assets/pdfs/hillj-phil-1301-guiding-questions.pdf)
+* [PHIL 1301: Introduction to Philosophy](/assets/pdfs/hillj-phil-1301-syllabus.pdf){:target="_blank" rel="noreferrer noopener"}
 
-* [PHIL 1304: Introduction to World Religions](/assets/pdfs/hillj-phil-1304-syllabus.pdf)
+    * [PHIL 1301_ Guiding Questions](/assets/pdfs/hillj-phil-1301-guiding-questions.pdf){:target="_blank" rel="noreferrer noopener"}
+
+* [PHIL 1304: Introduction to World Religions](/assets/pdfs/hillj-phil-1304-syllabus.pdf){:target="_blank" rel="noreferrer noopener"}
 
 <br>
 
 
 ## Courses
+
+Click the hyperlinks to visit pages dedicated to each course.
 
 * [PHIL 1301: Introduction to Philosophy](/teaching/phil-1301)
 
@@ -33,7 +37,7 @@ This page includes courses of study and their associated instructional resources
 
 ## Annotated Readings
 
-Click the hyperlink to see the annotated PDF.
+Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Aristotle.
 
