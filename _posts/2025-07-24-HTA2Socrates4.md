@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTA 2.4, Plato [Socrates], "Apology"
-abstract: This episode is part four of four of the lecture series [HTA 2] on Plato's "Apology," a faithful rendition of Socrates' aretaic voice at his death trial.
+title: HTA 2.4, Plato [Socrates], Apology
+abstract: This episode is part four of four of the lecture series [HTA 2] on Plato's Apology, a faithful rendition of Socrates' aretaic voice at his death trial.
 podcast:
   episode: 24
   file: HTA2Socrates4.mp3

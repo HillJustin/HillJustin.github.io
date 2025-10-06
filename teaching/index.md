@@ -99,7 +99,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Spinoza, Baruch.
 
-  * [*Ethics*, excerpt from Part III](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), 127-35.
+  * [*Ethics*, excerpt from Part III](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1677], in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), 127-35.
 
 <br>
 

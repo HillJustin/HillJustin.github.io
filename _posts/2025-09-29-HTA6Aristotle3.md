@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTA 6.3, Aristotle, "Nicomachean Ethics," excerpts from Books I, II, and VIII
-abstract: This episode is part three of four of the lecture series [HTA 6] on Aristotle's "Nicomachean Ethics," excerpts from Books I, II, and VIII.
+title: HTA 6.3, Aristotle, Nicomachean Ethics, excerpts from Books I, II, and VIII
+abstract: This episode is part three of four of the lecture series [HTA 6] on Aristotle's Nicomachean Ethics, excerpts from Books I, II, and VIII.
 podcast:
   episode: 63
   file: HTA6Aristotle3.mp3

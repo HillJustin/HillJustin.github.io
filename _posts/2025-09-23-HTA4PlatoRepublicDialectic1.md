@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTA 4.1, Plato, "Republic," excerpts from Books VI and VII
-abstract: This episode is part one of two of the lecture series [HTA 4] on Plato's "Republic," excerpts from Books VI and VII.
+title: HTA 4.1, Plato, Republic, excerpts from Books VI and VII
+abstract: This episode is part one of two of the lecture series [HTA 4] on Plato's Republic, excerpts from Books VI and VII.
 podcast:
   episode: 41
   file: HTA4PlatoRepublicDialectic1.mp3
