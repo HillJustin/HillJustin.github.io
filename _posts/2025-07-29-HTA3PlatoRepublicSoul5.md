@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 3.5, Plato, Republic [380 BCE], excerpts from Books I, II, and IV
+title: HTA 3.5; Plato; Republic [380 BCE]; excerpts from Books I, II, and IV
 abstract: This episode is part five of five of the lecture series [HTA 3] on Plato's Republic, excerpts from Books I, II, and IV.
 podcast:
   episode: 35
