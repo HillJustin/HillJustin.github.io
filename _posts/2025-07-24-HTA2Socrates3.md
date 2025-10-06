@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 2.3, Plato [Socrates], Apology
+title: HTA 2.3, Plato [Socrates], Apology [399 BCE]
 abstract: This episode is part three of four of the lecture series [HTA 2] on Plato's Apology, a faithful rendition of Socrates' aretaic voice at his death trial.
 podcast:
   episode: 23

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 7.4, Descartes, Meditations on First Philosophy, Meditations 1-3, Third Meditation, Part Two
+title: HTA 7.4, Descartes, Meditations on First Philosophy [1641], Meditations 1-3, Third Meditation, Part Two
 abstract: This episode is part four of four of the lecture series [HTA 7] on René Descartes's Meditations on First Philosophy, Meditations 1-3, as well as part two of two on the Third Meditation.
 podcast:
   episode: 74
