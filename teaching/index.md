@@ -86,7 +86,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Massumi, Brian.
 
-  * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-ch1-blank.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
+  * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
 
 
 * Mill, John Stuart.
