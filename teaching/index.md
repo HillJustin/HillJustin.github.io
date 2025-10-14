@@ -74,7 +74,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
   * ["The Uses of the Erotic," v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online here](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
-  * ["The Uses of the Erotic," v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"} [1964], [blank PDF online here](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * ["The Uses of the Erotic," v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online here](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Kant, Immanuel.
@@ -87,6 +87,8 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 * Massumi, Brian.
 
   * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
+
+  * Justin A. Hill, ["Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*"](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}
 
 
 * Mill, John Stuart.
@@ -122,7 +124,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Spinoza, Baruch.
 
-  * ["Introduction" by Frank Sewall, M.A.](/assets/pdfs/annotations/sewall-spinoza-introduction-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), v-xii.
+  * Frank Sewall, M.A., ["Introduction"](/assets/pdfs/annotations/sewall-spinoza-introduction-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), v-xii.
 
   * [*Ethics*, excerpt from Part III](/assets/pdfs/annotations/spinoza-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1677], in *Philosophy of Benedict de Spinoza*, New Edition, trans. R.H.M. Elwes (New York: Tudor Publishing, Co., 1936), 127-35.
 
