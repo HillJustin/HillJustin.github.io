@@ -71,15 +71,15 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Lorde, Audre.
 
-  * ["The Uses of the Erotic," v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online here](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * ["The Uses of the Erotic," v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
-  * ["The Uses of the Erotic," v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online here](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * ["The Uses of the Erotic," v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Kant, Immanuel.
 
-  * ["An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/kant-enlightenment-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1784], trans. Ted Humphrey (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1992), available originally from the New York Public Library (NYPL) at [https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf).
+  * ["An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/kant-enlightenment-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1784], trans. Ted Humphrey (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1992), blank PDF available originally from the New York Public Library (NYPL) online at [https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf){:target="_blank" rel="noreferrer noopener"}.
 
   * [*Grounding for the Metaphysics of Morals: with On a Supposed Right to Lie because of Philanthropic Concerns*, Foreword, Introduction, Preface, and First Section](/assets/pdfs/annotations/kant-grounding-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, third edition, trans. James W. Ellington (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1993 [1785]), iv-xiii, 1-17.
 
@@ -88,7 +88,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
   * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
 
-  * Justin A. Hill, ["Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*"](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}
+  * Justin A. Hill, ["Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*"](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Mill, John Stuart.
@@ -119,7 +119,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Sontag, Susan.
 
-  * ["Against Interpretation"](/assets/pdfs/annotations/sontag-against-interpretation-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1964], [blank PDF online here](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * ["Against Interpretation"](/assets/pdfs/annotations/sontag-against-interpretation-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1964], [blank PDF online at https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Spinoza, Baruch.
@@ -133,4 +133,4 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 ## Audiovisual Readings
 
-Full video lectures of key philosophical readings (e.g., audiovisual or audio-assisted readings) forthcoming [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
+Full video lectures of key philosophical readings (e.g., audiovisual or audio-assisted readings) available [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).

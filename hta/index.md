@@ -23,6 +23,10 @@ Use the syllabi below to match the assigned readings with podcast episodes. As t
 
 * [PHIL 1304: Introduction to World Religions](/assets/pdfs/hillj-phil-1301-syllabus.pdf)
 
+* PHIL 2305: Contemporary Ethical Issues [Forthcoming]
+
+* PHIL 2310: The Meaning of Life [Forthcoming]
+
 
 ### *Podcast Lecture Episodes*
 
