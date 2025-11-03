@@ -63,10 +63,19 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
   * [*Art as Experience*, Ch. 1-3](/assets/pdfs/annotations/dewey-art-as-experience-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (New York: Perigee [Penguin Group (USA) Inc.], 2005 [1934]), vii-viii, 1-59.
 
+  * Justin A. Hill, "[American Pragmatism {Dewey and James} Study Guide](/assets/pdfs/annotations/american-pragmatism-dewey-james-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}."
+
+
+* Foucault, Michele.
+
+  * ["The Discourse on Language"](/assets/pdfs/annotations/foucault-discourse-language-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (trans. Rupert Swyer, 1971), in *The Archaeology of Knowledge*, trans. A.M. Sheridan Smith (New York: Pantheon, 1972), Appendix: "The Discourse on Language," 215-237.
+
 
 * James, William.
 
   * ["What Pragmatism Means"](/assets/pdfs/annotations/james-what-pragmatism-means-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1904], in *Selected Writings* (Vermont/London: Everyman, 1995), xii-xliii, 3-19.
+
+  * Justin A. Hill, "[American Pragmatism {Dewey and James} Study Guide](/assets/pdfs/annotations/american-pragmatism-dewey-james-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}."
 
 
 * Lorde, Audre.
@@ -88,7 +97,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
   * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
 
-  * Justin A. Hill, ["Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*"](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * Justin A. Hill, "[Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}."
 
 
 * Mill, John Stuart.
