@@ -24,7 +24,7 @@ These videos cover the course syllabus and assigned readings, including top-leve
 * In-Person
 
   Forthcoming [January 2026].
-
+ 
 <br>
 
 

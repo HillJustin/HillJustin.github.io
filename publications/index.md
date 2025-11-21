@@ -31,14 +31,14 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 
 ## Article Contributions
 
-* Peter Trnka, “Incanting Ghosts: A Letter from the Editor-in-Chief,” Janus Unbound: Journal of Critical Studies, Vol. 4, no. 2, July 2025, 1-16, quoted about epistemicide and Kay’s wrongful death interacting with police, 11-13. [https://journals.library.mun.ca/index.php/JU/article/view/2914/2355](https://journals.library.mun.ca/index.php/JU/article/view/2914/2355){:target="_blank" rel="noreferrer noopener"}.
+* Peter Trnka, “Incanting Ghosts: A Letter from the Editor-in-Chief,” Janus Unbound: Journal of Critical Studies, Vol. 4, no. 2, July 2025, 1-16, quoted about epistemicide and Kay’s wrongful death interacting with police, 11-13. [https://journals.library.mun.ca/index.php/JU/article/view/2914/2355](https://journals.library.mun.ca/index.php/JU/article/view/2914/2355/){:target="_blank" rel="noreferrer noopener"}.
 
 <br>
 
 
 ## Interviews
 
-* "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Method, Eidetics/Knowing, Commitment, Interembodiment, Multiplicity as the Univocity of Being, and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, [Online](https://www.youtube.com/live/1_Mk7R6eqh4?si=u2IZ2OgINBIHU84L), September 25, 2025.
+* "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Method, Eidetics/Knowing, Commitment, Interembodiment, Multiplicity as the Univocity of Being, and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, [Online](https://www.youtube.com/live/1_Mk7R6eqh4?si=u2IZ2OgINBIHU84L/), September 25, 2025.
 
 <br>
 

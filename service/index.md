@@ -12,7 +12,7 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 
 
 ## Memberships
-
+ 
 * Society for Phenomenology and Existential Philosophy (SPEP), 2025 - Present.
 
 * Radical Philosophy Association (RPA), 2025 - Present.

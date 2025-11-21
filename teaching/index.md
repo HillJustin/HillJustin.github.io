@@ -28,9 +28,9 @@ Click the hyperlinks to see PDF resources, which will open in new tabs.
 
 Click the hyperlinks to visit pages dedicated to each course.
 
-* [PHIL 1301: Introduction to Philosophy](/teaching/phil-1301)
+* [PHIL 1301: Introduction to Philosophy](/teaching/phil-1301/)
 
-* [PHIL 1304: Introduction to World Religions](/teaching/phil-1304)
+* [PHIL 1304: Introduction to World Religions](/teaching/phil-1304/)
 
 <br>
 
@@ -41,7 +41,7 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Aristotle.
 
-  * [*Nicomachean Ethics*, excerpts from Books I, II, and VIII](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, second edition, trans. Terence Irwin (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
+  * [*Nicomachean Ethics*, excerpts from Books I, II, and VIII](/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, second edition, trans. Terence Irwin, introduction by Terence Irwin, (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
 
 
 * Bergson, Henri.
@@ -73,36 +73,37 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * James, William.
 
-  * ["What Pragmatism Means"](/assets/pdfs/annotations/james-what-pragmatism-means-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1904], in *Selected Writings* (Vermont/London: Everyman, 1995), xii-xliii, 3-19.
+  * ["What Pragmatism Means"](/assets/pdfs/annotations/james-what-pragmatism-means-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1904], in *Selected Writings*, introduction by Graham H. Bird (Vermont/London: Everyman, 1995), xii-xliii, 3-19.
 
   * Justin A. Hill, "[American Pragmatism {Dewey and James} Study Guide](/assets/pdfs/annotations/american-pragmatism-dewey-james-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}."
 
 
 * Lorde, Audre.
 
-  * ["The Uses of the Erotic," v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * "The Uses of the Erotic" [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
+    * [Hill, Exemplar Annotations, v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"}.
 
-  * ["The Uses of the Erotic," v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"} [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
+    * [Hill, Exemplar Annotations, v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Kant, Immanuel.
 
   * ["An Answer to the Question: *What is Enlightenment?*"](/assets/pdfs/annotations/kant-enlightenment-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1784], trans. Ted Humphrey (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1992), blank PDF available originally from the New York Public Library (NYPL) online at [https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf](https://www.nypl.org/sites/default/files/kant_whatisenlightenment.pdf){:target="_blank" rel="noreferrer noopener"}.
 
-  * [*Grounding for the Metaphysics of Morals: with On a Supposed Right to Lie because of Philanthropic Concerns*, Foreword, Introduction, Preface, and First Section](/assets/pdfs/annotations/kant-grounding-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, third edition, trans. James W. Ellington (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1993 [1785]), iv-xiii, 1-17.
+  * [*Grounding for the Metaphysics of Morals: with On a Supposed Right to Lie because of Philanthropic Concerns*, Foreword, Introduction, Preface, and First Section](/assets/pdfs/annotations/kant-grounding-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, third edition, trans. James W. Ellington, introduction by James W. Ellington (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1993 [1785]), iv-xiii, 1-17.
 
 
 * Massumi, Brian.
 
-  * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / /Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
+  * [*Politics of Affect*, Preface and excerpt from Ch. 1](/assets/pdfs/annotations/massumi-politics-affect-preface-ch1-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} (Cambridge, UK / Malden, MA: Polity Press, 2015), vii-xvi, 1-14.
 
   * Justin A. Hill, "[Affect, Fields of Immi(a)nence, and Differential Attunement in Massumi's *Politics of Affect*](/assets/pdfs/annotations/massumi-politics-affect-hillj-review.pdf){:target="_blank" rel="noreferrer noopener"}."
 
 
 * Mill, John Stuart.
 
-  * [*Utilitarianism*, Ch. 1-2](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1861], in *The Classical Utilitarians: Bentham and Mill*, ed. John Troyer (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2003), 94-115 (incl. Jeremy Bentham on "Push-Pin versus Poetry" for context).
+  * [*Utilitarianism*, Ch. 1-2](/assets/pdfs/annotations/mill-utilitarianism-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1861], in *The Classical Utilitarians: Bentham and Mill*, ed. John Troyer, introduction by John Troyer (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2003), 94-115 (incl. Jeremy Bentham on "Push-Pin versus Poetry" for context).
 
 
 * Nancy, Jean-Luc.
@@ -123,12 +124,16 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Sartre, Jean-Paul.
 
-  * [*Sketch for a Theory of the Emotions*](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, trans. Philip Mairet (New York: Routledge Great Minds, 2014).
+  * *Sketch for a Theory of the Emotions*, trans. Philip Mairet, foreword Sebastian Gardner (New York: Routledge Great Minds, 2014).
+
+    * [Hill, Exemplar Annotations, v1, 2024](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations-v1-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
+
+    * [Hill, Exemplar Annotations, v2, 2025](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations-v2-2025.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Sontag, Susan.
 
-  * ["Against Interpretation"](/assets/pdfs/annotations/sontag-against-interpretation-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1964], [blank PDF online at https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf){:target="_blank" rel="noreferrer noopener"}.
+  * ["Against Interpretation"](/assets/pdfs/annotations/sontag-against-interpretation-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1964], [blank PDF online here, accessed Nov. 20, 2025](https://static1.squarespace.com/static/54889e73e4b0a2c1f9891289/t/564b6702e4b022509140783b/1447782146111/Sontag-Against+Interpretation.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Spinoza, Baruch.
