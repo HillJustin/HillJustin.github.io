@@ -155,7 +155,7 @@ The audio-only version are available as episodes in the [Holy Terrain Art podcas
 <br>
 
 
-### René Descartes, *Meditations on First Philosophy* [1641], Meditations One through Three, October 2025.
+### René Descartes, *Meditations on First Philosophy* [1641], First, Second, and Third Meditations, October 2025.
 
 * Meditation One
 
@@ -294,7 +294,7 @@ The audio-only version are available as episodes in the [Holy Terrain Art podcas
 
 * Part Three
 
-  
+
 
 * Part Four
 
