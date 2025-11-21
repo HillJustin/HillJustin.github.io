@@ -11,7 +11,7 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 <br>
 
 
-## Memberships
+### *Memberships*
 
 * Society for Phenomenology and Existential Philosophy (SPEP), 2025 - Present.
 
@@ -28,14 +28,14 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 <br>
 
 
-## Refereeships
+### *Refereeships*
 
 * *Janus Unbound: Journal of Critical Studies*, 2025 - Present.
 
 <br>
 
 
-## Service
+### *Service*
 
 * Social Media Triarch, RPA. Available at [Facebook.com/RadPhilAssoc/](Facebook.com/RadPhilAssoc/) and at [Instagram.com/RadicalPhilosophyAssoc/](Instagram.com/RadicalPhilosophyAssoc/), 2025.
 
@@ -56,7 +56,7 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 <br>
 
 
-## Honors
+### *Honors*
 
 * Pi Gamma Mu, International Honor Society for the Social Sciences, 2019.
 
@@ -71,15 +71,14 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 <br>
 
 
-## Awards
+### *Awards*
 
-* COLFA [College of Liberal and Fine Arts] Travel Funding, Tarleton State University,  March 27 - April 12, 2025. *Three distinct conferences approved, including room, board, travel, and registration.*
+* COLFA [College of Liberal and Fine Arts] Travel Funding, Tarleton State University. *Three distinct conferences approved, including room, board, travel, and registration.* March 27 - April 12, 2025.
 
 * UHD Red Rose Scholarship, one of fifteen, 2018.
 
 * UNT Excellence Scholarship, second of six, 2014 - 2015.
 
-* Texas Education Agency Highest Ranking Graduate Tuition Waiver.
-*State-funded first-year tuition remission for high-school valedictorians.* 2014-2015.
+* Texas Education Agency Highest Ranking Graduate Tuition Waiver. *State-funded first-year tuition remission for high-school valedictorians.* 2014-2015.
 
 * Rose Lafferty and Flora Foust Scholarship, 2014.

@@ -11,7 +11,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Articles
+### *Articles*
 
 * "Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. [https://philpapers.org/archive/HILACA-6.pdf](https://philpapers.org/archive/HILACA-6.pdf){:target="_blank" rel="noreferrer noopener"}. (Refereed).
 
@@ -20,7 +20,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Book Reviews
+### *Book Reviews*
 
 * *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
 
@@ -29,23 +29,25 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Article Contributions
+### *Article Contributions*
 
 * Peter Trnka, “Incanting Ghosts: A Letter from the Editor-in-Chief,” Janus Unbound: Journal of Critical Studies, Vol. 4, no. 2, July 2025, 1-16, quoted about epistemicide and Kay’s wrongful death interacting with police, 11-13. [https://journals.library.mun.ca/index.php/JU/article/view/2914/2355](https://journals.library.mun.ca/index.php/JU/article/view/2914/2355/){:target="_blank" rel="noreferrer noopener"}.
 
 <br>
 
 
-## Interviews
+### *Interviews*
 
 * "Peri-Phenomenology as Meta-Ethical Ground: In Conversation with Ed Casey on Method, Eidetics/Knowing, Commitment, Interembodiment, Multiplicity as the Univocity of Being, and Immanent, Inside-Out Affect." *Radical Philosophy Hour*, Radical Philosophy Association, [Online](https://www.youtube.com/live/1_Mk7R6eqh4?si=u2IZ2OgINBIHU84L/), September 25, 2025.
 
 <br>
 
 
-## Conference Presentations
+### *Conference Presentations*
 
-* "Foucault on Defanged Discourse and Expressive Materialism." *123<sup>rd</sup> Meeting of the Central Division of the American Philosophical Association [APA]*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
+* "Eidetic-Noetic Intuition of the *Cogito* and Qualitative Cartesian Mentalism: A Phenomenological Defense against the Cartesian Circle." *99<sup>th</sup> Meeting of the Pacific Division of the American Philosophical Association [APA]*, Workshop Session, APA, Virtual, Forthcoming [March 8, 2026]. (Refereed).
+
+* "Foucault on Defanged Discourse and Expressive Materialism." *123<sup>rd</sup> Meeting of the Central Division of the APA*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
 
 * "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
 
@@ -66,9 +68,9 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Conference Proceedings
+### *Conference Proceedings*
 
-* Moderator, "Temporality Otherwise." *63<sup>rd</sup> Annual Meeting of the Society for Phenomenology and Existential Philosophy [SPEP]*, SPEP, Virtual, October 17-18 and 24-25, 2025, Forthcoming. (Invited).
+* Moderator, "Temporality Otherwise." *63<sup>rd</sup> Annual Meeting of the Society for Phenomenology and Existential Philosophy [SPEP]*, SPEP, Virtual, October 25, 2025. (Invited).
 
 * Moderator, Session II, Panel A. *75<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, HCC, Houston, TX, March 28, 2025. (Presenter).
 
@@ -79,14 +81,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Invited Lectures
-
-* "Language as Medium and Mediums as Languages in John Dewey's Esthetics." ART 3321: Life Drawing, TSU, Stephenville, TX, October 6-10, 2025. (Invited).
-
-<br>
-
-
-## Poetry
+### *Poetry*
 
 * "[Eschatology](/assets/pdfs/hillj-eschatology.pdf){:target="_blank" rel="noreferrer noopener"}." Single poem. *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 119-20. (Refereed).
 
@@ -101,14 +96,14 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="
 <br>
 
 
-## Theatre
+### *Theatre*
 
 * Dr. Gimby, Don Sedgwick, Prosecutor Meredith, Hughie McDonald, Editor Curran, and Photographer, in *The Angelina Project*. UNT [University of North Texas] University Players, Denton, TX, November 2015. (Refereed).
 
 <br>
 
 
-## Visual Art
+### *Visual Art*
 
 * Three pieces. Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House [Madrid, Spain], [Virtual](https://www.instagram.com/p/Cbk5yWIK9DC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank" rel="noreferrer noopener"}, March 22-31, 2022. Holy Terrain moniker. [https://capitalculturehouse.org/virtual/](https://capitalculturehouse.org/virtual/){:target="_blank" rel="noreferrer noopener"}. (Refereed).
 

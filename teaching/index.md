@@ -11,7 +11,7 @@ This page includes courses of study and their associated instructional resources
 <br>
 
 
-## Syllabi
+### *Syllabi*
 
 Click the hyperlinks to see PDF resources, which will open in new tabs.
 
@@ -24,7 +24,7 @@ Click the hyperlinks to see PDF resources, which will open in new tabs.
 <br>
 
 
-## Courses
+### *Courses*
 
 Click the hyperlinks to visit pages dedicated to each course.
 
@@ -35,7 +35,7 @@ Click the hyperlinks to visit pages dedicated to each course.
 <br>
 
 
-## Annotated Readings
+### *Annotated Readings*
 
 Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
@@ -145,6 +145,6 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 <br>
 
 
-## Audiovisual Readings
+### *Audiovisual Readings*
 
 Full video lectures of key philosophical readings (e.g., audiovisual or audio-assisted readings) available [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
