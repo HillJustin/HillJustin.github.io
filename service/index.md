@@ -6,7 +6,7 @@ title: "Service"
 # {{ page.title }}
 
 
-Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
+Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 <br>
 
@@ -37,9 +37,9 @@ Full curriculum vitae available [here](assets/pdfs/hillj-cv-2025.pdf).
 
 ### *Service*
 
-* Social Media Triarch, RPA. Available at [Facebook.com/RadPhilAssoc/](Facebook.com/RadPhilAssoc/) and at [Instagram.com/RadicalPhilosophyAssoc/](Instagram.com/RadicalPhilosophyAssoc/), 2025.
+* Social Media Triarch, RPA. Available at [Facebook.com/RadPhilAssoc/](https://www.Facebook.com/RadPhilAssoc/){:target="_blank" rel="noreferrer noopener"} and at [Instagram.com/RadicalPhilosophyAssoc/](https://www.Instagram.com/RadicalPhilosophyAssoc/){:target="_blank" rel="noreferrer noopener"}, 2025.
 
-* Director of Communications and Chief Communications Officer, NAGPS. Available at [Facebook.com/NAGPS/](Facebook.com/NAGPS/) and at [Instagram.com/NAGPS/](Instagram.com/NAGPS/), 2023.
+* Director of Communications and Chief Communications Officer, NAGPS. Available at [Facebook.com/NAGPS/](https://www.Facebook.com/NAGPS/){:target="_blank" rel="noreferrer noopener"} and at [Instagram.com/NAGPS/](https://www.Instagram.com/NAGPS/){:target="_blank" rel="noreferrer noopener"}, 2023.
 
 * President, Phi Sigma Tau, Texas Nu Chapter, University of Houston-Downtown (UHD), 2018 - 2019.
 

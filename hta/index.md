@@ -7,7 +7,7 @@ title: Holy Terrain Art, a Podcast
 
 ### *{{ site.podcast.subtitle}}*
 
-Episodes of *Holy Terrain Art* are also available on [Apple Podcasts](https://podcasts.apple.com/us/podcast/holy-terrain-art/id1841546111/){:target="_blank" rel="noreferrer noopener"} and [Spotify Podcasts](https://open.spotify.com/show/6DVqh1VNayxnUWucSoIG9h/){:target="_blank" rel="noreferrer noopener"}. Video episodes are also available on [YouTube](https://youtube.com/@HolyTerrainArt/){:target"_blank" rel="noreferrer noopener"}.
+Episodes of *Holy Terrain Art* are also available on [Apple Podcasts](https://podcasts.apple.com/us/podcast/holy-terrain-art/id1841546111){:target="_blank" rel="noreferrer noopener"} and [Spotify Podcasts](https://open.spotify.com/show/6DVqh1VNayxnUWucSoIG9h/){:target="_blank" rel="noreferrer noopener"}. Video episodes are also available on [YouTube](https://youtube.com/@HolyTerrainArt/){:target"_blank" rel="noreferrer noopener"}.
 
 
 ### *What is Holy Terrain Art?*
