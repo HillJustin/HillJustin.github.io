@@ -309,3 +309,12 @@ The audio-only version are available as episodes in the [Holy Terrain Art podcas
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Yzo52r9V0gY?si=jqL80nNjkgDSdIw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
+
+
+### Gilles Deleuze, "Zones of Immanence" [ca. 1975-95] and "Immanence: A Life" [1995], November 2025.
+
+* Part One
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ElAFsgiFYI4?si=SHwi_Vqy9sIDaE57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
