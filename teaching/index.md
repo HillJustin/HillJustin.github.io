@@ -51,7 +51,13 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
 * Deleuze, Gilles.
 
-  * ["Immanence: A Life"](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1995], in *Pure Immanence: Essays on A Life*, trans. Anne Boyman (New York: Zone Books, 2005), 25-33.
+  * ["Immanence: A Life"](){:target="_blank" rel="noreferrer noopener"} [1995], in *Pure Immanence: Essays on A Life*, trans. Anne Boyman (New York: Zone Books, 2005), 25-33.
+
+    * [Hill, Exemplar Annotations, v2 2025](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations-v2-2025.pdf){:target="_blank" rel="noreferrer noopener"}.
+
+    * [Hill, Exemplar Annotations, v1, 2024](/assets/pdfs/annotations/deleuze-immanence-a-life-hillj-annotations-v1-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
+
+  * ["Zones of Immanence"](/assets/pdfs/annotations/deleuze-zones-of-immanence-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [ca. 1975-95], in *Two Regimes of Madness: Texts and Interviews 1975-1995*, ed. David Lapoujade, trans. Ames Hodges and Mike Taormina (Cambridge, MA / London, UK: Semiotext(e), distributed by The MIT Press, 2007 [2001]), 266-69.
 
 
 * Descartes, René.
@@ -82,9 +88,9 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
   * "The Uses of the Erotic" [1984], [blank PDF online at https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf](https://uk.sagepub.com/sites/default/files/upm-binaries/11881_Chapter_5.pdf){:target="_blank" rel="noreferrer noopener"}.
 
-    * [Hill, Exemplar Annotations, v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"}.
-
     * [Hill, Exemplar Annotations, v2, 2024](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v2-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
+
+    * [Hill, Exemplar Annotations, v1, 2021](/assets/pdfs/annotations/lorde-erotic-hillj-annotations-v1-2021.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Kant, Immanuel.
@@ -126,9 +132,9 @@ Click the hyperlinks to see the annotated PDFs, which will open in new tabs.
 
   * *Sketch for a Theory of the Emotions*, trans. Philip Mairet, foreword Sebastian Gardner (New York: Routledge Great Minds, 2014).
 
-    * [Hill, Exemplar Annotations, v1, 2024](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations-v1-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
-
     * [Hill, Exemplar Annotations, v2, 2025](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations-v2-2025.pdf){:target="_blank" rel="noreferrer noopener"}.
+
+    * [Hill, Exemplar Annotations, v1, 2024](/assets/pdfs/annotations/sartre-sketch-theory-emotions-hillj-annotations-v1-2024.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 
 * Sontag, Susan.
