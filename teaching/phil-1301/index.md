@@ -14,6 +14,18 @@ title: "PHIL 1301: Introduction to Philosophy"
 <br>
 
 
+## Podcast Lectures
+
+<ul>
+  {% assign 1301_course = site.posts | where: "course", "1301" %}
+    {% for post in 1301_course %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<br>
+
+
 ## Video Curriculum
 
 These videos cover the course syllabus and assigned readings, including top-level explanations, cross-references, and scaffolding breakdowns.

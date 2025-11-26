@@ -12,6 +12,18 @@ title: "PHIL 1304: Introduction to World Religions"
 <br>
 
 
+## Podcast Lectures
+
+<ul>
+  {% assign 1304_course = site.posts | where: "course", "1304" %}
+    {% for post in 1304_course %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<br>
+
+
 ## Video Curriculum
 
 These videos cover the course syllabus and assigned readings, including top-level explanations, cross-references, and scaffolding breakdowns.
@@ -19,11 +31,9 @@ These videos cover the course syllabus and assigned readings, including top-leve
 <br>
 
 
-### Syllabus, Forthcoming [August 2025].
+### Syllabus, Forthcoming [January 2026].
 
-* In-Person
-
-  Forthcoming [January 2026].
+* In-Person, Forthcoming [January 2026].
 
 <br>
 

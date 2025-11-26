@@ -32,10 +32,10 @@ Use the syllabi below to match the assigned readings with podcast episodes. As t
 
 {% for post in site.posts %}
 
-<div>
-  <ul>
+<ul>
+  <div>
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  </ul>
-</div>
+  </div>
+</ul>
 
 {% endfor %}

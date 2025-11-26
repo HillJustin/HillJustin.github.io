@@ -6,7 +6,16 @@ podcast:
   episode: 64
   file: HTA6Aristotle4.mp3
   recording_date: 2025-09-30
+course:
+  - 1301
 ---
+
+## Exemplar Annotations
+
+* Aristotle, [*Nicomachean Ethics*, excerpts from Books I, II, and VIII]({{ site.url }}/assets/pdfs/annotations/aristotle-nicomachean-ethics-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, second edition, trans. Terence Irwin, introduction by Terence Irwin, (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1999), xiii-xxviii, 1-30, 121-23.
+
+<br>
+
 
 ## Guiding Questions
 

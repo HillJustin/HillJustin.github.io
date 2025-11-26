@@ -6,7 +6,16 @@ podcast:
   episode: 71
   file: HTA7Descartes1.mp3
   recording_date: 2025-10-04
+course:
+  - 1301
 ---
+
+## Exemplar Annotations
+
+* René Descartes, [*Meditations on First Philosophy: With Selections from the Objections and Replies*]({{ site.url }}/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1641], ed. John Cottingham, trans. John Cottingham (New York: Cambridge University Press, 2013 [1986]), 3-62.
+
+<br>
+
 
 ## Guiding Questions
 

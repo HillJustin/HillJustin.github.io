@@ -6,7 +6,17 @@ podcast:
   episode: 21
   file: HTA2Socrates1.mp3
   recording_date: 2025-07-23
+course:
+  - 1301
+  - 2310
 ---
+
+## Exemplar Annotations
+
+* Plato, [*Apology*]({{ site.url }}/assets/pdfs/annotations/plato-apology-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 21-44.
+
+<br>
+
 
 ## Guiding Questions
 

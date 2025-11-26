@@ -12,6 +12,7 @@ collections:
   posts:
     output: true
     permalink: /hta/:podcast_episode/
+    sort_by: episode
 
 podcast:
   title: "Holy Terrain Art"
