@@ -1,4 +1,4 @@
-Click the hyperlinks to visit pages dedicated to each course.
+Click the links below to visit dedicated pages for each course. Each page compiles the relevant podcast lectures into their respective curricula.
 
 * [PHIL 1301: Introduction to Philosophy](/teaching/phil-1301/)
 
