@@ -1,0 +1,6 @@
+<ul>
+  {% assign current_course = site.posts | where: "course", page.course %}
+    {% for post in current_course %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

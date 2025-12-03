@@ -8,11 +8,21 @@ podcast:
   recording_date: 2025-10-05
 course:
   - 1301
+key: descartes-meditations-on-first-philosophy-hillj-annotations
 ---
 
-## Exemplar Annotations
+## Abstract
 
-* René Descartes, [*Meditations on First Philosophy: With Selections from the Objections and Replies*]({{ site.url }}/assets/pdfs/annotations/descartes-meditations-on-first-philosophy-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"} [1641], ed. John Cottingham, trans. John Cottingham (New York: Cambridge University Press, 2013 [1986]), 3-62.
+{{ page.abstract }}
+
+<br>
+
+
+## Primary Source
+
+{% reference page.key %}
+
+* {% include reference_url.html %}
 
 <br>
 

@@ -8,11 +8,22 @@ podcast:
   recording_date: 2025-07-25
 course:
   - 1301
+  - 2306
+key: plato-republic-hillj-annotations
 ---
 
-## Exemplar Annotations
+## Abstract
 
-* Plato, [*Republic*, excerpts from Books I, II, IV, VI, and VII]({{ site.url }}/assets/pdfs/annotations/plato-republic-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *The Complete Works*, ed. John M. Cooper, assoc. ed. D.S. Hutchinson, trans. G.M.A. Grube, rev. C.D.C. Reeve (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 1997), 971-1003, 1052-77, 1126-55.
+{{ page.abstract }}
+
+<br>
+
+
+## Primary Source
+
+{% reference page.key %}
+
+* {% include reference_url.html %}
 
 <br>
 

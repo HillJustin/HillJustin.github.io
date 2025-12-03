@@ -7,6 +7,8 @@ url: "https://HillJ.net"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-scholar
 
 collections:
   posts:
@@ -36,3 +38,15 @@ podcast:
   image: /assets/images/podcast-logo.jpeg
   complete: no
   episode: {{ page.episode }}
+
+scholar:
+  style: chicago-notes-bibliography-16th-edition
+  locale: en
+  bibliography: annotations
+  sort_by: author, title
+  order: ascending
+  group_by: author, title
+  group_order: ascending
+  repository: /assets/pdfs/annotations
+  bibliography_template: bibliography
+  relative: "/annotations/index.html"

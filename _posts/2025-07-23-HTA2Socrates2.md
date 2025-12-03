@@ -8,12 +8,23 @@ podcast:
   recording_date: 2025-07-23
 course:
   - 1301
+  - 2306
   - 2310
+key: plato-apology-hillj-annotations
 ---
 
-## Exemplar Annotations
+## Abstract
 
-* Plato, [*Apology*]({{ site.url }}/assets/pdfs/annotations/plato-apology-hillj-annotations.pdf){:target="_blank" rel="noreferrer noopener"}, in *Five Dialogues*, second edition, trans. G.M.A. Grube, rev. John M. Cooper (Indianapolis/Cambridge: Hackett Publishing Company, Inc., 2002), 21-44.
+{{ page.abstract }}
+
+<br>
+
+
+## Primary Source
+
+{% reference page.key %}
+
+* {% include reference_url.html %}
 
 <br>
 
