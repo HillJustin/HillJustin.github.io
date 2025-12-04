@@ -12,11 +12,6 @@ title: Holy Terrain Art, a Podcast
 <br>
 
 
-<iframe src="https://castbox.fm/app/castbox/player/id6764982?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
-
-<br>
-
-
 ### *What is Holy Terrain Art?*
 
 {{ site.podcast.description }}
@@ -42,5 +37,12 @@ title: Holy Terrain Art, a Podcast
 </ul>
 
 {% endfor %}
+
+<br>
+
+
+### Castbox Embedded Player
+
+<iframe src="https://castbox.fm/app/castbox/player/id6764982?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
 
 <br>
