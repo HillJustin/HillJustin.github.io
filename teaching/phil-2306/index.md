@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHIL 2306: Introduction to Ethics"
-course: 2306
+course: "2306"
 ---
 
 # {{ page.title }}

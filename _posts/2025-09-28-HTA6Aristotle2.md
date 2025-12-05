@@ -7,8 +7,10 @@ podcast:
   file: HTA6Aristotle2.mp3
   recording_date: 2025-09-28
 course:
-  - 1301
-  - 2306
+  - "1301"
+  - "2306"
+"1301": 5.7
+"2306":
 key: aristotle-nicomachean-ethics-hillj-annotations
 ---
 

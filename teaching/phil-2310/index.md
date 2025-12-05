@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHIL 2310: The Meaning of Life"
-course: 2310
+course: "2310"
 ---
 
 # {{ page.title }}

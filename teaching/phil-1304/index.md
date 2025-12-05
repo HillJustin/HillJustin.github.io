@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHIL 1304: Introduction to World Religions"
-course: 1304
+course: "1304"
 ---
 
 # {{ page.title }}

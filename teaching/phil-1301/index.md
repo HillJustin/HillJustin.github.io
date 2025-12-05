@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHIL 1301: Introduction to Philosophy"
-course: 1301
+course: "1301"
 ---
 
 # {{ page.title }}

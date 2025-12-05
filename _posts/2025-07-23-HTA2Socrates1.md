@@ -7,9 +7,12 @@ podcast:
   file: HTA2Socrates1.mp3
   recording_date: 2025-07-23
 course:
-  - 1301
-  - 2306
-  - 2310
+  - "1301"
+  - "2306"
+  - "2310"
+"1301": 4.1
+"2306":
+"2310":
 key: plato-apology-hillj-annotations
 ---
 

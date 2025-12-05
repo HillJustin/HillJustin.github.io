@@ -7,7 +7,8 @@ podcast:
   file: HTA4PlatoRepublicDialectic2.mp3
   recording_date: 2025-09-23
 course:
-  - 1301
+  - "1301"
+"1301": 5.2
 key: plato-republic-hillj-annotations
 ---
 

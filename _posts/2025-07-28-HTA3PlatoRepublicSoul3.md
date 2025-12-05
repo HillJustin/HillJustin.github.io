@@ -7,8 +7,10 @@ podcast:
   file: HTA3PlatoRepublicSoul3.mp3
   recording_date: 2025-07-28
 course:
-  - 1301
-  - 2306
+  - "1301"
+  - "2306"
+"1301": 4.8
+"2306":
 key: plato-republic-hillj-annotations
 ---
 

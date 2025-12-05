@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PHIL 2305: Contemporary Ethical Issues"
-course: 2305
+course: "2305"
 ---
 
 # {{ page.title }}

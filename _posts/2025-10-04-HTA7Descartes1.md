@@ -7,7 +7,8 @@ podcast:
   file: HTA7Descartes1.mp3
   recording_date: 2025-10-04
 course:
-  - 1301
+  - "1301"
+"1301": 6.1
 key: descartes-meditations-on-first-philosophy-hillj-annotations
 ---
 
