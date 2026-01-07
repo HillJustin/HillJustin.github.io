@@ -1,16 +1,16 @@
 <ul>
-  {% capture dynamic_key %}{{ page.course }}{% endcapture %}
+  {% capture dynamic_course_order %}{{ page.course }}{% endcapture %}
 
   {% assign current_course_id = page.course | append: "" %}
 
   {% assign local_posts = site.posts | slice: 0, site.posts.size %}
 
-  {% assign current_course = local_posts | where_exp: "item", "item.course contains current_course_id" | sort: dynamic_key %}
+  {% assign current_course = local_posts | where_exp: "item", "item.course contains current_course_id" | sort: dynamic_course_order %}
 
     {% for post in current_course %}
-    <h3>Lesson Number: W{{ post[dynamic_key] }}</h3>
+    <h3>Lesson Number: W{{ post[dynamic_course_order] }}</h3>
         <ul>
-          <li><a href="{{ post.url }}">{{ post.dynamic_key }}{{ post.title }}</a></li>
+          <li><a href="{{ post.url }}">{{ post.dynamic_course_order }}{{ post.title }}</a></li>
         </ul>
           <br>
     {% endfor %}

@@ -20,9 +20,11 @@ This page includes courses of study and their associated instructional resources
 
 ### *Institutions of Record*
 
-* Ranger College, 2025-Present.
+* Lone Star College-Montgomery, 2026 -- Present.
 
-* Tarleton State University, 2024-Present.
+* Ranger College, 2025 -- Present.
+
+* Tarleton State University, 2024 -- Present.
 
 * University of Houston-Downtown, 2025 -- Present.
 
@@ -31,4 +33,4 @@ This page includes courses of study and their associated instructional resources
 
 ### *Audiovisual Readings*
 
-Full video lectures of key philosophical readings (e.g., audiovisual or audio-assisted readings) available [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/).
+Full video lectures of key philosophical readings (e.g., audiovisual or audio-assisted readings) available [@Holy Terrain Art on YouTube](https://www.YouTube.com/@HolyTerrainArt/){:target="_blank" rel="noreferrer noopener"}.
