@@ -6,7 +6,7 @@ title: "Service"
 # {{ page.title }}
 
 
-Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2025.pdf){:target="_blank" rel="noreferrer noopener"}.
+Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="_blank" rel="noreferrer noopener"}.
 
 <br>
 
