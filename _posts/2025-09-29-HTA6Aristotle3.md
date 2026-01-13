@@ -10,7 +10,7 @@ course:
 course:
   - "1301"
   - "2306"
-"1301": 5.8
+"1301": 5.7
 "2306":
 key: aristotle-nicomachean-ethics-hillj-annotations
 ---

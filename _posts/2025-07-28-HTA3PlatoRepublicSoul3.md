@@ -9,7 +9,7 @@ podcast:
 course:
   - "1301"
   - "2306"
-"1301": 4.8
+"1301": 4.7
 "2306":
 key: plato-republic-hillj-annotations
 ---

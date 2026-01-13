@@ -9,7 +9,7 @@ podcast:
 course:
   - "1301"
   - "2306"
-"1301": 5.7
+"1301": 5.6
 "2306":
 key: aristotle-nicomachean-ethics-hillj-annotations
 ---
