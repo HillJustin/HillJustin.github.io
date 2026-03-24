@@ -32,6 +32,8 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 
 * *Janus Unbound: Journal of Critical Studies*, 2025 - Present.
 
+* *76<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, 2026. *Seven reviews*.
+
 <br>
 
 

@@ -22,7 +22,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 
 ### *Book Reviews*
 
-* *Police Brutality: A Study of Police Culture in the US*, by Steve Martinot (Xlibris US, 2024) in *Socialism and Democracy*, Forthcoming [2026].
+* [This is an accepted original manuscript of](/assets/pdfs/hillj-police-brutality.pdf){:targgt="_blank" rel="noreferrer noopener"} a review of *Police Brutality: A Study of Police Culture in the US* by Steve Martinot (Xlibris US, 2024), in *Socialism and Democracy* (Taylor & Francis), March 23, 2026. [https://doi.org/10.1080/08854300.2026.2639185](https://doi.org/10.1080/08854300.2026.2639185){:target="_blank" rel="noreferrer nooponer"}. Dedicated to the beloved memory of my former partner, Margaret Kay-Alana Calhoun Turner, who disappeared fleeing from the Harris County Sheriff’s Office north of Houston, in Tomball, TX, and whose remains were left to be scattered by animals to destroy remaining evidence.
 
 * [*The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World*](/assets/pdfs/hillj-palestine-laboratory.pdf){:target="_blank" rel="noreferrer noopener"}, by Antony Loewenstein (New York: Verso Books, 2024) in *Janus Unbound: Journal of Critical Studies*, Vol. 4, no. 2, July 2025, 146-52. Dedicated to Margaret Kay-Alana Calhoun Turner; from the river to the sea, Kay.
 
@@ -45,17 +45,21 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 
 ### *Conference Presentations*
 
-* "Eidetic-Noetic Intuition of the *Cogito* and Qualitative Cartesian Mentalism: A Phenomenological Defense against the Cartesian Circle." *99<sup>th</sup> Meeting of the Pacific Division of the American Philosophical Association [APA]*, Workshop Session, APA, Virtual, Forthcoming [March 8, 2026]. (Refereed).
+* "Affect, Fields of Immi(a)nence, and Differential Attunement: On Massumi's *Politics of Affect*." *76<sup>th</sup> Meeting of the New Mexico-Texas [NMTX] Philosophical Society*, NMTX Philosophical Society, Texas State University, San Marcos, TX, Forthcoming [April 15-16, 2026]. (Refereed).
 
-* "Foucault on Defanged Discourse and Expressive Materialism." *123<sup>rd</sup> Meeting of the Central Division of the APA*, Poster Session, APA, Chicago, IL, Forthcoming [February 18-21, 2026]. (Refereed).
+* "Eidetic-Noetic Intuition of the *Cogito* and Qualitative Cartesian Mentalism: [A Phenomenological Defense against the Cartesian Circle]." *99<sup>th</sup> Meeting of the Pacific Division of the American Philosophical Association [APA]*, Workshop Session, APA, Virtual, Forthcoming [March 8, 2026]. (Refereed).
 
-* "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University (TSU), Stephenville, TX, April 14, 2025. (Refereed).
+* "'World'-Traveling and Aretaic Worlding in Dufrenne: On the Virtues of the World of the Aesthetic Object." *55<sup>th</sup> Annual North Texas Philosophical Association [NTPA] 2026 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, Forthcoming [March 27-28, 2026]. (Refereed).
+
+* "Foucault on Defanged Discourse and Expressive Materialism." *123<sup>rd</sup> Meeting of the Central Division of the APA*, Poster Session, APA, Chicago, IL, February 18, 2026. (Refereed).
+
+* "Building the Material Practicum of Philosophical Literacy: Modeling, Rigor, Pacing, Tone, and Transparency." *Educational Excellence Week 2025*, Center for Educational Excellence, Tarleton State University, Stephenville, TX, April 14, 2025. (Refereed).
 
 * "A Sketch of Foucault on Defanged Discourse: Auto-Anesthetizing Revelation, Prophecy, Intellection, and Intuitive Ineffability." *"Philosophy of Religion and War": 7<sup>th</sup> Annual Weatherford College [WC] Philosophy of Religion Conference*, WC, Weatherford, TX, April 12, 2025. (Refereed).
 
-* "Conviction, [Enlightenment], Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54<sup>th</sup> Annual North Texas Philosophical Association [NTPA] 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
+* "Conviction, [Enlightenment], Self-Respect, Faith, and Grace: Moral Eidetic-Noetic Intuition in Socrates, Kant, Didion, James, and Dewey." *54<sup>th</sup> Annual NTPA 2025 Conference*, NTPA, The University of Texas at Dallas, Richardson, TX, March 29, 2025. (Refereed).
 
-* "What a Body Can Do: Subject-Object Distinctions as Self-Estrangement in Horkheimer, Adorno, and Early Marx." *75<sup>th</sup> Meeting of the New Mexico-Texas [NMTX] Philosophical Society*, NMTX Philosophical Society, Houston Community College [HCC], Houston, TX, March 28, 2025. (Refereed).
+* "What a Body Can Do: Subject-Object Distinctions as Self-Estrangement in Horkheimer, Adorno, and Early Marx." *75<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, Houston Community College [HCC], Houston, TX, March 28, 2025. (Refereed).
 
 * "Self-Forgiveness, Enmeshed Being, and Wellbeing through Loving Perception." *36<sup>th</sup> Annual NAGPS [National Association of Graduate-Professional Students] National Conference: "Teaching to Transform: Empowering Students to Succeed through Ownership and Advocacy [TT:ESSOA],"* NAGPS, in partnership with Grad Student Action Network (GSAN), Online, February 25, 2023. (Organizer).
 
@@ -69,6 +73,10 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 
 
 ### *Conference Proceedings*
+
+* Moderator, Session III, Panel D. *76<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, Texas State University, San Marcos, TX, Forthcoming [April 15-16, 2026]. (Refereed).
+
+* Commentator, Joanna Lawson, "What Is a Worldview?" *76<sup>th</sup> Meeting of the NMTX Philosophical Society*, NMTX Philosophical Society, Texas State University, San Marcos, TX, Forthcoming [April 15-16, 2026]. (Refereed).
 
 * Moderator, "Temporality Otherwise." *63<sup>rd</sup> Annual Meeting of the Society for Phenomenology and Existential Philosophy [SPEP]*, SPEP, Virtual, October 25, 2025. (Invited).
 
@@ -108,3 +116,5 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 * Three pieces. Watercolor ink on Bristol vellum. *HOPE*. Capital Culture House [Madrid, Spain], [Virtual](https://www.instagram.com/p/Cbk5yWIK9DC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank" rel="noreferrer noopener"}, March 22-31, 2022. Holy Terrain moniker. [https://capitalculturehouse.org/virtual/](https://capitalculturehouse.org/virtual/){:target="_blank" rel="noreferrer noopener"}. (Refereed).
 
 * "[Mission 3:16](https://thexzbt.files.wordpress.com/2013/02/2014-3.pdf){:target="_blank" rel="noreferrer noopener"}." Cover. *The Exhibitionist*, Vol. 2, no. 3, July 2014. (Refereed).
+
+* "Paper Collage Rainbowfish in Scene." *3<sup>rd</sup> Place*. Student Art Show ~ Primary 2D, *36<sup>th</sup> Annual Art Exhibition*, City of Baytown Parks & Recreation Department, Baytown, TX, December 6, 2002.
