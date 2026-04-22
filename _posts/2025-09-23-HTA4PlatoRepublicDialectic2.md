@@ -8,7 +8,7 @@ podcast:
   recording_date: 2025-09-23
 course:
   - "1301"
-"1301": 5.2
+"1301": 5.1
 key: plato-republic-hillj-annotations
 ---
 

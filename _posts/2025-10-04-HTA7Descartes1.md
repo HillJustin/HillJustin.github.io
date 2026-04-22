@@ -8,7 +8,7 @@ podcast:
   recording_date: 2025-10-04
 course:
   - "1301"
-"1301": 6.1
+"1301": 6.0
 key: descartes-meditations-on-first-philosophy-hillj-annotations
 ---
 

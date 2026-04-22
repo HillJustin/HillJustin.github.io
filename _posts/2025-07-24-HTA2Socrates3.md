@@ -10,7 +10,7 @@ course:
   - "1301"
   - "2306"
   - "2310"
-"1301": 4.3
+"1301": 4.2
 "2306":
 "2310":
 key: plato-apology-hillj-annotations
