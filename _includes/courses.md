@@ -23,3 +23,9 @@ Click the links below to visit dedicated pages for each course. Each page compil
 * [PHIL 2310: The Meaning of Life](/teaching/phil-2310/)
 
   * PHIL 2310_ Syllabus, Forthcoming [2026].
+
+* [PHIL 4390: Special Topics in Philosophy](/teaching/phil-4390-v2026-05/)
+
+  (May 2026) *On-Site and In-Transit: A Public Parks Camping Lectureship on Indigenous, Environmental, Land-Based, and Pilgrimage Philosophies*
+
+  * PHIL 4390_ v2026-05_ Syllabus, Forthcoming [May 2026; Please see reading list nested in-page].
