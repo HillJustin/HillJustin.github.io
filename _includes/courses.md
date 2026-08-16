@@ -24,7 +24,7 @@ Click the links below to visit dedicated pages for each course. Each page compil
 
   * PHIL 2310_ Syllabus, Forthcoming [2026].
 
-* [PHIL 4390: Special Topics in Philosophy](/teaching/phil-4390-v2026-05/)
+* [PHIL 4390: Special Topics in Philosophy](/teaching/phil-4390-v2026-05&06/)
 
   *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
 

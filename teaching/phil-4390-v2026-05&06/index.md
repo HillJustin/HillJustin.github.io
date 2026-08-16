@@ -82,7 +82,7 @@ These lectures also serve as modular components of [PHIL 1304: Introduction to W
 
 24. Rattin Campground, Montana [MT]
 
-  * *Missed. Emergency Rest / Dispersed Camped in car overnight in Yellowstone National Park [sorry] to avoid driving drowsy; couldn't make it all the way on time.*
+      * *Missed. Emergency Rest / Dispersed Camped in car overnight in Yellowstone National Park [sorry] to avoid driving drowsy; couldn't make it all the way on time.*
 
 25. Beartooth Highway [Beartooth Butte and Lake], Wyoming [WY]
 
@@ -90,15 +90,14 @@ These lectures also serve as modular components of [PHIL 1304: Introduction to W
 
 27. Beartooth Highway [Doubling Back from Red Lodge to hit the Chief Joseph Scenic Byway], Montana, MT
 
-  * *Reservation in southeastern South Dakota; late. Emergency Rest / Dispersed Camped in car overlooking alpine lake in Beartooth Mountains instead.*
+      * *Reservation in southeastern South Dakota; late. Emergency Rest / Dispersed Camped in car overlooking alpine lake in Beartooth Mountains instead.*
 
 28. Beartooth Highway [Gardner Lake; 600ft elevation change each way, up-and-down, roughly 10,500ft elevation], Montana [MT]
 
 29. Chief Joseph Scenic Byway, Wyoming [WY]
 
-* *Reservation in southeastern South Dakota; late. Emergency Rest / Dispersed Camped in car near Tensleep Canyon in Bighorn National Forest.*
+      * *Reservation in southeastern South Dakota; late. Emergency Rest / Dispersed Camped in car near Tensleep Canyon in Bighorn National Forest.*
 
-30.
 
 <br>
 
