@@ -4,7 +4,7 @@ title: HTA 3.3; Plato; Republic [380 BCE]; excerpts from Books I, II, and IV
 abstract: This episode is part three of five of the lecture series [HTA 3] on Plato's Republic, excerpts from Books I, II, and IV.
 podcast:
   episode: 33
-  file: HTA3PlatoRepublicSoul3.mp3
+  file: HTA3PlatoRepublicSoul3.m4a
   recording_date: 2025-07-28
 course:
   - "1301"

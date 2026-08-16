@@ -49,15 +49,6 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-       # Manually create a high-compression archive to save extraction time
-      - name: Maximize Compression for Pages
-        run: |
-          tar \
-            --dereference --hard-dereference \
-            --directory "_site" \
-            -cvf artifact.tar .
-          gzip --best artifact.tar
-
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3.0.1

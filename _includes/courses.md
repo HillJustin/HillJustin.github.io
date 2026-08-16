@@ -26,6 +26,6 @@ Click the links below to visit dedicated pages for each course. Each page compil
 
 * [PHIL 4390: Special Topics in Philosophy](/teaching/phil-4390-v2026-05/)
 
-  (May 2026) *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
+  *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
 
   * PHIL 4390_ v2026-05&06_ Syllabus, Forthcoming [May - June 2026; Please see reading list nested in-page].

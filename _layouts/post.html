@@ -20,4 +20,34 @@ layout: default
 
 
   <audio controls preload="metadata" src="/assets/episodes/{{ page.podcast.file }}"></audio>
+
+  <!-- The actual audio player (always visible to modern browsers) -->
+  <audio id="dynamic-player" controls preload="metadata"></audio>
+
+  <!-- A notice that only shows up if the visitor is NOT using Tor -->
+  <div id="tor-warning" style="display: none; background: #fff3cd; color: #856404; padding: 10px; margin-top: 10px; border: 1px solid #ffeeba; border-radius: 4px;">
+    ⚠️ <strong>Notice:</strong> This audio is hosted on our secure home network. If the audio fails to load or your local internet is censored, please open this site in the <a href="https://torproject.org" target="_blank" style="color: #533f03; font-weight: bold; text-decoration: underline;">Tor Browser</a> to stream it directly.
+  </div>
+
+  <script>
+    const audioFile = "{{ page.podcast.file }}";
+    const publicServer = "{{ site.public_audio_server }}";
+    const torServer = "{{ site.tor_audio_server }}";
+
+    const player = document.getElementById('dynamic-player');
+    const source = document.createElement('source');
+    source.type = 'audio/mpeg';
+
+    if (window.location.hostname.includes('.onion') || window.location.hostname.includes('.pet')) {
+      source.src = torServer + '/' + audioFile;
+    } else {
+      source.src = publicServer + '/' + audioFile;
+      // Show the warning banner on the regular web so they know Tor is an option
+      document.getElementById('tor-warning').style.display = 'block';
+    }
+
+    player.appendChild(source);
+    player.load(); // Forces the browser to load the new path
+  </script>
+
 </div>
