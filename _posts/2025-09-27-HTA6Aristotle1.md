@@ -4,7 +4,7 @@ title: HTA 6.1; Aristotle; Nicomachean Ethics [350 BCE]; excerpts from Books I, 
 abstract: This episode is part one of four of the lecture series [HTA 6] on Aristotle's Nicomachean Ethics, excerpts from Books I, II, and VIII.
 podcast:
   episode: 61
-  file: HTA6Aristotle1.m4a
+  file: HTA6Aristotle1.mp3
   recording_date: 2025-09-27
 course:
   - "1301"
