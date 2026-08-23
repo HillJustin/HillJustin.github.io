@@ -10,7 +10,7 @@ course:
   - "1304"
   - "2305"
   - "4390v1"
-"1304": 13.2
+"1304": 13.3
 "2305": 2.7
 "4390v1": 2.7
 key: cordova-how-it-is-windows-hillj-annotations
