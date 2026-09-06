@@ -13,7 +13,7 @@ course:
 "1304": 12.5
 "2305": 1.5
 "4390v1": 1.5
-key: cordova-how-it-is-bridges-hillj-annotations
+key: cordova-how-it-is
 ---
 
 ## Abstract

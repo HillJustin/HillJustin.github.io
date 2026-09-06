@@ -14,7 +14,7 @@ Click the links below to visit dedicated pages for each course. Each page compil
 
 * [PHIL 2305: Contemporary Ethical Issues](/teaching/phil-2305/)
 
-  * PHIL 2305_ Syllabus, Forthcoming [2026].
+  * [PHIL 2305_ Syllabus](/assets/pdfs/hillj-phil-2305-syllabus.pdf){:target="_blank" rel="noreferrer noopener"}
 
 * [PHIL 2306: Introduction to Ethics](/teaching/phil-2306/)
 
@@ -28,4 +28,4 @@ Click the links below to visit dedicated pages for each course. Each page compil
 
   *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
 
-  * PHIL 4390_ v2026-05&06_ Syllabus, Forthcoming [May - June 2026; Please see reading list nested in-page].
+  * PHIL 4390_ v2026-05&06_ Syllabus, see reading list nested in-page linked above.
