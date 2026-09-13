@@ -11,8 +11,8 @@ course:
   - "2305"
   - "4390v1"
 "1304": 12.5
-"2305": 1.5
-"4390v1": 1.5
+"2305": 1.7
+"4390v1": 1.7
 key: cordova-how-it-is
 youtube_id: ZJpxj7IMs_M
 ---
