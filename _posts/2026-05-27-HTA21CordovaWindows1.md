@@ -14,6 +14,7 @@ course:
 "2305": 2.5
 "4390v1": 2.5
 key: cordova-how-it-is
+youtube_id: x1666zgl9Vs
 ---
 
 ## Abstract
@@ -37,3 +38,10 @@ key: cordova-how-it-is
 * What do windows represent for Cordova?
 
 * How do our language, stories, assumptions, and cultural practices determine how we understand the world?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

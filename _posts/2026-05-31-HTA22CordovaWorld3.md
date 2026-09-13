@@ -14,6 +14,7 @@ course:
 "2305": 3.2
 "4390v1": 3.2
 key: cordova-how-it-is
+youtube_id: uqk59LaJR8A
 ---
 
 ## Abstract
@@ -47,3 +48,10 @@ key: cordova-how-it-is
 * What is real?
 
 * Are there many realities or only one?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

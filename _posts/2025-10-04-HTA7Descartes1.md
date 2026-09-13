@@ -10,6 +10,7 @@ course:
   - "1301"
 "1301": 6.0
 key: descartes-meditations-on-first-philosophy-hillj-annotations
+youtube_id: tUTqyegjAZg
 ---
 
 ## Abstract
@@ -39,3 +40,10 @@ key: descartes-meditations-on-first-philosophy-hillj-annotations
 * What are the three reasons for skepticism of all inherited belief?
 
 * How is the Evil Deceiver a rhetorical device without argumentative work?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

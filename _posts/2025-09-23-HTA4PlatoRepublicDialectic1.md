@@ -10,6 +10,7 @@ course:
   - "1301"
 "1301": 5.0
 key: plato-republic-hillj-annotations
+youtube_id: h1eqk70sDXI
 ---
 
 ## Abstract
@@ -35,3 +36,10 @@ key: plato-republic-hillj-annotations
 * Is the visible or the intelligible realm of being clearer to the mind? (Book VI; pp. 1130-32)
 
 * How is the instrument [organ] of learning revealed through the Allegory of the Cave? (Book VII; pp. 1132-55)
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

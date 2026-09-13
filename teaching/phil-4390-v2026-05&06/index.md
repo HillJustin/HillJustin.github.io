@@ -8,12 +8,6 @@ course: "4390v1"
 
 These lectures also serve as modular components of [PHIL 1304: Introduction to World Religions](/teaching/phil-1304/){:target="_blank" rel="noreferrer noopener"}, [PHIL 2305: Contemporary Ethical Issues](/teaching/phil-2305/){:target="_blank" rel="noreferrer noopener"}, and [PHIL 2306: Introduction to Ethics](/teaching/phil-2306/){:target="_blank" rel="noreferrer noopener"}. However, even though each piece of the curriculum also fits into other course designs, the entire lectureship recorded together over the course of a single month on-site and in-transit also forms its own standalone curriculum in a "PHIL 4390: Special Topics in Philosophy" design.
 
-## Syllabus
-
-* PHIL 4390: Special Topics in Philosophy, Forthcoming [May - June 2026].
-
-  *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
-
 <br>
 
 
@@ -25,7 +19,9 @@ These lectures also serve as modular components of [PHIL 1304: Introduction to W
 
 * bell hooks, *Belonging: A Culture of Place* (New York/London: Routledge of Taylor & Francis Group, 2019 [2009]).
 
-* María Lugones, *Pilgrimages / Peregrinajes: Theorizing Coalition against Multiple Oppressions*, (Laham/New York/Boulder/Oxford: Rowman and Littlefield Publishers, Inc., 2003).
+* María Lugones, *Pilgrimages / Peregrinajes: Theorizing Coalition against Multiple Oppressions* (Laham/New York/Boulder/Oxford: Rowman and Littlefield Publishers, Inc., 2003).
+
+* Tim Ingold, *Lines: A Brief History* (London/New York: Routledge Classics, 2016 [2007]).
 
 * Megan Craig and Edward S. Casey, *Thinking in Transit: Explorations of Life in Motion* (New York: Columbia University Press, 2025).
 
@@ -97,6 +93,7 @@ These lectures also serve as modular components of [PHIL 1304: Introduction to W
 
   * Teton Canyon, Wyoming [WY]
 
+    * *Teton Canyon is on the west side of the Grand Teton Mountain Range, whereas the National Park is in Jackson Hole which is the valley beneath the eastern slopes of the Grand Teton Mountain Range. Teton Canyon is accessed by heading into Idaho a ways south of the National Park and by cutting back into Wyoming from the Idaho access roads.*
 
 #### 2026.06.07-13___
 
@@ -162,6 +159,8 @@ These lectures also serve as modular components of [PHIL 1304: Introduction to W
   * Wind Cave National Park, South Dakota [SD]
 
     * *Natural Entrance Tour with my service animal Winchester, recorded via GoPro head-strap.*
+
+  * Mammoth Site, South Dakota [SD]
 
 
 #### 2026.06.23-24___

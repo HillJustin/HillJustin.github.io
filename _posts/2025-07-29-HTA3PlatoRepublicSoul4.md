@@ -12,6 +12,7 @@ course:
 "1301": 4.8
 "2306":
 key: plato-republic-hillj-annotations
+youtube_id: maUy3i1REUs
 ---
 
 ## Abstract
@@ -39,3 +40,10 @@ key: plato-republic-hillj-annotations
 * Would someone be happy with the Ring of Gyges? (Book II; pp. 998-1002)
 
 * How does the tripartite soul relate to the just city? (Book IV; pp. 1059-77)
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

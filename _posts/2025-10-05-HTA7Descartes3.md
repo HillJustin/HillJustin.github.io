@@ -10,6 +10,7 @@ course:
   - "1301"
 "1301": 6.5
 key: descartes-meditations-on-first-philosophy-hillj-annotations
+youtube_id: 600Dq4i_-2c
 ---
 
 ## Abstract
@@ -47,3 +48,10 @@ relation between henosis, the natural light, and clarity and distinctness? Do we
 resolve the Cartesian Circle differently if understanding is partaking of God?
 
 * How is rationalism different from empiricism?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

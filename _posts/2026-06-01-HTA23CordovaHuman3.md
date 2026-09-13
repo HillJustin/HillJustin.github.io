@@ -14,6 +14,7 @@ course:
 "2305": 3.7
 "4390v1": 3.7
 key: cordova-how-it-is
+youtube_id: 6SWtwKnrehE
 ---
 
 ## Abstract
@@ -39,3 +40,10 @@ key: cordova-how-it-is
 * How does the human integrate in a complex, interconnecting world?
 
 * How might people reclaim the power to define themselves and thus regain the right to shape their own lives?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

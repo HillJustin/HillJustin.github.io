@@ -12,6 +12,7 @@ course:
 "1301": 5.6
 "2306":
 key: aristotle-nicomachean-ethics-hillj-annotations
+youtube_id: 5BRLlxL5XCQ
 ---
 
 ## Abstract
@@ -42,3 +43,10 @@ key: aristotle-nicomachean-ethics-hillj-annotations
 
 * Why must reason be enacted, and how does this enacted reason relate to a
 diversity of pleasures unique to each activity, pleasant in the doing itself?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

@@ -28,4 +28,4 @@ Click the links below to visit dedicated pages for each course. Each page compil
 
   *Wild Horses in My Head: Indigenous, Environmental, Rural, Place-Based, Pilgrimage, and Transit Philosophies*
 
-  * PHIL 4390_ v2026-05&06_ Syllabus, see reading list nested in-page linked above.
+  * PHIL 4390_ v2026-05&06_ Syllabus, see reading list nested in-page, linked above.

@@ -10,6 +10,7 @@ course:
   - "1301"
 "1301": 6.1
 key: descartes-meditations-on-first-philosophy-hillj-annotations
+youtube_id: A8HQxx-zztU
 ---
 
 ## Abstract
@@ -45,3 +46,10 @@ world we believe is external to us? In other words, are our worlds truly externa
 
 * Are there any experiences which do not count as thinking or mental activity
 [in the Second Meditation]? Can we access non-thinking reality, non-thought?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}

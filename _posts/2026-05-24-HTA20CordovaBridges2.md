@@ -14,6 +14,7 @@ course:
 "2305": 1.6
 "4390v1": 1.6
 key: cordova-how-it-is
+youtube_id: z84kH_s040k
 ---
 
 ## Abstract
@@ -47,3 +48,10 @@ key: cordova-how-it-is
 * What is the significance of one's identity for one's survival strategies?
 
 * How are bridges a matter of adaptations and transformations?
+
+<br>
+
+
+## YouTube Lecture
+
+{% include youtube_url_page.html %}
