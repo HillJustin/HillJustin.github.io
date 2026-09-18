@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 23.3; Cordova; How It Is [2007]; IV. What is the Human?
+title: HTA 23.3; Cordova; How It Is [2007]; IV. What is the Human?; Part Three
 abstract: This episode is part three of four of the lecture series [HTA 23] on Section Four, "IV. What is the Human?," of Viola Faye Cordova's How It Is_ The Native American Philosophy of V. F. Cordova [2007].
 podcast:
   episode: 233

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 21.1; Cordova; How It Is [2007]; II. Windows
+title: HTA 21.1; Cordova; How It Is [2007]; II. Windows; Part One
 abstract: This episode is part one of three of the lecture series [HTA 21] on Section Two, "II. Windows," of Viola Faye Cordova's How It Is_ The Native American Philosophy of V. F. Cordova [2007].
 podcast:
   episode: 211
