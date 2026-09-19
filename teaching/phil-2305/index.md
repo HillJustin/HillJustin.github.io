@@ -8,7 +8,9 @@ course: "2305"
 
 ## Syllabus
 
-* [PHIL 2305: Contemporary Ethical Issues](/assets/pdfs/hillj-phil-2305-syllabus.pdf)
+* [PHIL 2305: Contemporary Ethical Issues](/assets/pdfs/hillj-phil-2305-syllabus.pdf){:target="_blank" rel="noreferrer noopener"}
+
+    * [PHIL 2305_ Guiding Questions.pdf](/assets/pdfs/hillj-phil-2305-guiding-questions.pdf){:target="_blank" rel="noreferrer noopener"}
 
 <br>
 

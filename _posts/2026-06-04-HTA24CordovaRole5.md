@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 24.5; Cordova; How It Is [2007]; V. What is the Role of the Human in the World?; Part Four
+title: HTA 24.5; Cordova; How It Is [2007]; V. What is the Role of the Human in the World?; Part Five
 abstract: This episode is part five of five of the lecture series [HTA 24] on Section Five, "V. What is the Role of the Human in the World?," of Viola Faye Cordova's How It Is_ The Native American Philosophy of V. F. Cordova [2007].
 podcast:
   episode: 245
@@ -35,11 +35,17 @@ youtube_id: LYW334uxRv0
 
 ## Guiding Questions
 
-* What is the human?
+* What is the role of the human in the world?
 
-* How does the human integrate in a complex, interconnecting world?
+* How do the places of birth and of upbringing inform as well as determine how we ought to act in relation to those places as well as in relation to others who live and who will live and who have lived in those/these places?
 
-* How might people reclaim the power to define themselves and thus regain the right to shape their own lives?
+* How, then, shall we live?
+
+* How is it, this beautiful, mysterious, powerful and vulnerable world?
+
+* Who am I in this world?
+
+* How shall I then live?
 
 <br>
 
