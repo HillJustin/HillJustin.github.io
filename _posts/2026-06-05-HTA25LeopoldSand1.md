@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 25.1; Leopold, A Sand County Almanac [1948]; I: A Sand County Almanac; Part One_ January
+title: HTA 25.1; Leopold, A Sand County Almanac [1948]; Part I_ A Sand County Almanac; Part One_ January
 abstract: This episode is part one of five [e.g., January] of the lecture series [HTA 25] on "Part I_ A Sand County Almanac," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
 podcast:
   episode: 251
