@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 25.4; Leopold, A Sand County Almanac [1948]; Part I_ A Sand County Almanac; Part Four_ July, August, and September
-abstract: This episode is part four of five [e.g., July, August, and September] of the lecture series [HTA 25] on "Part I_ A Sand County Almanac," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
+abstract: This episode is part four of six [e.g., July, August, and September] of the lecture series [HTA 25] on "Part I_ A Sand County Almanac," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
 podcast:
   episode: 254
   file: HTA25LeopoldSand4.mp3
