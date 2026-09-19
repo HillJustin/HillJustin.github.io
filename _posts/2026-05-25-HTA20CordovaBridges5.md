@@ -4,7 +4,7 @@ title: HTA 20.5; Cordova; How It Is [2007]; I. Bridges; Part Five
 abstract: This episode is part five of five of the lecture series [HTA 20] on Section One, "I. Bridges," of Viola Faye Cordova's How It Is_ The Native American Philosophy of V. F. Cordova [2007].
 podcast:
   episode: 205
-  file: HTA20CordovaBridges5.m4a
+  file: HTA20CordovaBridges5.mp3
   recording_date: 2026-05-25
 course:
   - "1304"

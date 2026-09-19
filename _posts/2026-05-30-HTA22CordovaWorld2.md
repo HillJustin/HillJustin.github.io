@@ -4,7 +4,7 @@ title: HTA 22.2; Cordova; How It Is [2007]; III. What is the World?; Part Two
 abstract: This episode is part two of four of the lecture series [HTA 22] on Section Three, "III. What is the World?," of Viola Faye Cordova's How It Is_ The Native American Philosophy of V. F. Cordova [2007].
 podcast:
   episode: 222
-  file: HTA22CordovaWorld2.m4a
+  file: HTA22CordovaWorld2.mp3
   recording_date: 2026-05-30
 course:
   - "1304"
