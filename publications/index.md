@@ -13,6 +13,13 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 
 ### *Articles*
 
+* *The Valor of Mortality*. [Local file self-published and hosted here as a "zine." This work is dedicated to Kay-Alana, and I am gracious to Susannah in 2024 for stabilizing me after Kay's remains were found and to aL in 2026 for encouraging me to self-publish. Let's eat!](/assets/pdfs/hillj-2024-07-the-valor-of-mortality.pdf){:target="_blank" rel="noreferrer noopener"}. (Self-published).
+
+<br>
+
+
+### *Articles*
+
 * "Absorption, Contemplation, and Affection: Benjamin, Adorno, and Spinoza on Critical Aesthetics." *Dialogue: Journal of Phi Sigma Tau*, Vol. 62, no. 1, October 2019, 58-64. [https://philpapers.org/archive/HILACA-6.pdf](https://philpapers.org/archive/HILACA-6.pdf){:target="_blank" rel="noreferrer noopener"}. (Refereed).
 
 * "the purpose of Purpose." *The Exhibitionist*, Vol 2, no. 1, January 2014, 9-12. [https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf](https://thexzbt.files.wordpress.com/2013/02/2014-1.pdf){:target="_blank" rel="noreferrer noopener"}. (Refereed).

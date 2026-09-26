@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTA 26.3; Leopold, A Sand County Almanac [1948]; Part I_ A Sand County Almanac; Part Three
+title: HTA 26.3; Leopold, A Sand County Almanac [1948]; Part II_ Sketches Here and There; Part Three
 abstract: This episode is part three of four of the lecture series [HTA 26] on "Part II_ Sketches Here and There," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
 podcast:
   episode: 263
