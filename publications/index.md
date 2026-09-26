@@ -11,7 +11,7 @@ Full curriculum vitae available [here](/assets/pdfs/hillj-cv-2026.pdf){:target="
 <br>
 
 
-### *Articles*
+### *Zines: Poetry and Otherwise*
 
 * *The Valor of Mortality*. [Local file self-published and hosted here as a "zine." This work is dedicated to Kay-Alana, and I am gracious to Susannah in 2024 for stabilizing me after Kay's remains were found and to aL in 2026 for encouraging me to self-publish. Let's eat!](/assets/pdfs/hillj-2024-07-the-valor-of-mortality.pdf){:target="_blank" rel="noreferrer noopener"}. (Self-published).
 
