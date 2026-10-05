@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 27.1; Leopold, A Sand County Almanac [1948]; Part III_ The Upshot; Part One
-abstract: This episode is part one of four of the lecture series [HTA 27] on "Part III_ The Upshot," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
+abstract: This episode is part one of five of the lecture series [HTA 27] on "Part III_ The Upshot," of Aldo Leopold's A Sand County Almanac_ And Sketches Here and There, illustrated by Charles W. Schwartz [1948].
 podcast:
   episode: 271
   file: HTA27LeopoldUpshot1.mp3
@@ -9,8 +9,8 @@ podcast:
 course:
   - "2305"
   - "4390v1"
-"2305": 7.1
-"4390v1": 7.1
+"2305": 7.0
+"4390v1": 7.0
 key: leopold-a-sand-county-almanac
 youtube_id: GDUIQ0eB8DQ
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTA 19.2; PHIL 4390_ Wild Horses In My Head / Fire Horse Stories [Bear-Camping Philosophy]; Launch
-abstract: This episode is part two of two of the lecture series [HTA 19] launching a five-week bear-camping philosophy lectureship.
+title: HTA 19.2; PHIL 4390_ Wild Horses In My Head / Fire Horse Stories [Bear-Camping Philosophy]; Launch_ Part Two
+abstract: This episode is part two of four of the lecture series [HTA 19] launching a five-week bear-camping philosophy lectureship.
 podcast:
   episode: 192
   file: HTA19FireHorseStories2.mp3
