@@ -9,8 +9,8 @@ podcast:
 course:
   - "2305"
   - "4390v1"
-"2305": 7.1
-"4390v1": 7.1
+"2305": 7.2
+"4390v1": 7.2
 key: leopold-a-sand-county-almanac
 youtube_id: nMXlJERsJPw
 ---
