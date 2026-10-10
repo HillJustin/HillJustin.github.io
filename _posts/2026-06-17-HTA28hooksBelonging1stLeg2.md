@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 28.2; hooks, Belonging [2009]; First Leg_ Ch. 1-7; Part Two
-abstract: This episode is part two of seven of the lecture series [HTA 28] on the 'first leg' of bell hook's Belonging_ A Culture of Place [2009].
+abstract: This episode is part two of six of the lecture series [HTA 28] on the 'first leg' of bell hooks's Belonging_ A Culture of Place [2009].
 podcast:
   episode: 282
   file: HTA28hooksBelonging1stLeg2.mp3
