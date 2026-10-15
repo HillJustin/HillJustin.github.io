@@ -12,6 +12,8 @@ course: "1301"
 
     * [PHIL 1301_ Guiding Questions.pdf](/assets/pdfs/hillj-phil-1301-guiding-questions.pdf){:target="_blank" rel="noreferrer noopener"}
 
+    * [PHIL 1301_ Esthetics Posters_ Rubric.pdf](/assets/pdfs/hillj-phil-1301-esthetics-posters-rubric.pdf){:target="_blank" rel="noreferrer noopener"}
+
 <br>
 
 
