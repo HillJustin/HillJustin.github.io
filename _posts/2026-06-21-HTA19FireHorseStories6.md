@@ -5,7 +5,7 @@ abstract: This episode is part six of six of the lecture series [HTA 19] launchi
 podcast:
   episode: 196
   file: HTA19FireHorseStories6.mp3
-  recording_date: 2026-06-20
+  recording_date: 2026-06-21
 course:
   - "2305"
   - "4390v1"
