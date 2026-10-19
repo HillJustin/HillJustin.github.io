@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 19.5; PHIL 4390_ Wild Horses In My Head / Fire Horse Stories [Bear-Camping Philosophy]; Third Intermission
-abstract: This episode is part five of six of the lecture series [HTA 19] launching a five-week bear-camping philosophy lectureship.
+abstract: This episode is part five of nine of the lecture series [HTA 19] launching a five-week bear-camping philosophy lectureship.
 podcast:
   episode: 195
   file: HTA19FireHorseStories5.mp3
