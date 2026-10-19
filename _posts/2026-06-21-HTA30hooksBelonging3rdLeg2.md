@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 30.2; hooks, Belonging [2009]; Third Leg_ Ch. 18-21; Part Two
-abstract: This episode is part two of four of the lecture series [HTA 30] on the 'third leg' of bell hooks's Belonging_ A Culture of Place [2009].
+abstract: This episode is part two of three of the lecture series [HTA 30] on the 'third leg' of bell hooks's Belonging_ A Culture of Place [2009].
 podcast:
   episode: 302
   file: HTA30hooksBelonging3rdLeg2.mp3
