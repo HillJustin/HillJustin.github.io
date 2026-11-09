@@ -3,8 +3,13 @@ layout: default
 title: Dissertation Proposal
 ---
 
+# {{ page.title }}
+
+
 *A Community of Translators and the Politics of Multimedia Translation: On Material Language, Affective Historicities, Embodied Worlds, Seeing Domination, Differends, and Aesthetic Semiotics*
 
+
+<br>
 
 My work aligns translation, language, perception, seeing domination, seeing resistance, and levels or orders of political behavioral praxis. I accomplish this through a necessarily wide set of seven robust thinkers: Walter Benjamin, Julia Kristeva, María Lugones, Baruch Spinoza, Jean-Francois Lyotard, John Dewey, and Mikkel Dufrenne. Fundamentally, I am concerned with two processes: the movement from proto-linguistic epistemically justified perceptions and thoughts to formal language and sentential propositions, though not admitting their reducibility to formal logical systems (in the vein of Merleau-Ponty, where perception is the fundamental first philosophy and the always already ongoing basis of the intentionality structure); and secondarily, how a far more nuanced version of justified perceptions and statement-behaviors allows for political resistance. Necessarily, my approach prioritizes difference and autonomy while desubjectivating freedom from the neoliberal agent-subject, an *I*, to the *we*, a multiplicity of mobile subject-positions. Spinozan causation gives us further grounding to reconsider personhood as being constituted as aspectually entangled with environments and with vast fields of non-linear, zonal event-affections.
 
