@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 #ruby version
-ruby "~> 3.4.0"
+ruby "~> 3.4.12"
 
 gem "jekyll", "~> 4.4.1"
 
@@ -40,7 +40,7 @@ end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
-platforms :mingw, :x64_mingw, :mswin, :jruby do
+platforms :mingw, :x64_mingw, :mswin, :jruby, :x86_64_linux do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
 end
