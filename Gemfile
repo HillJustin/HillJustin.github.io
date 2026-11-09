@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 #ruby version
-ruby "~> 3.4.12"
+ruby "~> 3.4.0"
 
 gem "jekyll", "~> 4.4.1"
 
