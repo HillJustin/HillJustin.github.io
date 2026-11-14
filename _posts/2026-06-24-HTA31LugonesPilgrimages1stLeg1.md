@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 31.1; Lugones, Pilgrimages / Peregrinajes [2003]; First Leg; Part One
-abstract: This episode is part one of five of the lecture series [HTA 31] on the 'first leg' of María Lugones's Pilgrimages / Peregrinajes_ Theorizing Coalition against Multiple Oppressions [2003].
+abstract: This episode is part one of four of the lecture series [HTA 31] on the 'first leg' of María Lugones's Pilgrimages / Peregrinajes_ Theorizing Coalition against Multiple Oppressions [2003].
 podcast:
   episode: 311
   file: HTA31LugonesPilgrimages1stLeg1.mp3
