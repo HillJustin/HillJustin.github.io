@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HTA 32.2; Lugones, Pilgrimages / Peregrinajes [2003]; Second Leg; Part Two
-abstract: This episode is part two of three of the lecture series [HTA 31] on the 'second leg' of María Lugones's Pilgrimages / Peregrinajes_ Theorizing Coalition against Multiple Oppressions [2003].
+abstract: This episode is part two of three of the lecture series [HTA 32] on the 'second leg' of María Lugones's Pilgrimages / Peregrinajes_ Theorizing Coalition against Multiple Oppressions [2003].
 podcast:
   episode: 322
   file: HTA32LugonesPilgrimages2ndLeg2.mp3
